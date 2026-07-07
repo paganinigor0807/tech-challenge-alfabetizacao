@@ -1,0 +1,5571 @@
+municipio_id,Municipio,Capital,UF
+1100809,Candeias do Jamari,Falso,RO
+1100338,Nova Mamoré,Falso,RO
+1100205,Porto Velho,Verdadeiro,RO
+1101104,Itapuã do Oeste,Falso,RO
+1100940,Cujubim,Falso,RO
+1100452,Buritis,Falso,RO
+1100700,Campo Novo de Rondônia,Falso,RO
+1100106,Guajará-Mirim,Falso,RO
+1101492,São Francisco do Guaporé,Falso,RO
+1100080,Costa Marques,Falso,RO
+1101401,Monte Negro,Falso,RO
+1100262,Rio Crespo,Falso,RO
+1100403,Alto Paraíso,Falso,RO
+1100601,Cacaulândia,Falso,RO
+1100023,Ariquemes,Falso,RO
+1101757,Vale do Anari,Falso,RO
+1100130,Machadinho D'Oeste,Falso,RO
+1101005,Governador Jorge Teixeira,Falso,RO
+1101609,Theobroma,Falso,RO
+1100114,Jaru,Falso,RO
+1101435,Nova União,Falso,RO
+1100122,Ji-Paraná,Falso,RO
+1101559,Teixeirópolis,Falso,RO
+1101807,Vale do Paraíso,Falso,RO
+1101708,Urupá,Falso,RO
+1101302,Mirante da Serra,Falso,RO
+1100254,Presidente Médici,Falso,RO
+1100155,Ouro Preto do Oeste,Falso,RO
+1100320,São Miguel do Guaporé,Falso,RO
+1101500,Seringueiras,Falso,RO
+1100346,Alvorada D'Oeste,Falso,RO
+1100148,Nova Brasilândia D'Oeste,Falso,RO
+1100502,Novo Horizonte do Oeste,Falso,RO
+1100379,Alto Alegre dos Parecis,Falso,RO
+1100296,Santa Luzia D'Oeste,Falso,RO
+1100908,Castanheiras,Falso,RO
+1100015,Alta Floresta D'Oeste,Falso,RO
+1100049,Cacoal,Falso,RO
+1100098,Espigão D'Oeste,Falso,RO
+1100288,Rolim de Moura,Falso,RO
+1101203,Ministro Andreazza,Falso,RO
+1101484,São Felipe D'Oeste,Falso,RO
+1100189,Pimenta Bueno,Falso,RO
+1101476,Primavera de Rondônia,Falso,RO
+1101450,Parecis,Falso,RO
+1100924,Chupinguaia,Falso,RO
+1100304,Vilhena,Falso,RO
+1100064,Colorado do Oeste,Falso,RO
+1100031,Cabixi,Falso,RO
+1100056,Cerejeiras,Falso,RO
+1100072,Corumbiara,Falso,RO
+1101468,Pimenteiras do Oeste,Falso,RO
+1200336,Mâncio Lima,Falso,RO
+1200203,Cruzeiro do Sul,Falso,AC
+1200393,Porto Walter,Falso,AC
+1200427,Rodrigues Alves,Falso,AC
+1200351,Marechal Thaumaturgo,Falso,AC
+1200609,Tarauacá,Falso,AC
+1200328,Jordão,Falso,AC
+1200302,Feijó,Falso,AC
+1200500,Sena Madureira,Falso,AC
+1200435,Santa Rosa do Purus,Falso,AC
+1200344,Manoel Urbano,Falso,AC
+1200401,Rio Branco,Verdadeiro,AC
+1200450,Senador Guiomard,Falso,AC
+1200385,Plácido de Castro,Falso,AC
+1200179,Capixaba,Falso,AC
+1200138,Bujari,Falso,AC
+1200807,Porto Acre,Falso,AC
+1200013,Acrelândia,Falso,AC
+1200252,Epitaciolândia,Falso,AC
+1200708,Xapuri,Falso,AC
+1200054,Assis Brasil,Falso,AC
+1200104,Brasiléia,Falso,AC
+1300409,Barcelos,Falso,AC
+1303601,Santa Isabel do Rio Negro,Falso,AM
+1303809,São Gabriel da Cachoeira,Falso,AM
+1303205,Novo Airão,Falso,AM
+1302801,Maraã,Falso,AM
+1302108,Japurá,Falso,AM
+1301605,Fonte Boa,Falso,AM
+1302306,Jutaí,Falso,AM
+1303908,São Paulo de Olivença,Falso,AM
+1300607,Benjamin Constant,Falso,AM
+1304237,Tonantins,Falso,AM
+1300201,Atalaia do Norte,Falso,AM
+1304062,Tabatinga,Falso,AM
+1300060,Amaturá,Falso,AM
+1303700,Santo Antônio do Içá,Falso,AM
+1301001,Carauari,Falso,AM
+1302207,Juruá,Falso,AM
+1301803,Ipixuna,Falso,AM
+1301407,Eirunepé,Falso,AM
+1301506,Envira,Falso,AM
+1301951,Itamarati,Falso,AM
+1301654,Guajará,Falso,AM
+1304203,Tefé,Falso,AM
+1300029,Alvarães,Falso,AM
+1304260,Uarini,Falso,AM
+1300102,Anori,Falso,AM
+1301308,Codajás,Falso,AM
+1300631,Beruri,Falso,AM
+1301209,Coari,Falso,AM
+1300086,Anamã,Falso,AM
+1300839,Caapiranga,Falso,AM
+1302553,Manaquiri,Falso,AM
+1300300,Autazes,Falso,AM
+1301852,Iranduba,Falso,AM
+1302603,Manaus,Verdadeiro,AM
+1301159,Careiro da Várzea,Falso,AM
+1301100,Careiro,Falso,AM
+1302504,Manacapuru,Falso,AM
+1303536,Presidente Figueiredo,Falso,AM
+1303569,Rio Preto da Eva,Falso,AM
+1303106,Nova Olinda do Norte,Falso,AM
+1304005,Silves,Falso,AM
+1304401,Urucurituba,Falso,AM
+1301902,Itacoatiara,Falso,AM
+1302009,Itapiranga,Falso,AM
+1300508,Barreirinha,Falso,AM
+1302900,Maués,Falso,AM
+1303007,Nhamundá,Falso,AM
+1300680,Boa Vista do Ramos,Falso,AM
+1303403,Parintins,Falso,AM
+1304302,Urucará,Falso,AM
+1303957,São Sebastião do Uatumã,Falso,AM
+1303502,Pauini,Falso,AM
+1300706,Boca do Acre,Falso,AM
+1300904,Canutama,Falso,AM
+1302405,Lábrea,Falso,AM
+1304104,Tapauá,Falso,AM
+1300805,Borba,Falso,AM
+1300144,Apuí,Falso,AM
+1301704,Humaitá,Falso,AM
+1303304,Novo Aripuanã,Falso,AM
+1302702,Manicoré,Falso,AM
+1400100,Boa Vista,Verdadeiro,AM
+1400050,Alto Alegre,Falso,RR
+1400456,Pacaraima,Falso,RR
+1400027,Amajari,Falso,RR
+1400175,Cantá,Falso,RR
+1400159,Bonfim,Falso,RR
+1400407,Normandia,Falso,RR
+1400704,Uiramutã,Falso,RR
+1400308,Mucajaí,Falso,RR
+1400209,Caracaraí,Falso,RR
+1400282,Iracema,Falso,RR
+1400506,São João da Baliza,Falso,RR
+1400605,São Luiz,Falso,RR
+1400233,Caroebe,Falso,RR
+1400472,Rorainópolis,Falso,RR
+1505106,Óbidos,Falso,RR
+1507979,Terra Santa,Falso,PA
+1503903,Juruti,Falso,PA
+1503002,Faro,Falso,PA
+1505304,Oriximiná,Falso,PA
+1500404,Alenquer,Falso,PA
+1501451,Belterra,Falso,PA
+1504802,Monte Alegre,Falso,PA
+1504752,Mojuí dos Campos,Falso,PA
+1506005,Prainha,Falso,PA
+1506807,Santarém,Falso,PA
+1505650,Placas,Falso,PA
+1502855,Curuá,Falso,PA
+1500503,Almeirim,Falso,PA
+1505908,Porto de Moz,Falso,PA
+1501105,Bagre,Falso,PA
+1503101,Gurupá,Falso,PA
+1504505,Melgaço,Falso,PA
+1505809,Portel,Falso,PA
+1507706,São Sebastião da Boa Vista,Falso,PA
+1500701,Anajás,Falso,PA
+1501808,Breves,Falso,PA
+1500305,Afuá,Falso,PA
+1502806,Curralinho,Falso,PA
+1502509,Chaves,Falso,PA
+1505700,Ponta de Pedras,Falso,PA
+1507904,Soure,Falso,PA
+1506302,Salvaterra,Falso,PA
+1506401,Santa Cruz do Arari,Falso,PA
+1502004,Cachoeira do Arari,Falso,PA
+1504901,Muaná,Falso,PA
+1500800,Ananindeua,Falso,PA
+1504422,Marituba,Falso,PA
+1501303,Barcarena,Falso,PA
+1506351,Santa Bárbara do Pará,Falso,PA
+1501501,Benevides,Falso,PA
+1501402,Belém,Verdadeiro,PA
+1506500,Santa Isabel do Pará,Falso,PA
+1501907,Bujaru,Falso,PA
+1507003,Santo Antônio do Tauá,Falso,PA
+1502400,Castanhal,Falso,PA
+1503408,Inhangapi,Falso,PA
+1507102,São Caetano de Odivelas,Falso,PA
+1502608,Colares,Falso,PA
+1508209,Vigia,Falso,PA
+1504406,Marapanim,Falso,PA
+1502905,Curuçá,Falso,PA
+1507466,São João da Ponta,Falso,PA
+1504307,Maracanã,Falso,PA
+1504109,Magalhães Barata,Falso,PA
+1507961,Terra Alta,Falso,PA
+1507474,São João de Pirabas,Falso,PA
+1506203,Salinópolis,Falso,PA
+1503200,Igarapé-Açu,Falso,PA
+1506609,Santa Maria do Pará,Falso,PA
+1507409,São Francisco do Pará,Falso,PA
+1501709,Bragança,Falso,PA
+1500909,Augusto Corrêa,Falso,PA
+1508035,Tracuateua,Falso,PA
+1506112,Quatipuru,Falso,PA
+1502202,Capanema,Falso,PA
+1506906,Santarém Novo,Falso,PA
+1506104,Primavera,Falso,PA
+1501600,Bonito,Falso,PA
+1505601,Peixe-Boi,Falso,PA
+1505007,Nova Timboteua,Falso,PA
+1504604,Mocajuba,Falso,PA
+1505205,Oeiras do Pará,Falso,PA
+1504000,Limoeiro do Ajuru,Falso,PA
+1502103,Cametá,Falso,PA
+1503309,Igarapé-Miri,Falso,PA
+1500107,Abaetetuba,Falso,PA
+1501204,Baião,Falso,PA
+1502756,Concórdia do Pará,Falso,PA
+1508001,Tomé-Açu,Falso,PA
+1500206,Acará,Falso,PA
+1504703,Moju,Falso,PA
+1507953,Tailândia,Falso,PA
+1507201,São Domingos do Capim,Falso,PA
+1503507,Irituia,Falso,PA
+1507607,São Miguel do Guamá,Falso,PA
+1508308,Viseu,Falso,PA
+1506559,Santa Luzia do Pará,Falso,PA
+1501956,Cachoeira do Piriá,Falso,PA
+1503457,Ipixuna do Pará,Falso,PA
+1500958,Aurora do Pará,Falso,PA
+1504059,Mãe do Rio,Falso,PA
+1503077,Garrafão do Norte,Falso,PA
+1502301,Capitão Poço,Falso,PA
+1505403,Ourém,Falso,PA
+1504950,Nova Esperança do Piriá,Falso,PA
+1506195,Rurópolis,Falso,PA
+1501006,Aveiro,Falso,PA
+1503606,Itaituba,Falso,PA
+1508050,Trairão,Falso,PA
+1503754,Jacareacanga,Falso,PA
+1505031,Novo Progresso,Falso,PA
+1505486,Pacajá,Falso,PA
+1500859,Anapu,Falso,PA
+1508357,Vitória do Xingu,Falso,PA
+1501725,Brasil Novo,Falso,PA
+1507805,Senador José Porfírio,Falso,PA
+1504455,Medicilândia,Falso,PA
+1508159,Uruará,Falso,PA
+1500602,Altamira,Falso,PA
+1504976,Nova Ipixuna,Falso,PA
+1503804,Jacundá,Falso,PA
+1503705,Itupiranga,Falso,PA
+1505064,Novo Repartimento,Falso,PA
+1508100,Tucuruí,Falso,PA
+1501782,Breu Branco,Falso,PA
+1508126,Ulianópolis,Falso,PA
+1505502,Paragominas,Falso,PA
+1502939,Dom Eliseu,Falso,PA
+1500131,Abel Figueiredo,Falso,PA
+1501576,Bom Jesus do Tocantins,Falso,PA
+1506187,Rondon do Pará,Falso,PA
+1503093,Goianésia do Pará,Falso,PA
+1502764,Cumaru do Norte,Falso,PA
+1501253,Bannach,Falso,PA
+1507300,São Félix do Xingu,Falso,PA
+1505437,Ourilândia do Norte,Falso,PA
+1508084,Tucumã,Falso,PA
+1502152,Canaã dos Carajás,Falso,PA
+1505536,Parauapebas,Falso,PA
+1502772,Curionópolis,Falso,PA
+1502954,Eldorado do Carajás,Falso,PA
+1500347,Água Azul do Norte,Falso,PA
+1507508,São João do Araguaia,Falso,PA
+1505494,Palestina do Pará,Falso,PA
+1504208,Marabá,Falso,PA
+1501758,Brejo Grande do Araguaia,Falso,PA
+1507151,São Domingos do Araguaia,Falso,PA
+1507458,São Geraldo do Araguaia,Falso,PA
+1505635,Piçarra,Falso,PA
+1506138,Redenção,Falso,PA
+1505551,Pau D'Arco,Falso,PA
+1508407,Xinguara,Falso,PA
+1507755,Sapucaia,Falso,PA
+1506161,Rio Maria,Falso,PA
+1503044,Floresta do Araguaia,Falso,PA
+1502707,Conceição do Araguaia,Falso,PA
+1506708,Santana do Araguaia,Falso,PA
+1506583,Santa Maria das Barreiras,Falso,PA
+1600204,Calçoene,Falso,PA
+1600501,Oiapoque,Falso,AP
+1600105,Amapá,Falso,AP
+1600709,Tartarugalzinho,Falso,AP
+1600550,Pracuúba,Falso,AP
+1600253,Itaubal,Falso,AP
+1600600,Santana,Falso,AP
+1600303,Macapá,Verdadeiro,AP
+1600212,Cutias,Falso,AP
+1600055,Serra do Navio,Falso,AP
+1600154,Pedra Branca do Amapari,Falso,AP
+1600535,Porto Grande,Falso,AP
+1600238,Ferreira Gomes,Falso,AP
+1600402,Mazagão,Falso,AP
+1600279,Laranjal do Jari,Falso,AP
+1600808,Vitória do Jari,Falso,AP
+1701002,Ananás,Falso,AP
+1718550,Riachinho,Falso,TO
+1701051,Angico,Falso,TO
+1706506,Darcinópolis,Falso,TO
+1712454,Luzinópolis,Falso,TO
+1712801,Maurilândia do Tocantins,Falso,TO
+1714302,Nazaré,Falso,TO
+1700301,Aguiarnópolis,Falso,TO
+1713809,Palmeiras do Tocantins,Falso,TO
+1721208,Tocantinópolis,Falso,TO
+1703826,Cachoeirinha,Falso,TO
+1720002,Santa Terezinha do Tocantins,Falso,TO
+1702208,Araguatins,Falso,TO
+1720200,São Miguel do Tocantins,Falso,TO
+1703891,Carrasco Bonito,Falso,TO
+1720309,São Sebastião do Tocantins,Falso,TO
+1718303,Praia Norte,Falso,TO
+1710706,Itaguatins,Falso,TO
+1702554,Augustinópolis,Falso,TO
+1720804,Sítio Novo do Tocantins,Falso,TO
+1702901,Axixá do Tocantins,Falso,TO
+1718808,Sampaio,Falso,TO
+1707405,Esperantina,Falso,TO
+1703800,Buriti do Tocantins,Falso,TO
+1720101,São Bento do Tocantins,Falso,TO
+1702307,Arapoema,Falso,TO
+1703883,Carmolândia,Falso,TO
+1718865,Santa Fé do Araguaia,Falso,TO
+1722107,Xambioá,Falso,TO
+1713957,Muricilândia,Falso,TO
+1701309,Aragominas,Falso,TO
+1717206,Piraquê,Falso,TO
+1722081,Wanderlândia,Falso,TO
+1702158,Araguanã,Falso,TO
+1707702,Filadélfia,Falso,TO
+1703008,Babaçulândia,Falso,TO
+1716307,Pau D'Arco,Falso,TO
+1702109,Araguaína,Falso,TO
+1714880,Nova Olinda,Falso,TO
+1715705,Palmeirante,Falso,TO
+1703057,Bandeirantes do Tocantins,Falso,TO
+1705508,Colinas do Tocantins,Falso,TO
+1703909,Caseara,Falso,TO
+1713700,Monte Santo do Tocantins,Falso,TO
+1712504,Marianópolis do Tocantins,Falso,TO
+1703107,Barrolândia,Falso,TO
+1707108,Divinópolis do Tocantins,Falso,TO
+1701903,Araguacema,Falso,TO
+1700251,Abreulândia,Falso,TO
+1707207,Dois Irmãos do Tocantins,Falso,TO
+1713205,Miracema do Tocantins,Falso,TO
+1718709,Rio dos Bois,Falso,TO
+1713304,Miranorte,Falso,TO
+1718402,Presidente Kennedy,Falso,TO
+1721257,Tupirama,Falso,TO
+1716653,Pequizeiro,Falso,TO
+1708304,Goianorte,Falso,TO
+1711100,Itaporã do Tocantins,Falso,TO
+1709302,Guaraí,Falso,TO
+1708254,Fortaleza do Tabocão,Falso,TO
+1716703,Colméia,Falso,TO
+1706001,Couto Magalhães,Falso,TO
+1703206,Bernardo Sayão,Falso,TO
+1703602,Brasilândia do Tocantins,Falso,TO
+1711803,Juarina,Falso,TO
+1721307,Tupiratins,Falso,TO
+1707553,Fátima,Falso,TO
+1715507,Oliveira de Fátima,Falso,TO
+1718451,Pugmil,Falso,TO
+1706100,Cristalândia,Falso,TO
+1716109,Paraíso do Tocantins,Falso,TO
+1717503,Pium,Falso,TO
+1711902,Lagoa da Confusão,Falso,TO
+1704600,Chapada de Areia,Falso,TO
+1715002,Nova Rosalândia,Falso,TO
+1708205,Formoso do Araguaia,Falso,TO
+1702000,Araguaçu,Falso,TO
+1707306,Dueré,Falso,TO
+1718840,Sandolândia,Falso,TO
+1718899,Santa Rita do Tocantins,Falso,TO
+1703701,Brejinho de Nazaré,Falso,TO
+1706258,Crixás do Tocantins,Falso,TO
+1720259,São Salvador do Tocantins,Falso,TO
+1707652,Figueirópolis,Falso,TO
+1716604,Peixe,Falso,TO
+1715754,Palmeirópolis,Falso,TO
+1720978,Talismã,Falso,TO
+1720853,Sucupira,Falso,TO
+1711506,Jaú do Tocantins,Falso,TO
+1703867,Cariri do Tocantins,Falso,TO
+1700707,Alvorada,Falso,TO
+1700350,Aliança do Tocantins,Falso,TO
+1709500,Gurupi,Falso,TO
+1721000,Palmas,Verdadeiro,TO
+1701101,Aparecida do Rio Negro,Falso,TO
+1712009,Lajeado,Falso,TO
+1718204,Porto Nacional,Falso,TO
+1720655,Silvanópolis,Falso,TO
+1709807,Ipueiras,Falso,TO
+1713601,Monte do Carmo,Falso,TO
+1721109,Tocantínia,Falso,TO
+1716505,Pedro Afonso,Falso,TO
+1703305,Bom Jesus do Tocantins,Falso,TO
+1718881,Santa Maria do Tocantins,Falso,TO
+1715101,Novo Acordo,Falso,TO
+1711951,Lagoa do Tocantins,Falso,TO
+1712702,Mateiros,Falso,TO
+1719004,Santa Tereza do Tocantins,Falso,TO
+1720150,São Félix do Tocantins,Falso,TO
+1718758,Rio Sono,Falso,TO
+1712405,Lizarda,Falso,TO
+1717909,Ponte Alta do Tocantins,Falso,TO
+1703073,Barra do Ouro,Falso,TO
+1703842,Campos Lindos,Falso,TO
+1709005,Goiatins,Falso,TO
+1718501,Recursolândia,Falso,TO
+1704105,Centenário,Falso,TO
+1710904,Itapiratins,Falso,TO
+1710508,Itacajá,Falso,TO
+1717008,Pindorama do Tocantins,Falso,TO
+1705102,Chapada da Natividade,Falso,TO
+1718907,Santa Rosa do Tocantins,Falso,TO
+1714203,Natividade,Falso,TO
+1716208,Paranã,Falso,TO
+1720499,São Valério,Falso,TO
+1720937,Taipas do Tocantins,Falso,TO
+1705557,Combinado,Falso,TO
+1700400,Almas,Falso,TO
+1718659,Rio da Conceição,Falso,TO
+1720903,Taguatinga,Falso,TO
+1717800,Ponte Alta do Bom Jesus,Falso,TO
+1715259,Novo Jardim,Falso,TO
+1702703,Aurora do Tocantins,Falso,TO
+1712157,Lavandeira,Falso,TO
+1707009,Dianópolis,Falso,TO
+1718006,Porto Alegre do Tocantins,Falso,TO
+1715150,Novo Alegre,Falso,TO
+1702406,Arraias,Falso,TO
+1705607,Conceição do Tocantins,Falso,TO
+2100204,Alcântara,Falso,TO
+2101350,Bacurituba,Falso,MA
+2101905,Bequimão,Falso,MA
+2102408,Cajapió,Falso,MA
+2111789,Serrano do Maranhão,Falso,MA
+2106805,Mirinzal,Falso,MA
+2103125,Central do Maranhão,Falso,MA
+2100832,Apicum-Açu,Falso,MA
+2103703,Cururupu,Falso,MA
+2109056,Porto Rico do Maranhão,Falso,MA
+2104909,Guimarães,Falso,MA
+2103109,Cedral,Falso,MA
+2101301,Bacuri,Falso,MA
+2107506,Paço do Lumiar,Falso,MA
+2109452,Raposa,Falso,MA
+2111201,São José de Ribamar,Falso,MA
+2111300,São Luís,Verdadeiro,MA
+2101251,Bacabeira,Falso,MA
+2107100,Morros,Falso,MA
+2109205,Presidente Juscelino,Falso,MA
+2105104,Icatu,Falso,MA
+2102374,Cachoeira Grande,Falso,MA
+2110203,Santa Rita,Falso,MA
+2109601,Rosário,Falso,MA
+2101103,Axixá,Falso,MA
+2110278,Santo Amaro do Maranhão,Falso,MA
+2109403,Primeira Cruz,Falso,MA
+2101707,Barreirinhas,Falso,MA
+2105005,Humberto de Campos,Falso,MA
+2112506,Tutóia,Falso,MA
+2108058,Paulino Neves,Falso,MA
+2108256,Pedro do Rosário,Falso,MA
+2108405,Peri Mirim,Falso,MA
+2109809,Santa Helena,Falso,MA
+2109270,Presidente Sarney,Falso,MA
+2107605,Palmeirândia,Falso,MA
+2110500,São Bento,Falso,MA
+2108603,Pinheiro,Falso,MA
+2100709,Anajatuba,Falso,MA
+2102507,Cajari,Falso,MA
+2107456,Olinda Nova do Maranhão,Falso,MA
+2101004,Arari,Falso,MA
+2106508,Matinha,Falso,MA
+2108306,Penalva,Falso,MA
+2111003,São João Batista,Falso,MA
+2112803,Viana,Falso,MA
+2111706,São Vicente Ferrer,Falso,MA
+2112902,Vitória do Mearim,Falso,MA
+2105153,Igarapé do Meio,Falso,MA
+2106904,Monção,Falso,MA
+2101772,Bela Vista do Maranhão,Falso,MA
+2103554,Conceição do Lago-Açu,Falso,MA
+2106631,Matões do Norte,Falso,MA
+2102705,Cantanhede,Falso,MA
+2106755,Miranda do Norte,Falso,MA
+2112704,Vargem Grande,Falso,MA
+2105401,Itapecuru Mirim,Falso,MA
+2107209,Nina Rodrigues,Falso,MA
+2108801,Pirapemas,Falso,MA
+2109304,Presidente Vargas,Falso,MA
+2112407,Turiaçu,Falso,MA
+2112456,Turilândia,Falso,MA
+2106375,Maranhãozinho,Falso,MA
+2100550,Amapá do Maranhão,Falso,MA
+2106201,Luís Domingues,Falso,MA
+2102606,Cândido Mendes,Falso,MA
+2103158,Centro do Guilherme,Falso,MA
+2104305,Godofredo Viana,Falso,MA
+2102903,Carutapera,Falso,MA
+2106326,Maracaçumé,Falso,MA
+2104677,Governador Nunes Freire,Falso,MA
+2101970,Boa Vista do Gurupi,Falso,MA
+2105658,Junco do Maranhão,Falso,MA
+2103174,Centro Novo do Maranhão,Falso,MA
+2111029,São João do Carú,Falso,MA
+2114007,Zé Doca,Falso,MA
+2102002,Bom Jardim,Falso,MA
+2100477,Alto Alegre do Pindaré,Falso,MA
+2112274,Tufilândia,Falso,MA
+2109908,Santa Inês,Falso,MA
+2100873,Araguanã,Falso,MA
+2104651,Governador Newton Bello,Falso,MA
+2108504,Pindaré-Mirim,Falso,MA
+2110005,Santa Luzia,Falso,MA
+2107357,Nova Olinda do Maranhão,Falso,MA
+2113009,Vitorino Freire,Falso,MA
+2102150,Brejo de Areia,Falso,MA
+2105708,Lago da Pedra,Falso,MA
+2100402,Altamira do Maranhão,Falso,MA
+2108108,Paulo Ramos,Falso,MA
+2106359,Marajá do Sena,Falso,MA
+2105963,Lagoa Grande do Maranhão,Falso,MA
+2109239,Presidente Médici,Falso,MA
+2110039,Santa Luzia do Paruá,Falso,MA
+2102325,Buriticupu,Falso,MA
+2102036,Bom Jesus das Selvas,Falso,MA
+2105302,Imperatriz,Falso,MA
+2111763,Senador La Rocque,Falso,MA
+2107001,Montes Altos,Falso,MA
+2104552,Governador Edison Lobão,Falso,MA
+2109551,Ribamar Fiquene,Falso,MA
+2103257,Cidelândia,Falso,MA
+2102358,Buritirana,Falso,MA
+2111532,São Pedro da Água Branca,Falso,MA
+2103752,Davinópolis,Falso,MA
+2100600,Amarante do Maranhão,Falso,MA
+2105989,Lajeado Novo,Falso,MA
+2105500,João Lisboa,Falso,MA
+2112852,Vila Nova dos Martírios,Falso,MA
+2100055,Açailândia,Falso,MA
+2110856,São Francisco do Brejão,Falso,MA
+2105427,Itinga do Maranhão,Falso,MA
+2108702,Pio XII,Falso,MA
+2105906,Lago Verde,Falso,MA
+2111508,São Mateus do Maranhão,Falso,MA
+2107407,Olho d'Água das Cunhãs,Falso,MA
+2101202,Bacabal,Falso,MA
+2102077,Bom Lugar,Falso,MA
+2111722,Satubinha,Falso,MA
+2111409,São Luís Gonzaga do Maranhão,Falso,MA
+2105807,Lago do Junco,Falso,MA
+2105948,Lago dos Rodrigues,Falso,MA
+2105203,Igarapé Grande,Falso,MA
+2111631,São Raimundo do Doca Bezerra,Falso,MA
+2112233,Trizidela do Vale,Falso,MA
+2111672,São Roberto,Falso,MA
+2110302,Santo Antônio dos Lopes,Falso,MA
+2106003,Lima Campos,Falso,MA
+2101939,Bernardo do Mearim,Falso,MA
+2108207,Pedreiras,Falso,MA
+2108900,Poção de Pedras,Falso,MA
+2104008,Esperantinópolis,Falso,MA
+2105609,Joselândia,Falso,MA
+2112308,Tuntum,Falso,MA
+2109759,Santa Filomena do Maranhão,Falso,MA
+2100956,Arame,Falso,MA
+2105476,Jenipapo dos Vieiras,Falso,MA
+2104081,Fernando Falcão,Falso,MA
+2101608,Barra do Corda,Falso,MA
+2104099,Formosa da Serra Negra,Falso,MA
+2104800,Grajaú,Falso,MA
+2105351,Itaipava do Grajaú,Falso,MA
+2111805,Sítio Novo,Falso,MA
+2110708,São Domingos do Maranhão,Falso,MA
+2104602,Governador Eugênio Barros,Falso,MA
+2109106,Presidente Dutra,Falso,MA
+2104701,Graça Aranha,Falso,MA
+2104628,Governador Luiz Rocha,Falso,MA
+2111748,Senador Alexandre Costa,Falso,MA
+2104404,Gonçalves Dias,Falso,MA
+2104503,Governador Archer,Falso,MA
+2111250,São José dos Basílios,Falso,MA
+2104206,Fortuna,Falso,MA
+2103802,Dom Pedro,Falso,MA
+2110104,Santa Quitéria do Maranhão,Falso,MA
+2106300,Magalhães de Almeida,Falso,MA
+2100907,Araioses,Falso,MA
+2110237,Santana do Maranhão,Falso,MA
+2100154,Água Doce do Maranhão,Falso,MA
+2110609,São Bernardo,Falso,MA
+2101731,Belágua,Falso,MA
+2102101,Brejo,Falso,MA
+2110401,São Benedito do Rio Preto,Falso,MA
+2100808,Anapurus,Falso,MA
+2106672,Milagres do Maranhão,Falso,MA
+2112605,Urbano Santos,Falso,MA
+2102200,Buriti,Falso,MA
+2103208,Chapadinha,Falso,MA
+2106409,Mata Roma,Falso,MA
+2100436,Alto Alegre do Maranhão,Falso,MA
+2102754,Capinzal do Norte,Falso,MA
+2103307,Codó,Falso,MA
+2103604,Coroatá,Falso,MA
+2112100,Timbiras,Falso,MA
+2108454,Peritoró,Falso,MA
+2100303,Aldeias Altas,Falso,MA
+2103406,Coelho Neto,Falso,MA
+2100105,Afonso Cunha,Falso,MA
+2103901,Duque Bacelar,Falso,MA
+2111078,São João do Soter,Falso,MA
+2103000,Caxias,Falso,MA
+2107803,Parnarama,Falso,MA
+2106607,Matões,Falso,MA
+2112209,Timon,Falso,MA
+2102309,Buriti Bravo,Falso,MA
+2110906,São Francisco do Maranhão,Falso,MA
+2107704,Paraibano,Falso,MA
+2107902,Passagem Franca,Falso,MA
+2101509,Barão de Grajaú,Falso,MA
+2108009,Pastos Bons,Falso,MA
+2107308,Nova Iorque,Falso,MA
+2111102,São João dos Patos,Falso,MA
+2105922,Lagoa do Mato,Falso,MA
+2111953,Sucupira do Riachão,Falso,MA
+2103505,Colinas,Falso,MA
+2106706,Mirador,Falso,MA
+2105450,Jatobá,Falso,MA
+2111904,Sucupira do Norte,Falso,MA
+2102556,Campestre do Maranhão,Falso,MA
+2104057,Estreito,Falso,MA
+2109007,Porto Franco,Falso,MA
+2111052,São João do Paraíso,Falso,MA
+2111573,São Pedro dos Crentes,Falso,MA
+2102804,Carolina,Falso,MA
+2100501,Alto Parnaíba,Falso,MA
+2112001,Tasso Fragoso,Falso,MA
+2109502,Riachão,Falso,MA
+2101400,Balsas,Falso,MA
+2104073,Feira Nova do Maranhão,Falso,MA
+2101806,Benedito Leite,Falso,MA
+2110658,São Domingos do Azeitão,Falso,MA
+2107258,Nova Colinas,Falso,MA
+2106102,Loreto,Falso,MA
+2109700,Sambaíba,Falso,MA
+2110807,São Félix de Balsas,Falso,MA
+2111607,São Raimundo das Mangabeiras,Falso,MA
+2104107,Fortaleza dos Nogueiras,Falso,MA
+2206209,Miguel Alves,Falso,MA
+2206803,Nossa Senhora dos Remédios,Falso,PI
+2202174,Campo Largo do Piauí,Falso,PI
+2202059,Cabeceiras do Piauí,Falso,PI
+2201770,Boa Hora,Falso,PI
+2208502,Porto,Falso,PI
+2201200,Barras,Falso,PI
+2208403,Piripiri,Falso,PI
+2201960,Brasileira,Falso,PI
+2206670,Morro do Chapéu do Piauí,Falso,PI
+2205458,Joca Marques,Falso,PI
+2209971,São João do Arraial,Falso,PI
+2205854,Madeiro,Falso,PI
+2205805,Luzilândia,Falso,PI
+2201507,Batalha,Falso,PI
+2203701,Esperantina,Falso,PI
+2205409,Joaquim Pires,Falso,PI
+2206100,Matias Olímpio,Falso,PI
+2202703,Cocal,Falso,PI
+2202083,Cajueiro da Praia,Falso,PI
+2204659,Ilha Grande,Falso,PI
+2202653,Caxingó,Falso,PI
+2205706,Luís Correia,Falso,PI
+2201919,Bom Princípio do Piauí,Falso,PI
+2202729,Cocal dos Alves,Falso,PI
+2202000,Buriti dos Lopes,Falso,PI
+2206696,Murici dos Portelas,Falso,PI
+2202539,Caraúbas do Piauí,Falso,PI
+2207702,Parnaíba,Falso,PI
+2210052,São José do Divino,Falso,PI
+2209872,São João da Fronteira,Falso,PI
+2208304,Piracuruca,Falso,PI
+2206407,Monsenhor Gil,Falso,PI
+2211001,Teresina,Verdadeiro,PI
+2203255,Curralinhos,Falso,PI
+2205508,José de Freitas,Falso,PI
+2211100,União,Falso,PI
+2201606,Beneditinos,Falso,PI
+2200400,Altos,Falso,PI
+2203305,Demerval Lobão,Falso,PI
+2205581,Lagoa do Piauí,Falso,PI
+2207793,Pau D'Arco do Piauí,Falso,PI
+2202737,Coivaras,Falso,PI
+2205557,Lagoa Alegre,Falso,PI
+2206720,Nazária,Falso,PI
+2206308,Miguel Leão,Falso,PI
+2206951,Novo Santo Antônio,Falso,PI
+2200301,Alto Longá,Falso,PI
+2201945,Boqueirão do Piauí,Falso,PI
+2206753,Nossa Senhora de Nazaré,Falso,PI
+2202711,Cocal de Telha,Falso,PI
+2202026,Buriti dos Montes,Falso,PI
+2209906,São João da Serra,Falso,PI
+2202604,Castelo do Piauí,Falso,PI
+2210656,Sigefredo Pacheco,Falso,PI
+2202208,Campo Maior,Falso,PI
+2210409,São Miguel do Tapuio,Falso,PI
+2205276,Jatobá do Piauí,Falso,PI
+2201051,Assunção do Piauí,Falso,PI
+2205516,Juazeiro do Piauí,Falso,PI
+2207900,Pedro II,Falso,PI
+2206357,Milton Brandão,Falso,PI
+2205573,Lagoa de São Francisco,Falso,PI
+2202406,Capitão de Campos,Falso,PI
+2203420,Domingos Mourão,Falso,PI
+2201408,Barro Duro,Falso,PI
+2209807,São Gonçalo do Piauí,Falso,PI
+2207108,Olho D'Água do Piauí,Falso,PI
+2210508,São Pedro do Piauí,Falso,PI
+2207504,Palmeirais,Falso,PI
+2205540,Lagoinha do Piauí,Falso,PI
+2208809,Regeneração,Falso,PI
+2200202,Água Branca,Falso,PI
+2207751,Passagem Franca do Piauí,Falso,PI
+2209450,Santo Antônio dos Milagres,Falso,PI
+2205250,Jardim do Mulato,Falso,PI
+2204600,Hugo Napoleão,Falso,PI
+2200103,Agricolândia,Falso,PI
+2200509,Amarante,Falso,PI
+2200608,Angical do Piauí,Falso,PI
+2201002,Arraial,Falso,PI
+2204105,Francisco Ayres,Falso,PI
+2209609,São Félix do Piauí,Falso,PI
+2210383,São Miguel da Baixa Grande,Falso,PI
+2204006,Francinópolis,Falso,PI
+2211407,Várzea Grande,Falso,PI
+2203503,Elesbão Veloso,Falso,PI
+2208601,Prata do Piauí,Falso,PI
+2209153,Santa Cruz dos Milagres,Falso,PI
+2205599,Lagoa do Sítio,Falso,PI
+2200905,Aroazes,Falso,PI
+2206902,Novo Oriente do Piauí,Falso,PI
+2204709,Inhuma,Falso,PI
+2201176,Barra D'Alcântara,Falso,PI
+2211308,Valença do Piauí,Falso,PI
+2208106,Pimenteiras,Falso,PI
+2209203,Santa Filomena,Falso,PI
+2201150,Baixa Grande do Ribeiro,Falso,PI
+2208908,Ribeiro Gonçalves,Falso,PI
+2211209,Uruçuí,Falso,PI
+2202752,Colônia do Gurguéia,Falso,PI
+2206001,Marcos Parente,Falso,PI
+2205607,Landri Sales,Falso,PI
+2208551,Porto Alegre do Piauí,Falso,PI
+2210631,Sebastião Leal,Falso,PI
+2200806,Antônio Almeida,Falso,PI
+2201705,Bertolínia,Falso,PI
+2205904,Manoel Emídio,Falso,PI
+2203602,Eliseu Martins,Falso,PI
+2210391,São Miguel do Fidalgo,Falso,PI
+2202251,Canavieira,Falso,PI
+2206704,Nazaré do Piauí,Falso,PI
+2209708,São Francisco do Piauí,Falso,PI
+2203909,Floriano,Falso,PI
+2210102,São José do Peixe,Falso,PI
+2205300,Jerumenha,Falso,PI
+2204501,Guadalupe,Falso,PI
+2205102,Itaueira,Falso,PI
+2203800,Flores do Piauí,Falso,PI
+2207850,Pavussu,Falso,PI
+2209005,Rio Grande do Piauí,Falso,PI
+2209757,São Gonçalo do Gurguéia,Falso,PI
+2204402,Gilbués,Falso,PI
+2201309,Barreiras do Piauí,Falso,PI
+2206605,Monte Alegre do Piauí,Falso,PI
+2208700,Redenção do Gurguéia,Falso,PI
+2209302,Santa Luz,Falso,PI
+2200459,Alvorada do Gurguéia,Falso,PI
+2203107,Cristino Castro,Falso,PI
+2201903,Bom Jesus,Falso,PI
+2203230,Currais,Falso,PI
+2207405,Palmeira do Piauí,Falso,PI
+2201929,Bonfim do Piauí,Falso,PI
+2202851,Coronel José Dias,Falso,PI
+2209559,São Braz do Piauí,Falso,PI
+2200707,Anísio de Abreu,Falso,PI
+2210359,São Lourenço do Piauí,Falso,PI
+2203354,Dirceu Arcoverde,Falso,PI
+2202505,Caracol,Falso,PI
+2210607,São Raimundo Nonato,Falso,PI
+2211357,Várzea Branca,Falso,PI
+2203750,Fartura do Piauí,Falso,PI
+2203453,Dom Inocêncio,Falso,PI
+2205532,Jurema,Falso,PI
+2204550,Guaribas,Falso,PI
+2201988,Brejo do Piauí,Falso,PI
+2202307,Canto do Buriti,Falso,PI
+2207355,Pajeú do Piauí,Falso,PI
+2210953,Tamboril do Piauí,Falso,PI
+2208858,Riacho Frio,Falso,PI
+2207603,Parnaguá,Falso,PI
+2203206,Curimatá,Falso,PI
+2202901,Corrente,Falso,PI
+2201101,Avelino Lopes,Falso,PI
+2206654,Morro Cabeça no Tempo,Falso,PI
+2210623,Sebastião Barros,Falso,PI
+2203008,Cristalândia do Piauí,Falso,PI
+2205524,Júlio Borges,Falso,PI
+2204808,Ipiranga do Piauí,Falso,PI
+2208007,Picos,Falso,PI
+2209351,Santana do Piauí,Falso,PI
+2209856,São João da Canabrava,Falso,PI
+2201804,Bocaina,Falso,PI
+2207553,Paquetá,Falso,PI
+2211704,Wall Ferraz,Falso,PI
+2203404,Dom Expedito Lopes,Falso,PI
+2210375,São Luis do Piauí,Falso,PI
+2200954,Aroeiras do Itaim,Falso,PI
+2209104,Santa Cruz do Piauí,Falso,PI
+2204352,Geminiano,Falso,PI
+2210201,São José do Piauí,Falso,PI
+2210938,Sussuapara,Falso,PI
+2210979,Tanque do Piauí,Falso,PI
+2209377,Santa Rosa do Piauí,Falso,PI
+2202778,Colônia do Piauí,Falso,PI
+2209955,São João da Varjota,Falso,PI
+2207009,Oeiras,Falso,PI
+2202075,Cajazeiras do Piauí,Falso,PI
+2210300,São Julião,Falso,PI
+2208205,Pio IX,Falso,PI
+2204204,Francisco Santos,Falso,PI
+2200251,Alagoinha do Piauí,Falso,PI
+2209401,Santo Antônio de Lisboa,Falso,PI
+2206506,Monsenhor Hipólito,Falso,PI
+2200277,Alegrete do Piauí,Falso,PI
+2211605,Vila Nova do Piauí,Falso,PI
+2211506,Vera Mendes,Falso,PI
+2205003,Itainópolis,Falso,PI
+2205201,Jaicós,Falso,PI
+2202133,Campo Grande do Piauí,Falso,PI
+2207207,Padre Marcos,Falso,PI
+2204907,Isaías Coelho,Falso,PI
+2204303,Fronteiras,Falso,PI
+2206050,Massapê do Piauí,Falso,PI
+2205953,Marcolândia,Falso,PI
+2201572,Belém do Piauí,Falso,PI
+2204154,Francisco Macedo,Falso,PI
+2202091,Caldeirão Grande do Piauí,Falso,PI
+2207777,Patos do Piauí,Falso,PI
+2208650,Queimada Nova,Falso,PI
+2207801,Paulistana,Falso,PI
+2200053,Acauã,Falso,PI
+2203271,Curral Novo do Piauí,Falso,PI
+2205151,Jacobina do Piauí,Falso,PI
+2201739,Betânia do Piauí,Falso,PI
+2202554,Caridade do Piauí,Falso,PI
+2210706,Simões,Falso,PI
+2209500,Santo Inácio do Piauí,Falso,PI
+2203859,Floresta do Piauí,Falso,PI
+2210805,Simplício Mendes,Falso,PI
+2209658,São Francisco de Assis do Piauí,Falso,PI
+2201556,Bela Vista do Piauí,Falso,PI
+2210904,Socorro do Piauí,Falso,PI
+2202109,Campinas do Piauí,Falso,PI
+2207306,Paes Landim,Falso,PI
+2202802,Conceição do Canindé,Falso,PI
+2207959,Nova Santa Rita,Falso,PI
+2210003,São João do Piauí,Falso,PI
+2202455,Capitão Gervásio Oliveira,Falso,PI
+2205359,João Costa,Falso,PI
+2202117,Campo Alegre do Fidalgo,Falso,PI
+2207934,Pedro Laurentino,Falso,PI
+2208874,Ribeira do Piauí,Falso,PI
+2205565,Lagoa do Barro do Piauí,Falso,PI
+2308906,Morrinhos,Falso,PI
+2307908,Martinópole,Falso,CE
+2306553,Itarema,Falso,CE
+2304251,Cruz,Falso,CE
+2307254,Jijoca de Jericoacoara,Falso,CE
+2307809,Marco,Falso,CE
+2302305,Bela Cruz,Falso,CE
+2300200,Acaraú,Falso,CE
+2302057,Barroquinha,Falso,CE
+2302602,Camocim,Falso,CE
+2303907,Chaval,Falso,CE
+2304707,Granja,Falso,CE
+2305001,Guaraciaba do Norte,Falso,CE
+2303402,Carnaubal,Falso,CE
+2305308,Ibiapina,Falso,CE
+2313609,Ubajara,Falso,CE
+2313401,Tianguá,Falso,CE
+2314102,Viçosa do Ceará,Falso,CE
+2312304,São Benedito,Falso,CE
+2304236,Croatá,Falso,CE
+2308807,Moraújo,Falso,CE
+2304004,Coreaú,Falso,CE
+2304509,Frecheirinha,Falso,CE
+2313906,Uruoca,Falso,CE
+2300507,Alcântaras,Falso,CE
+2308203,Meruoca,Falso,CE
+2308377,Miraíma,Falso,CE
+2306108,Irauçuba,Falso,CE
+2312908,Sobral,Falso,CE
+2304657,Graça,Falso,CE
+2309003,Mucambo,Falso,CE
+2308005,Massapê,Falso,CE
+2312809,Senador Sá,Falso,CE
+2304905,Groaíras,Falso,CE
+2303105,Cariré,Falso,CE
+2304350,Forquilha,Falso,CE
+2312007,Santana do Acaraú,Falso,CE
+2309904,Pacujá,Falso,CE
+2311009,Poranga,Falso,CE
+2313955,Varjota,Falso,CE
+2311702,Reriutaba,Falso,CE
+2310951,Pires Ferreira,Falso,CE
+2305803,Ipu,Falso,CE
+2305902,Ipueiras,Falso,CE
+2303659,Catunda,Falso,CE
+2305209,Hidrolândia,Falso,CE
+2312205,Santa Quitéria,Falso,CE
+2306405,Itapipoca,Falso,CE
+2300754,Amontada,Falso,CE
+2313500,Trairi,Falso,CE
+2310258,Paraipaba,Falso,CE
+2310209,Paracuru,Falso,CE
+2312403,São Gonçalo do Amarante,Falso,CE
+2313559,Tururu,Falso,CE
+2313757,Umirim,Falso,CE
+2313807,Uruburetama,Falso,CE
+2306306,Itapagé,Falso,CE
+2312601,São Luís do Curu,Falso,CE
+2304608,General Sampaio,Falso,CE
+2310704,Pentecoste,Falso,CE
+2313351,Tejuçuoca,Falso,CE
+2300903,Apuiarés,Falso,CE
+2302800,Canindé,Falso,CE
+2306603,Itatira,Falso,CE
+2303006,Caridade,Falso,CE
+2310407,Paramoti,Falso,CE
+2310100,Palmácia,Falso,CE
+2302909,Capistrano,Falso,CE
+2309102,Mulungu,Falso,CE
+2300150,Acarape,Falso,CE
+2301208,Aracoiaba,Falso,CE
+2301406,Aratuba,Falso,CE
+2306504,Itapiúna,Falso,CE
+2302107,Baturité,Falso,CE
+2311603,Redenção,Falso,CE
+2305100,Guaramiranga,Falso,CE
+2309805,Pacoti,Falso,CE
+2303956,Chorozinho,Falso,CE
+2301950,Barreira,Falso,CE
+2309458,Ocara,Falso,CE
+2302206,Beberibe,Falso,CE
+2310852,Pindoretama,Falso,CE
+2303501,Cascavel,Falso,CE
+2304285,Eusébio,Falso,CE
+2307700,Maranguape,Falso,CE
+2304954,Guaiúba,Falso,CE
+2303709,Caucaia,Falso,CE
+2307650,Maracanaú,Falso,CE
+2309706,Pacatuba,Falso,CE
+2301000,Aquiraz,Falso,CE
+2304400,Fortaleza,Verdadeiro,CE
+2306256,Itaitinga,Falso,CE
+2305233,Horizonte,Falso,CE
+2309607,Pacajus,Falso,CE
+2313203,Tamboril,Falso,CE
+2305605,Independência,Falso,CE
+2309409,Novo Oriente,Falso,CE
+2311264,Quiterianópolis,Falso,CE
+2305654,Ipaporanga,Falso,CE
+2304103,Crateús,Falso,CE
+2308609,Monsenhor Tabosa,Falso,CE
+2301257,Ararendá,Falso,CE
+2309300,Nova Russas,Falso,CE
+2307635,Madalena,Falso,CE
+2302404,Boa Viagem,Falso,CE
+2301851,Banabuiú,Falso,CE
+2311306,Quixadá,Falso,CE
+2303931,Choró,Falso,CE
+2311405,Quixeramobim,Falso,CE
+2305266,Ibaretama,Falso,CE
+2303600,Catarina,Falso,CE
+2311900,Saboeiro,Falso,CE
+2300408,Aiuaba,Falso,CE
+2310308,Parambu,Falso,CE
+2313302,Tauá,Falso,CE
+2301505,Arneiroz,Falso,CE
+2313005,Solonópole,Falso,CE
+2304269,Deputado Irapuan Pinheiro,Falso,CE
+2310506,Pedra Branca,Falso,CE
+2312700,Senador Pompeu,Falso,CE
+2308351,Milhã,Falso,CE
+2300309,Acopiara,Falso,CE
+2310902,Piquet Carneiro,Falso,CE
+2308500,Mombaça,Falso,CE
+2301109,Aracati,Falso,CE
+2306207,Itaiçaba,Falso,CE
+2305357,Icapuí,Falso,CE
+2304459,Fortim,Falso,CE
+2305332,Ibicuitinga,Falso,CE
+2311801,Russas,Falso,CE
+2312502,São João do Jaguaribe,Falso,CE
+2313104,Tabuleiro do Norte,Falso,CE
+2300705,Alto Santo,Falso,CE
+2311504,Quixeré,Falso,CE
+2310001,Palhano,Falso,CE
+2308708,Morada Nova,Falso,CE
+2307601,Limoeiro do Norte,Falso,CE
+2307007,Jaguaruana,Falso,CE
+2306702,Jaguaretama,Falso,CE
+2306900,Jaguaribe,Falso,CE
+2306801,Jaguaribara,Falso,CE
+2304277,Ererê,Falso,CE
+2310803,Pereiro,Falso,CE
+2311231,Potiretama,Falso,CE
+2306009,Iracema,Falso,CE
+2311355,Quixelô,Falso,CE
+2305506,Iguatu,Falso,CE
+2303808,Cedro,Falso,CE
+2305407,Icó,Falso,CE
+2309508,Orós,Falso,CE
+2303303,Cariús,Falso,CE
+2307403,Jucás,Falso,CE
+2314003,Várzea Alegre,Falso,CE
+2300804,Antonina do Norte,Falso,CE
+2313252,Tarrafas,Falso,CE
+2305704,Ipaumirim,Falso,CE
+2301802,Baixio,Falso,CE
+2313708,Umari,Falso,CE
+2307502,Lavras da Mangabeira,Falso,CE
+2311959,Salitre,Falso,CE
+2301307,Araripe,Falso,CE
+2301604,Assaré,Falso,CE
+2302701,Campos Sales,Falso,CE
+2311207,Potengi,Falso,CE
+2300606,Altaneira,Falso,CE
+2304806,Granjeiro,Falso,CE
+2304301,Farias Brito,Falso,CE
+2303204,Caririaçu,Falso,CE
+2301703,Aurora,Falso,CE
+2302008,Barro,Falso,CE
+2308104,Mauriti,Falso,CE
+2304202,Crato,Falso,CE
+2312106,Santana do Cariri,Falso,CE
+2308401,Missão Velha,Falso,CE
+2307304,Juazeiro do Norte,Falso,CE
+2301901,Barbalha,Falso,CE
+2309201,Nova Olinda,Falso,CE
+2307106,Jardim,Falso,CE
+2311108,Porteiras,Falso,CE
+2302503,Brejo Santo,Falso,CE
+2310605,Penaforte,Falso,CE
+2307205,Jati,Falso,CE
+2300101,Abaiara,Falso,CE
+2308302,Milagres,Falso,CE
+2404408,Grossos,Falso,CE
+2413359,Serra do Mel,Falso,RN
+2401453,Baraúna,Falso,RN
+2411056,Tibau,Falso,RN
+2401107,Areia Branca,Falso,RN
+2408003,Mossoró,Falso,RN
+2403707,Felipe Guerra,Falso,RN
+2401008,Apodi,Falso,RN
+2404309,Governador Dix-Sept Rosado,Falso,RN
+2402303,Caraúbas,Falso,RN
+2401305,Campo Grande,Falso,RN
+2405207,Janduís,Falso,RN
+2414605,Upanema,Falso,RN
+2407609,Messias Targino,Falso,RN
+2408706,Paraú,Falso,RN
+2414456,Triunfo Potiguar,Falso,RN
+2406106,Jucurutu,Falso,RN
+2412807,São Rafael,Falso,RN
+2400703,Alto do Rodrigues,Falso,RN
+2400208,Açu,Falso,RN
+2402501,Carnaubais,Falso,RN
+2404853,Itajá,Falso,RN
+2409902,Pendências,Falso,RN
+2410256,Porto do Mangue,Falso,RN
+2404705,Ipanguaçu,Falso,RN
+2407005,Luís Gomes,Falso,RN
+2403301,Encanto,Falso,RN
+2400406,Água Nova,Falso,RN
+2412500,São Miguel,Falso,RN
+2402907,Coronel João Pessoa,Falso,RN
+2414753,Venha-Ver,Falso,RN
+2403202,Doutor Severiano,Falso,RN
+2407252,Major Sales,Falso,RN
+2410801,Riacho de Santana,Falso,RN
+2413607,Severiano Melo,Falso,RN
+2411007,Rodolfo Fernandes,Falso,RN
+2404903,Itaú,Falso,RN
+2410702,Riacho da Cruz,Falso,RN
+2410504,Rafael Fernandes,Falso,RN
+2406007,José da Penha,Falso,RN
+2413805,Taboleiro Grande,Falso,RN
+2411908,São Francisco do Oeste,Falso,RN
+2400505,Alexandria,Falso,RN
+2414100,Tenente Ananias,Falso,RN
+2410207,Portalegre,Falso,RN
+2403905,Francisco Dantas,Falso,RN
+2408607,Paraná,Falso,RN
+2407302,Marcelino Vieira,Falso,RN
+2409407,Pau dos Ferros,Falso,RN
+2414902,Viçosa,Falso,RN
+2410009,Pilões,Falso,RN
+2404002,Frutuoso Gomes,Falso,RN
+2407401,Martins,Falso,RN
+2414506,Umarizal,Falso,RN
+2400604,Almino Afonso,Falso,RN
+2405900,João Dias,Falso,RN
+2410603,Rafael Godeiro,Falso,RN
+2413557,Serrinha dos Pintos,Falso,RN
+2400901,Antônio Martins,Falso,RN
+2408409,Olho-d'Água do Borges,Falso,RN
+2409308,Patu,Falso,RN
+2406908,Lucrécia,Falso,RN
+2411601,São Bento do Norte,Falso,RN
+2401859,Caiçara do Norte,Falso,RN
+2404101,Galinhos,Falso,RN
+2407203,Macau,Falso,RN
+2404507,Guamaré,Falso,RN
+2409605,Pedra Preta,Falso,RN
+2405504,Jardim de Angicos,Falso,RN
+2409704,Pedro Avelino,Falso,RN
+2401909,Caiçara do Rio do Vento,Falso,RN
+2403756,Fernando Pedroza,Falso,RN
+2400307,Afonso Bezerra,Falso,RN
+2406700,Lajes,Falso,RN
+2400802,Angicos,Falso,RN
+2403806,Florânia,Falso,RN
+2413003,São Vicente,Falso,RN
+2402709,Cerro Corá,Falso,RN
+2414159,Tenente Laurentino Cruz,Falso,RN
+2406502,Lagoa Nova,Falso,RN
+2401651,Bodó,Falso,RN
+2411403,Santana do Matos,Falso,RN
+2405603,Jardim de Piranhas,Falso,RN
+2412104,São João do Sabugi,Falso,RN
+2411809,São Fernando,Falso,RN
+2413409,Serra Negra do Norte,Falso,RN
+2414308,Timbaúba dos Batistas,Falso,RN
+2404804,Ipueira,Falso,RN
+2402006,Caicó,Falso,RN
+2408508,Ouro Branco,Falso,RN
+2412401,São José do Seridó,Falso,RN
+2408904,Parelhas,Falso,RN
+2403004,Cruzeta,Falso,RN
+2411429,Santana do Seridó,Falso,RN
+2403400,Equador,Falso,RN
+2405702,Jardim do Seridó,Falso,RN
+2402402,Carnaúba dos Dantas,Falso,RN
+2400109,Acari,Falso,RN
+2403103,Currais Novos,Falso,RN
+2401602,Bento Fernandes,Falso,RN
+2410108,Poço Branco,Falso,RN
+2405801,João Câmara,Falso,RN
+2405108,Jandaíra,Falso,RN
+2408805,Parazinho,Falso,RN
+2407906,Monte das Gameleiras,Falso,RN
+2413300,Serra de São Bento,Falso,RN
+2412302,São José do Campestre,Falso,RN
+2411205,Santa Cruz,Falso,RN
+2414001,Tangará,Falso,RN
+2411700,São Bento do Trairí,Falso,RN
+2413706,Sítio Novo,Falso,RN
+2406809,Lajes Pintadas,Falso,RN
+2402808,Coronel Ezequiel,Falso,RN
+2402105,Campo Redondo,Falso,RN
+2405009,Jaçanã,Falso,RN
+2405405,Japi,Falso,RN
+2401503,Barcelona,Falso,RN
+2406403,Lagoa de Velhos,Falso,RN
+2412906,São Tomé,Falso,RN
+2411106,Ruy Barbosa,Falso,RN
+2406601,Lagoa Salgada,Falso,RN
+2401701,Bom Jesus,Falso,RN
+2407807,Monte Alegre,Falso,RN
+2404606,Ielmo Marinho,Falso,RN
+2401800,Brejinho,Falso,RN
+2406155,Jundiá,Falso,RN
+2414803,Vera Cruz,Falso,RN
+2409209,Passagem,Falso,RN
+2408300,Nova Cruz,Falso,RN
+2414704,Várzea,Falso,RN
+2405306,Boa Saúde,Falso,RN
+2406205,Lagoa d'Anta,Falso,RN
+2409100,Passa e Fica,Falso,RN
+2413508,Serrinha,Falso,RN
+2406304,Lagoa de Pedras,Falso,RN
+2411502,Santo Antônio,Falso,RN
+2410306,Serra Caiada,Falso,RN
+2413102,Senador Elói de Souza,Falso,RN
+2409332,Santa Maria,Falso,RN
+2410900,Riachuelo,Falso,RN
+2412708,São Pedro,Falso,RN
+2412609,São Paulo do Potengi,Falso,RN
+2412559,São Miguel do Gostoso,Falso,RN
+2407500,Maxaranguape,Falso,RN
+2410405,Pureza,Falso,RN
+2408953,Rio do Fogo,Falso,RN
+2414407,Touros,Falso,RN
+2413904,Taipu,Falso,RN
+2409506,Pedra Grande,Falso,RN
+2408201,Nísia Floresta,Falso,RN
+2412005,São Gonçalo do Amarante,Falso,RN
+2402600,Ceará-Mirim,Falso,RN
+2407104,Macaíba,Falso,RN
+2412203,São José de Mipibu,Falso,RN
+2408102,Natal,Verdadeiro,RN
+2403608,Extremoz,Falso,RN
+2403251,Parnamirim,Falso,RN
+2413201,Senador Georgino Avelino,Falso,RN
+2403509,Espírito Santo,Falso,RN
+2415008,Vila Flor,Falso,RN
+2409803,Pedro Velho,Falso,RN
+2404200,Goianinha,Falso,RN
+2401404,Baía Formosa,Falso,RN
+2402204,Canguaretama,Falso,RN
+2401206,Arês,Falso,RN
+2407708,Montanhas,Falso,RN
+2414209,Tibau do Sul,Falso,RN
+2513901,São Bento,Falso,RN
+2512804,Riacho dos Cavalos,Falso,PB
+2504306,Catolé do Rocha,Falso,PB
+2514651,São José do Brejo do Cruz,Falso,PB
+2502904,Brejo dos Santos,Falso,PB
+2502003,Belém do Brejo do Cruz,Falso,PB
+2509370,Mato Grosso,Falso,PB
+2502300,Bom Sucesso,Falso,PB
+2507408,Jericó,Falso,PB
+2502805,Brejo do Cruz,Falso,PB
+2508109,Lagoa,Falso,PB
+2512036,Poço Dantas,Falso,PB
+2513653,Joca Claudino,Falso,PB
+2502052,Bernardino Batista,Falso,PB
+2516904,Uiraúna,Falso,PB
+2514503,São José de Piranhas,Falso,PB
+2509602,Monte Horebe,Falso,PB
+2516805,Triunfo,Falso,PB
+2502201,Bom Jesus,Falso,PB
+2503704,Cajazeiras,Falso,PB
+2503308,Cachoeira dos Índios,Falso,PB
+2504108,Carrapateira,Falso,PB
+2502409,Bonito de Santa Fé,Falso,PB
+2512077,Poço de José de Moura,Falso,PB
+2500700,São João do Rio do Peixe,Falso,PB
+2513307,Santa Helena,Falso,PB
+2505501,Vista Serrana,Falso,PB
+2508802,Malta,Falso,PB
+2513968,São Domingos,Falso,PB
+2512101,Pombal,Falso,PB
+2504504,Condado,Falso,PB
+2510907,Paulista,Falso,PB
+2513927,São Bentinho,Falso,PB
+2503753,Cajazeirinhas,Falso,PB
+2516201,Sousa,Falso,PB
+2514206,São José da Lagoa Tapada,Falso,PB
+2517209,Vieirópolis,Falso,PB
+2508406,Lastro,Falso,PB
+2510006,Nazarezinho,Falso,PB
+2500775,Aparecida,Falso,PB
+2513984,São Francisco,Falso,PB
+2509156,Marizópolis,Falso,PB
+2513208,Santa Cruz,Falso,PB
+2508703,Mãe d'Água,Falso,PB
+2503407,Cacimba de Areia,Falso,PB
+2513802,Santa Teresinha,Falso,PB
+2510808,Patos,Falso,PB
+2514602,São José do Bonfim,Falso,PB
+2501153,Areia de Baraúnas,Falso,PB
+2510709,Passagem,Falso,PB
+2512606,Quixabá,Falso,PB
+2514404,São José de Espinharas,Falso,PB
+2504207,Catingueira,Falso,PB
+2504801,Coremas,Falso,PB
+2510402,Olho d'Água,Falso,PB
+2505907,Emas,Falso,PB
+2513604,Santana dos Garrotes,Falso,PB
+2502607,Igaracy,Falso,PB
+2511301,Piancó,Falso,PB
+2500205,Aguiar,Falso,PB
+2510204,Nova Olinda,Falso,PB
+2513356,Santa Inês,Falso,PB
+2511004,Pedra Branca,Falso,PB
+2504405,Conceição,Falso,PB
+2513505,Santana de Mangueira,Falso,PB
+2507002,Itaporanga,Falso,PB
+2505600,Diamante,Falso,PB
+2502102,Boa Ventura,Falso,PB
+2506608,Ibiara,Falso,PB
+2505303,Curral Velho,Falso,PB
+2514305,São José de Caiana,Falso,PB
+2515708,Serra Grande,Falso,PB
+2509396,Maturéia,Falso,PB
+2503555,Cacimbas,Falso,PB
+2500106,Água Branca,Falso,PB
+2505402,Desterro,Falso,PB
+2516706,Teixeira,Falso,PB
+2506707,Imaculada,Falso,PB
+2508000,Juru,Falso,PB
+2516607,Tavares,Falso,PB
+2512309,Princesa Isabel,Falso,PB
+2514552,São José de Princesa,Falso,PB
+2509008,Manaíra,Falso,PB
+2507804,Junco do Seridó,Falso,PB
+2514909,São Mamede,Falso,PB
+2517100,Várzea,Falso,PB
+2514701,São José do Sabugi,Falso,PB
+2513406,Santa Luzia,Falso,PB
+2513000,Salgadinho,Falso,PB
+2516755,Tenório,Falso,PB
+2515401,São Vicente do Seridó,Falso,PB
+2507705,Juazeirinho,Falso,PB
+2505006,Cubati,Falso,PB
+2511400,Picuí,Falso,PB
+2511103,Pedra Lavrada,Falso,PB
+2506202,Frei Martinho,Falso,PB
+2501534,Baraúna,Falso,PB
+2510303,Nova Palmeira,Falso,PB
+2516508,Taperoá,Falso,PB
+2501351,Assunção,Falso,PB
+2509701,Monteiro,Falso,PB
+2517407,Zabelê,Falso,PB
+2512200,Prata,Falso,PB
+2514107,São João do Tigre,Falso,PB
+2515203,São Sebastião do Umbuzeiro,Falso,PB
+2503902,Camalaú,Falso,PB
+2510600,Ouro Velho,Falso,PB
+2516300,Sumé,Falso,PB
+2504850,Coxixola,Falso,PB
+2500734,Amparo,Falso,PB
+2510659,Parari,Falso,PB
+2515500,Serra Branca,Falso,PB
+2508505,Livramento,Falso,PB
+2514800,São José dos Cordeiros,Falso,PB
+2504702,Congo,Falso,PB
+2513943,São Domingos do Cariri,Falso,PB
+2513851,Santo André,Falso,PB
+2512788,Riacho de Santo Antônio,Falso,PB
+2514008,São João do Cariri,Falso,PB
+2501708,Barra de São Miguel,Falso,PB
+2504355,Caturité,Falso,PB
+2503100,Cabaceiras,Falso,PB
+2500536,Alcantil,Falso,PB
+2504074,Caraúbas,Falso,PB
+2502508,Boqueirão,Falso,PB
+2501575,Barra de Santana,Falso,PB
+2506509,Gurjão,Falso,PB
+2500908,Arara,Falso,PB
+2516102,Soledade,Falso,PB
+2510501,Olivedos,Falso,PB
+2512002,Pocinhos,Falso,PB
+2500577,Algodão de Jandaíra,Falso,PB
+2512705,Remígio,Falso,PB
+2505352,Damião,Falso,PB
+2501609,Barra de Santa Rosa,Falso,PB
+2510105,Nova Floresta,Falso,PB
+2505105,Cuité,Falso,PB
+2516151,Sossêgo,Falso,PB
+2516409,Tacima,Falso,PB
+2505709,Dona Inês,Falso,PB
+2516003,Solânea,Falso,PB
+2512747,Riachão,Falso,PB
+2501005,Araruna,Falso,PB
+2504157,Casserengue,Falso,PB
+2503506,Cacimba de Dentro,Falso,PB
+2509503,Montadas,Falso,PB
+2501203,Areial,Falso,PB
+2506004,Esperança,Falso,PB
+2515104,São Sebastião de Lagoa de Roça,Falso,PB
+2502706,Borborema,Falso,PB
+2511608,Pilões,Falso,PB
+2501500,Bananeiras,Falso,PB
+2515906,Serraria,Falso,PB
+2500403,Alagoa Nova,Falso,PB
+2501104,Areia,Falso,PB
+2500304,Alagoa Grande,Falso,PB
+2509339,Matinhas,Falso,PB
+2500502,Alagoinha,Falso,PB
+2515609,Serra da Raiz,Falso,PB
+2515930,Sertãozinho,Falso,PB
+2503605,Caiçara,Falso,PB
+2511806,Pirpirituba,Falso,PB
+2506301,Guarabira,Falso,PB
+2508554,Logradouro,Falso,PB
+2505808,Duas Estradas,Falso,PB
+2505204,Cuitegi,Falso,PB
+2508208,Lagoa de Dentro,Falso,PB
+2501906,Belém,Falso,PB
+2511707,Pilõezinhos,Falso,PB
+2509800,Mulungu,Falso,PB
+2500809,Araçagi,Falso,PB
+2512408,Puxinanã,Falso,PB
+2512507,Queimadas,Falso,PB
+2504009,Campina Grande,Falso,PB
+2506103,Fagundes,Falso,PB
+2508307,Lagoa Seca,Falso,PB
+2509206,Massaranduba,Falso,PB
+2515807,Serra Redonda,Falso,PB
+2502151,Boa Vista,Falso,PB
+2506400,Gurinhém,Falso,PB
+2507606,Juarez Távora,Falso,PB
+2503803,Caldas Brandão,Falso,PB
+2513109,Salgado de São Félix,Falso,PB
+2506905,Itabaiana,Falso,PB
+2509404,Mogeiro,Falso,PB
+2512754,Riachão do Bacamarte,Falso,PB
+2507200,Itatuba,Falso,PB
+2506806,Ingá,Falso,PB
+2509909,Natuba,Falso,PB
+2501302,Aroeiras,Falso,PB
+2506251,Gado Bravo,Falso,PB
+2513158,Santa Cecília,Falso,PB
+2517001,Umbuzeiro,Falso,PB
+2505238,Cuité de Mamanguape,Falso,PB
+2508901,Mamanguape,Falso,PB
+2512903,Rio Tinto,Falso,PB
+2509057,Marcação,Falso,PB
+2504033,Capim,Falso,PB
+2512721,Pedro Régis,Falso,PB
+2509305,Mataraca,Falso,PB
+2507101,Itapororoca,Falso,PB
+2501401,Baía da Traição,Falso,PB
+2505279,Curral de Cima,Falso,PB
+2507309,Jacaraú,Falso,PB
+2515971,Sobrado,Falso,PB
+2511509,Pilar,Falso,PB
+2515302,Sapé,Falso,PB
+2512762,Riachão do Poço,Falso,PB
+2507903,Juripiranga,Falso,PB
+2509107,Mari,Falso,PB
+2504900,Cruz do Espírito Santo,Falso,PB
+2515005,São Miguel de Taipu,Falso,PB
+2514453,São José dos Ramos,Falso,PB
+2507507,João Pessoa,Verdadeiro,PB
+2508604,Lucena,Falso,PB
+2503209,Cabedelo,Falso,PB
+2513703,Santa Rita,Falso,PB
+2504603,Conde,Falso,PB
+2501807,Bayeux,Falso,PB
+2511202,Pedras de Fogo,Falso,PB
+2511905,Pitimbu,Falso,PB
+2503001,Caaporã,Falso,PB
+2500601,Alhandra,Falso,PB
+2612455,Santa Cruz,Falso,PB
+2605301,Exu,Falso,PE
+2607307,Ipubi,Falso,PE
+2612554,Santa Filomena,Falso,PE
+2614303,Moreilândia,Falso,PE
+2602001,Bodocó,Falso,PE
+2615607,Trindade,Falso,PE
+2601102,Araripina,Falso,PE
+2606309,Granito,Falso,PE
+2609907,Ouricuri,Falso,PE
+2613503,São José do Belmonte,Falso,PE
+2609303,Mirandiba,Falso,PE
+2612208,Salgueiro,Falso,PE
+2604304,Cedro,Falso,PE
+2614006,Serrita,Falso,PE
+2616100,Verdejante,Falso,PE
+2610400,Parnamirim,Falso,PE
+2615706,Triunfo,Falso,PE
+2612471,Santa Cruz da Baixa Verde,Falso,PE
+2605608,Flores,Falso,PE
+2603405,Calumbi,Falso,PE
+2613909,Serra Talhada,Falso,PE
+2603900,Carnaíba,Falso,PE
+2613602,São José do Egito,Falso,PE
+2607109,Ingazeira,Falso,PE
+2607703,Itapetim,Falso,PE
+2614600,Tabira,Falso,PE
+2614402,Solidão,Falso,PE
+2612802,Santa Terezinha,Falso,PE
+2600104,Afogados da Ingazeira,Falso,PE
+2606903,Iguaraci,Falso,PE
+2602506,Brejinho,Falso,PE
+2611533,Quixaba,Falso,PE
+2615904,Tuparetama,Falso,PE
+2605103,Custódia,Falso,PE
+2609154,Manari,Falso,PE
+2614105,Sertânia,Falso,PE
+2606606,Ibimirim,Falso,PE
+2607000,Inajá,Falso,PE
+2601201,Arcoverde,Falso,PE
+2601805,Betânia,Falso,PE
+2609808,Orocó,Falso,PE
+2600203,Afrânio,Falso,PE
+2611101,Petrolina,Falso,PE
+2612604,Santa Maria da Boa Vista,Falso,PE
+2605152,Dormentes,Falso,PE
+2608750,Lagoa Grande,Falso,PE
+2603009,Cabrobó,Falso,PE
+2615201,Terra Nova,Falso,PE
+2608057,Jatobá,Falso,PE
+2603926,Carnaubeira da Penha,Falso,PE
+2605707,Floresta,Falso,PE
+2614808,Tacaratu,Falso,PE
+2611002,Petrolândia,Falso,PE
+2601607,Belém do São Francisco,Falso,PE
+2607406,Itacuruba,Falso,PE
+2600500,Águas Belas,Falso,PE
+2607505,Itaíba,Falso,PE
+2602803,Buíque,Falso,PE
+2616001,Venturosa,Falso,PE
+2615805,Tupanatinga,Falso,PE
+2610806,Pedra,Falso,PE
+2602605,Brejo da Madre de Deus,Falso,PE
+2604106,Caruaru,Falso,PE
+2611705,Riacho das Almas,Falso,PE
+2613107,São Caitano,Falso,PE
+2601904,Bezerros,Falso,PE
+2606408,Gravatá,Falso,PE
+2603108,Cachoeirinha,Falso,PE
+2608008,Jataúba,Falso,PE
+2603801,Capoeiras,Falso,PE
+2611200,Poção,Falso,PE
+2613008,São Bento do Una,Falso,PE
+2610905,Pesqueira,Falso,PE
+2600609,Alagoinha,Falso,PE
+2614709,Tacaimbó,Falso,PE
+2612406,Sanharó,Falso,PE
+2601706,Belo Jardim,Falso,PE
+2616183,Vertente do Lério,Falso,PE
+2605806,Frei Miguelinho,Falso,PE
+2616209,Vertentes,Falso,PE
+2614501,Surubim,Falso,PE
+2612703,Santa Maria do Cambucá,Falso,PE
+2604155,Casinhas,Falso,PE
+2615409,Toritama,Falso,PE
+2615003,Taquaritinga do Norte,Falso,PE
+2612505,Santa Cruz do Capibaribe,Falso,PE
+2613800,São Vicente Ferrer,Falso,PE
+2608107,João Alfredo,Falso,PE
+2602209,Bom Jardim,Falso,PE
+2612109,Salgadinho,Falso,PE
+2609105,Machados,Falso,PE
+2610509,Passira,Falso,PE
+2605400,Feira Nova,Falso,PE
+2609709,Orobó,Falso,PE
+2608909,Limoeiro,Falso,PE
+2604908,Cumaru,Falso,PE
+2608800,Lajedo,Falso,PE
+2601003,Angelim,Falso,PE
+2610103,Palmeirina,Falso,PE
+2602407,Brejão,Falso,PE
+2613206,São João,Falso,PE
+2602100,Bom Conselho,Falso,PE
+2610301,Paranatama,Falso,PE
+2608305,Jupi,Falso,PE
+2604700,Correntes,Falso,PE
+2615102,Terezinha,Falso,PE
+2606507,Iati,Falso,PE
+2603702,Canhotinho,Falso,PE
+2608602,Lagoa do Ouro,Falso,PE
+2603306,Calçado,Falso,PE
+2606002,Garanhuns,Falso,PE
+2612307,Saloá,Falso,PE
+2608255,Jucati,Falso,PE
+2603207,Caetés,Falso,PE
+2608404,Jurema,Falso,PE
+2600807,Altinho,Falso,PE
+2606705,Ibirajuba,Falso,PE
+2605004,Cupira,Falso,PE
+2610202,Panelas,Falso,PE
+2600302,Agrestina,Falso,PE
+2601300,Barra de Guabiraba,Falso,PE
+2603504,Camocim de São Félix,Falso,PE
+2613305,São Joaquim do Monte,Falso,PE
+2602308,Bonito,Falso,PE
+2608701,Lagoa dos Gatos,Falso,PE
+2612000,Sairé,Falso,PE
+2610608,Paudalho,Falso,PE
+2616308,Vicência,Falso,PE
+2600708,Aliança,Falso,PE
+2609006,Macaparana,Falso,PE
+2607653,Itambé,Falso,PE
+2615300,Timbaúba,Falso,PE
+2604601,Condado,Falso,PE
+2607802,Itaquitinga,Falso,PE
+2605509,Ferreiros,Falso,PE
+2606200,Goiana,Falso,PE
+2603603,Camutanga,Falso,PE
+2602704,Buenos Aires,Falso,PE
+2615508,Tracunhaém,Falso,PE
+2608503,Lagoa de Itaenga,Falso,PE
+2608453,Lagoa do Carro,Falso,PE
+2609501,Nazaré da Mata,Falso,PE
+2604007,Carpina,Falso,PE
+2611309,Pombos,Falso,PE
+2606101,Glória do Goitá,Falso,PE
+2616407,Vitória de Santo Antão,Falso,PE
+2604403,Chã de Alegria,Falso,PE
+2604502,Chã Grande,Falso,PE
+2605905,Gameleira,Falso,PE
+2609204,Maraial,Falso,PE
+2616506,Xexéu,Falso,PE
+2601508,Belém de Maria,Falso,PE
+2600401,Água Preta,Falso,PE
+2612901,São Benedito do Sul,Falso,PE
+2610004,Palmares,Falso,PE
+2608206,Joaquim Nabuco,Falso,PE
+2607950,Jaqueira,Falso,PE
+2604205,Catende,Falso,PE
+2611903,Rio Formoso,Falso,PE
+2614204,Sirinhaém,Falso,PE
+2613404,São José da Coroa Grande,Falso,PE
+2614857,Tamandaré,Falso,PE
+2601409,Barreiros,Falso,PE
+2611507,Quipapá,Falso,PE
+2605202,Escada,Falso,PE
+2604809,Cortês,Falso,PE
+2600906,Amaraji,Falso,PE
+2611408,Primavera,Falso,PE
+2611804,Ribeirão,Falso,PE
+2601052,Araçoiaba,Falso,PE
+2607752,Itapissuma,Falso,PE
+2607604,Ilha de Itamaracá,Falso,PE
+2606804,Igarassu,Falso,PE
+2603454,Camaragibe,Falso,PE
+2613701,São Lourenço da Mata,Falso,PE
+2609600,Olinda,Falso,PE
+2611606,Recife,Verdadeiro,PE
+2610707,Paulista,Falso,PE
+2600054,Abreu e Lima,Falso,PE
+2607901,Jaboatão dos Guararapes,Falso,PE
+2609402,Moreno,Falso,PE
+2602902,Cabo de Santo Agostinho,Falso,PE
+2607208,Ipojuca,Falso,PE
+2605459,Fernando de Noronha,Falso,PE
+2700102,Água Branca,Falso,PE
+2703304,Inhapi,Falso,AL
+2706422,Pariconha,Falso,AL
+2705002,Mata Grande,Falso,AL
+2701605,Canapi,Falso,AL
+2702405,Delmiro Gouveia,Falso,AL
+2705804,Olho d'Água do Casado,Falso,AL
+2707107,Piranhas,Falso,AL
+2708956,Senador Rui Palmeira,Falso,AL
+2702504,Dois Riachos,Falso,AL
+2707206,Poço das Trincheiras,Falso,AL
+2704609,Maravilha,Falso,AL
+2706109,Ouro Branco,Falso,AL
+2708006,Santana do Ipanema,Falso,AL
+2701803,Carneiros,Falso,AL
+2706406,Pão de Açúcar,Falso,AL
+2708402,São José da Tapera,Falso,AL
+2706208,Palestina,Falso,AL
+2703700,Jaramataia,Falso,AL
+2704401,Major Isidoro,Falso,AL
+2706000,Olivença,Falso,AL
+2700706,Batalha,Falso,AL
+2705705,Olho d'Água das Flores,Falso,AL
+2705408,Monteirópolis,Falso,AL
+2700904,Belo Monte,Falso,AL
+2703403,Jacaré dos Homens,Falso,AL
+2704906,Mar Vermelho,Falso,AL
+2704807,Maribondo,Falso,AL
+2709004,Tanque d'Arca,Falso,AL
+2700805,Belém,Falso,AL
+2702553,Estrela de Alagoas,Falso,AL
+2701209,Cacimbinhas,Falso,AL
+2706307,Palmeira dos Índios,Falso,AL
+2705309,Minador do Negrão,Falso,AL
+2706604,Paulo Jacinto,Falso,AL
+2703106,Igaci,Falso,AL
+2707602,Quebrangulo,Falso,AL
+2702603,Feira Grande,Falso,AL
+2702009,Coité do Nóia,Falso,AL
+2708808,São Sebastião,Falso,AL
+2709103,Taquarana,Falso,AL
+2702355,Craíbas,Falso,AL
+2700300,Arapiraca,Falso,AL
+2702900,Girau do Ponciano,Falso,AL
+2704104,Lagoa da Canoa,Falso,AL
+2701506,Campo Grande,Falso,AL
+2704203,Limoeiro de Anadia,Falso,AL
+2708204,São Brás,Falso,AL
+2709202,Traipu,Falso,AL
+2705903,Olho d'Água Grande,Falso,AL
+2708303,São José da Laje,Falso,AL
+2709301,União dos Palmares,Falso,AL
+2703007,Ibateguara,Falso,AL
+2708105,Santana do Mundaú,Falso,AL
+2707008,Pindoba,Falso,AL
+2709400,Viçosa,Falso,AL
+2701902,Chã Preta,Falso,AL
+2702801,Flexeiras,Falso,AL
+2705200,Messias,Falso,AL
+2703809,Joaquim Gomes,Falso,AL
+2705101,Matriz de Camaragibe,Falso,AL
+2708501,São Luís do Quitunde,Falso,AL
+2701357,Campestre,Falso,AL
+2702108,Colônia Leopoldina,Falso,AL
+2703908,Jundiá,Falso,AL
+2707305,Porto Calvo,Falso,AL
+2705606,Novo Lino,Falso,AL
+2703502,Jacuípe,Falso,AL
+2705507,Murici,Falso,AL
+2701100,Branquinha,Falso,AL
+2700409,Atalaia,Falso,AL
+2701308,Cajueiro,Falso,AL
+2701704,Capela,Falso,AL
+2706505,Passo de Camaragibe,Falso,AL
+2703601,Japaratinga,Falso,AL
+2707404,Porto de Pedras,Falso,AL
+2708709,São Miguel dos Milagres,Falso,AL
+2704500,Maragogi,Falso,AL
+2700607,Barra de São Miguel,Falso,AL
+2702207,Coqueiro Seco,Falso,AL
+2707701,Rio Largo,Falso,AL
+2707909,Santa Luzia do Norte,Falso,AL
+2700508,Barra de Santo Antônio,Falso,AL
+2704708,Marechal Deodoro,Falso,AL
+2708907,Satuba,Falso,AL
+2704302,Maceió,Verdadeiro,AL
+2706448,Paripueira,Falso,AL
+2706901,Pilar,Falso,AL
+2702306,Coruripe,Falso,AL
+2701001,Boca da Mata,Falso,AL
+2700201,Anadia,Falso,AL
+2707800,Roteiro,Falso,AL
+2703759,Jequiá da Praia,Falso,AL
+2701407,Campo Alegre,Falso,AL
+2708600,São Miguel dos Campos,Falso,AL
+2709152,Teotônio Vilela,Falso,AL
+2704005,Junqueiro,Falso,AL
+2706802,Piaçabuçu,Falso,AL
+2702702,Feliz Deserto,Falso,AL
+2706703,Penedo,Falso,AL
+2707503,Porto Real do Colégio,Falso,AL
+2703205,Igreja Nova,Falso,AL
+2802205,Feira Nova,Falso,AL
+2804508,Nossa Senhora da Glória,Falso,SE
+2803104,Itabi,Falso,SE
+2802601,Gracho Cardoso,Falso,SE
+2805604,Porto da Folha,Falso,SE
+2802403,Gararu,Falso,SE
+2805406,Poço Redondo,Falso,SE
+2801207,Canindé de São Francisco,Falso,SE
+2804201,Monte Alegre de Sergipe,Falso,SE
+2802304,Frei Paulo,Falso,SE
+2804458,Nossa Senhora Aparecida,Falso,SE
+2801405,Carira,Falso,SE
+2805208,Pinhão,Falso,SE
+2805000,Pedra Mole,Falso,SE
+2806008,Ribeirópolis,Falso,SE
+2804607,Nossa Senhora das Dores,Falso,SE
+2801900,Cumbe,Falso,SE
+2800209,Aquidabã,Falso,SE
+2803807,Malhada dos Bois,Falso,SE
+2804300,Muribeca,Falso,SE
+2807006,São Miguel do Aleixo,Falso,SE
+2803708,Macambira,Falso,SE
+2802908,Itabaiana,Falso,SE
+2806800,São Domingos,Falso,SE
+2801009,Campo do Brito,Falso,SE
+2803906,Malhador,Falso,SE
+2804102,Moita Bonita,Falso,SE
+2800506,Areia Branca,Falso,SE
+2807105,Simão Dias,Falso,SE
+2807402,Tobias Barreto,Falso,SE
+2805505,Poço Verde,Falso,SE
+2805802,Riachão do Dantas,Falso,SE
+2803500,Lagarto,Falso,SE
+2804706,Nossa Senhora de Lourdes,Falso,SE
+2800704,Brejo Grande,Falso,SE
+2801108,Canhoba,Falso,SE
+2807303,Telha,Falso,SE
+2806404,Santana do São Francisco,Falso,SE
+2801603,Cedro de São João,Falso,SE
+2805703,Propriá,Falso,SE
+2804409,Neópolis,Falso,SE
+2800100,Amparo de São Francisco,Falso,SE
+2802700,Ilha das Flores,Falso,SE
+2802007,Divina Pastora,Falso,SE
+2806503,Santa Rosa de Lima,Falso,SE
+2807204,Siriri,Falso,SE
+2801306,Capela,Falso,SE
+2803302,Japaratuba,Falso,SE
+2805307,Pirambu,Falso,SE
+2803401,Japoatã,Falso,SE
+2806909,São Francisco,Falso,SE
+2804904,Pacatuba,Falso,SE
+2805901,Riachuelo,Falso,SE
+2804003,Maruim,Falso,SE
+2803609,Laranjeiras,Falso,SE
+2806107,Rosário do Catete,Falso,SE
+2806602,Santo Amaro das Brotas,Falso,SE
+2801504,Carmópolis,Falso,SE
+2802502,General Maynard,Falso,SE
+2800308,Aracaju,Verdadeiro,SE
+2804805,Nossa Senhora do Socorro,Falso,SE
+2800605,Barra dos Coqueiros,Falso,SE
+2806701,São Cristóvão,Falso,SE
+2800407,Arauá,Falso,SE
+2800670,Boquim,Falso,SE
+2807501,Tomar do Geru,Falso,SE
+2803005,Itabaianinha,Falso,SE
+2805109,Pedrinhas,Falso,SE
+2801702,Cristinápolis,Falso,SE
+2807600,Umbaúba,Falso,SE
+2806206,Salgado,Falso,SE
+2803203,Itaporanga d'Ajuda,Falso,SE
+2806305,Santa Luzia do Itanhy,Falso,SE
+2802809,Indiaroba,Falso,SE
+2802106,Estância,Falso,SE
+2911105,Formosa do Rio Preto,Falso,SE
+2926202,Riachão das Neves,Falso,BA
+2907400,Catolândia,Falso,BA
+2919553,Luís Eduardo Magalhães,Falso,BA
+2902500,Baianópolis,Falso,BA
+2928901,São Desidério,Falso,BA
+2903201,Barreiras,Falso,BA
+2933455,Wanderley,Falso,BA
+2901403,Angical,Falso,BA
+2909703,Cristópolis,Falso,BA
+2909406,Cotegipe,Falso,BA
+2904407,Brejolândia,Falso,BA
+2930907,Tabocas do Brejo Velho,Falso,BA
+2920452,Mansidão,Falso,BA
+2928406,Santa Rita de Cássia,Falso,BA
+2928208,Santana,Falso,BA
+2930303,Serra Dourada,Falso,BA
+2929057,São Félix do Coribe,Falso,BA
+2909307,Correntina,Falso,BA
+2908101,Cocos,Falso,BA
+2928109,Santa Maria da Vitória,Falso,BA
+2906105,Canápolis,Falso,BA
+2909109,Coribe,Falso,BA
+2917359,Jaborandi,Falso,BA
+2924405,Pilão Arcado,Falso,BA
+2918407,Juazeiro,Falso,BA
+2926004,Remanso,Falso,BA
+2909901,Curaçá,Falso,BA
+2930774,Sobradinho,Falso,BA
+2905909,Campo Alegre de Lourdes,Falso,BA
+2930204,Sento Sé,Falso,BA
+2907202,Casa Nova,Falso,BA
+2924009,Paulo Afonso,Falso,BA
+2907707,Chorrochó,Falso,BA
+2919900,Macururé,Falso,BA
+2911402,Glória,Falso,BA
+2900207,Abaré,Falso,BA
+2927101,Rodelas,Falso,BA
+2915353,Itaguaçu da Bahia,Falso,BA
+2913200,Ibotirama,Falso,BA
+2904753,Buritirama,Falso,BA
+2933604,Xique-Xique,Falso,BA
+2921609,Morpará,Falso,BA
+2902708,Barra,Falso,BA
+2922250,Muquém de São Francisco,Falso,BA
+2910776,Feira da Mata,Falso,BA
+2907103,Carinhanha,Falso,BA
+2930154,Serra do Ramalho,Falso,BA
+2930758,Sítio do Mato,Falso,BA
+2903904,Bom Jesus da Lapa,Falso,BA
+2923704,Paratinga,Falso,BA
+2901353,Andorinha,Falso,BA
+2910859,Filadélfia,Falso,BA
+2901809,Antônio Gonçalves,Falso,BA
+2924603,Pindobaçu,Falso,BA
+2917003,Itiúba,Falso,BA
+2930105,Senhor do Bonfim,Falso,BA
+2917706,Jaguarari,Falso,BA
+2906006,Campo Formoso,Falso,BA
+2932457,Umburanas,Falso,BA
+2907608,Central,Falso,BA
+2901155,América Dourada,Falso,BA
+2914604,Irecê,Falso,BA
+2918357,João Dourado,Falso,BA
+2919157,Lapão,Falso,BA
+2906204,Canarana,Falso,BA
+2922052,Mulungu do Morro,Falso,BA
+2903003,Barra do Mendes,Falso,BA
+2905305,Cafarnaum,Falso,BA
+2929255,São Gabriel,Falso,BA
+2912400,Ibipeba,Falso,BA
+2918506,Jussara,Falso,BA
+2903235,Barro Alto,Falso,BA
+2932408,Uibaí,Falso,BA
+2925600,Presidente Dutra,Falso,BA
+2913101,Ibititá,Falso,BA
+2911303,Gentio do Ouro,Falso,BA
+2914406,Iraquara,Falso,BA
+2930808,Souto Soares,Falso,BA
+2921708,Morro do Chapéu,Falso,BA
+2925253,Ponto Novo,Falso,BA
+2905503,Caldeirão Grande,Falso,BA
+2923357,Ourolândia,Falso,BA
+2921203,Miguel Calmon,Falso,BA
+2930600,Serrolândia,Falso,BA
+2917508,Jacobina,Falso,BA
+2929800,Saúde,Falso,BA
+2921401,Mirangaba,Falso,BA
+2924801,Piritiba,Falso,BA
+2905107,Caém,Falso,BA
+2906873,Capim Grosso,Falso,BA
+2925931,Quixabeira,Falso,BA
+2929370,São José do Jacuípe,Falso,BA
+2933109,Várzea do Poço,Falso,BA
+2933158,Várzea Nova,Falso,BA
+2902609,Baixa Grande,Falso,BA
+2919603,Macajuba,Falso,BA
+2922102,Mundo Novo,Falso,BA
+2920106,Mairi,Falso,BA
+2933059,Várzea da Roça,Falso,BA
+2931301,Tapiramutá,Falso,BA
+2914703,Itaberaba,Falso,BA
+2903805,Boa Vista do Tupim,Falso,BA
+2912608,Ibiquera,Falso,BA
+2911907,Iaçu,Falso,BA
+2927200,Ruy Barbosa,Falso,BA
+2919009,Lajedinho,Falso,BA
+2931400,Teodoro Sampaio,Falso,BA
+2924108,Pedrão,Falso,BA
+2910305,Elísio Medrado,Falso,BA
+2916856,Itatim,Falso,BA
+2928505,Santa Teresinha,Falso,BA
+2929305,São Gonçalo dos Campos,Falso,BA
+2908507,Conceição do Jacuípe,Falso,BA
+2900405,Água Fria,Falso,BA
+2901700,Antônio Cardoso,Falso,BA
+2924652,Pintadas,Falso,BA
+2925956,Rafael Jambeiro,Falso,BA
+2923308,Ouriçangas,Falso,BA
+2927507,Santa Bárbara,Falso,BA
+2930402,Serra Preta,Falso,BA
+2908200,Conceição da Feira,Falso,BA
+2913804,Ipecaetá,Falso,BA
+2931103,Tanquinho,Falso,BA
+2928307,Santanópolis,Falso,BA
+2914505,Irará,Falso,BA
+2928802,Santo Estêvão,Falso,BA
+2914000,Ipirá,Falso,BA
+2910800,Feira de Santana,Falso,BA
+2908903,Coração de Maria,Falso,BA
+2901502,Anguera,Falso,BA
+2927606,Santa Brígida,Falso,BA
+2930766,Sítio do Quinto,Falso,BA
+2924207,Pedro Alexandre,Falso,BA
+2909208,Coronel João Sá,Falso,BA
+2918100,Jeremoabo,Falso,BA
+2932002,Uauá,Falso,BA
+2931905,Tucano,Falso,BA
+2906808,Cansanção,Falso,BA
+2906824,Canudos,Falso,BA
+2910701,Euclides da Cunha,Falso,BA
+2925907,Quijingue,Falso,BA
+2921500,Monte Santo,Falso,BA
+2925808,Queimadas,Falso,BA
+2922656,Nordestina,Falso,BA
+2916500,Itapicuru,Falso,BA
+2923100,Olindina,Falso,BA
+2902658,Banzaê,Falso,BA
+2907905,Cipó,Falso,BA
+2926608,Ribeira do Pombal,Falso,BA
+2926509,Ribeira do Amparo,Falso,BA
+2922904,Nova Soure,Falso,BA
+2901601,Antas,Falso,BA
+2911857,Heliópolis,Falso,BA
+2907806,Cícero Dantas,Falso,BA
+2910750,Fátima,Falso,BA
+2900355,Adustina,Falso,BA
+2923803,Paripiranga,Falso,BA
+2923050,Novo Triunfo,Falso,BA
+2919108,Lamarão,Falso,BA
+2926301,Riachão do Jacuípe,Falso,BA
+2906857,Capela do Alto Alegre,Falso,BA
+2911253,Gavião,Falso,BA
+2924058,Pé de Serra,Falso,BA
+2913309,Ichu,Falso,BA
+2906402,Candeal,Falso,BA
+2922730,Nova Fátima,Falso,BA
+2908408,Conceição do Coité,Falso,BA
+2933000,Valente,Falso,BA
+2928000,Santaluz,Falso,BA
+2926103,Retirolândia,Falso,BA
+2928950,São Domingos,Falso,BA
+2930501,Serrinha,Falso,BA
+2902104,Araci,Falso,BA
+2903276,Barrocas,Falso,BA
+2931509,Teofilândia,Falso,BA
+2903607,Biritinga,Falso,BA
+2913705,Inhambupe,Falso,BA
+2901908,Aporá,Falso,BA
+2900306,Acajutiba,Falso,BA
+2927002,Rio Real,Falso,BA
+2900702,Alagoinhas,Falso,BA
+2929701,Sátiro Dias,Falso,BA
+2902203,Aramari,Falso,BA
+2909604,Crisópolis,Falso,BA
+2902054,Araças,Falso,BA
+2910602,Esplanada,Falso,BA
+2908606,Conde,Falso,BA
+2907004,Cardeal da Silva,Falso,BA
+2917904,Jandaíra,Falso,BA
+2910503,Entre Rios,Falso,BA
+2915908,Itanagra,Falso,BA
+2907509,Catu,Falso,BA
+2931707,Terra Nova,Falso,BA
+2929503,São Sebastião do Passé,Falso,BA
+2925204,Pojuca,Falso,BA
+2921005,Mata de São João,Falso,BA
+2901106,Amélia Rodrigues,Falso,BA
+2929750,Saubara,Falso,BA
+2928604,Santo Amaro,Falso,BA
+2910206,Dom Macedo Costa,Falso,BA
+2933174,Varzedo,Falso,BA
+2928703,Santo Antônio de Jesus,Falso,BA
+2922201,Muniz Ferreira,Falso,BA
+2929602,Sapeaçu,Falso,BA
+2907301,Castro Alves,Falso,BA
+2904852,Cabaceiras do Paraguaçu,Falso,BA
+2904902,Cachoeira,Falso,BA
+2909802,Cruz das Almas,Falso,BA
+2929008,São Félix,Falso,BA
+2908309,Conceição do Almeida,Falso,BA
+2911600,Governador Mangabeira,Falso,BA
+2929107,São Felipe,Falso,BA
+2922300,Muritiba,Falso,BA
+2902302,Aratuípe,Falso,BA
+2922508,Nazaré,Falso,BA
+2917805,Jaguaripe,Falso,BA
+2920601,Maragogipe,Falso,BA
+2927309,Salinas da Margarida,Falso,BA
+2910057,Dias d'Ávila,Falso,BA
+2930709,Simões Filho,Falso,BA
+2905701,Camaçari,Falso,BA
+2927408,Salvador,Verdadeiro,BA
+2929206,São Francisco do Conde,Falso,BA
+2919207,Lauro de Freitas,Falso,BA
+2906501,Candeias,Falso,BA
+2919926,Madre de Deus,Falso,BA
+2916104,Itaparica,Falso,BA
+2933208,Vera Cruz,Falso,BA
+2907558,Caturama,Falso,BA
+2904209,Botuporã,Falso,BA
+2931053,Tanque Novo,Falso,BA
+2919801,Macaúbas,Falso,BA
+2904100,Boquira,Falso,BA
+2912509,Ibipitanga,Falso,BA
+2923209,Oliveira dos Brejinhos,Falso,BA
+2904506,Brotas de Macaúbas,Falso,BA
+2914109,Ipupiara,Falso,BA
+2913002,Ibitiara,Falso,BA
+2923035,Novo Horizonte,Falso,BA
+2912202,Ibicoara,Falso,BA
+2902807,Barra da Estiva,Falso,BA
+2908804,Contendas do Sincorá,Falso,BA
+2918605,Jussiape,Falso,BA
+2926707,Rio de Contas,Falso,BA
+2900108,Abaíra,Falso,BA
+2904050,Bonito,Falso,BA
+2933406,Wagner,Falso,BA
+2922854,Nova Redenção,Falso,BA
+2901304,Andaraí,Falso,BA
+2932804,Utinga,Falso,BA
+2915007,Itaeté,Falso,BA
+2921906,Mucugê,Falso,BA
+2923506,Palmeiras,Falso,BA
+2904001,Boninal,Falso,BA
+2929909,Seabra,Falso,BA
+2919306,Lençóis,Falso,BA
+2924306,Piatã,Falso,BA
+2901007,Amargosa,Falso,BA
+2932101,Ubaíra,Falso,BA
+2918803,Laje,Falso,BA
+2904308,Brejões,Falso,BA
+2929404,São Miguel das Matas,Falso,BA
+2921302,Milagres,Falso,BA
+2918209,Jiquiriçá,Falso,BA
+2922805,Nova Itarana,Falso,BA
+2922409,Mutuípe,Falso,BA
+2914307,Iramaia,Falso,BA
+2927903,Santa Inês,Falso,BA
+2917607,Jaguaquara,Falso,BA
+2900603,Aiquara,Falso,BA
+2914208,Irajuba,Falso,BA
+2909505,Cravolândia,Falso,BA
+2901957,Apuarema,Falso,BA
+2920502,Maracás,Falso,BA
+2918704,Lafaiete Coutinho,Falso,BA
+2918308,Jitaúna,Falso,BA
+2916708,Itaquara,Falso,BA
+2915106,Itagi,Falso,BA
+2919058,Lajedo do Tabocal,Falso,BA
+2916906,Itiruçu,Falso,BA
+2924900,Planaltino,Falso,BA
+2918001,Jequié,Falso,BA
+2920809,Marcionílio Souza,Falso,BA
+2919504,Livramento de Nossa Senhora,Falso,BA
+2926905,Rio do Pires,Falso,BA
+2923605,Paramirim,Falso,BA
+2900504,Érico Cardoso,Falso,BA
+2910107,Dom Basílio,Falso,BA
+2919405,Licínio de Almeida,Falso,BA
+2932606,Urandi,Falso,BA
+2917409,Jacaraci,Falso,BA
+2918753,Lagoa Real,Falso,BA
+2926400,Riacho de Santana,Falso,BA
+2924504,Pindaí,Falso,BA
+2921807,Mortugaba,Falso,BA
+2921054,Matina,Falso,BA
+2905206,Caetité,Falso,BA
+2930006,Sebastião Laranjeiras,Falso,BA
+2913408,Igaporã,Falso,BA
+2906600,Candiba,Falso,BA
+2923407,Palmas de Monte Alto,Falso,BA
+2912004,Ibiassucê,Falso,BA
+2920205,Malhada,Falso,BA
+2905008,Caculé,Falso,BA
+2917334,Iuiú,Falso,BA
+2911709,Guanambi,Falso,BA
+2917201,Ituaçu,Falso,BA
+2906899,Caraíbas,Falso,BA
+2919959,Maetinga,Falso,BA
+2908705,Condeúba,Falso,BA
+2931806,Tremedal,Falso,BA
+2931004,Tanhaçu,Falso,BA
+2924702,Piripá,Falso,BA
+2925709,Presidente Jânio Quadros,Falso,BA
+2909000,Cordeiros,Falso,BA
+2920304,Malhada de Pedras,Falso,BA
+2902005,Aracatu,Falso,BA
+2904605,Brumado,Falso,BA
+2926806,Rio do Antônio,Falso,BA
+2911659,Guajeru,Falso,BA
+2912301,Ibicuí,Falso,BA
+2903508,Belo Campo,Falso,BA
+2922706,Nova Canaã,Falso,BA
+2901205,Anagé,Falso,BA
+2913507,Iguaí,Falso,BA
+2903953,Bom Jesus da Serra,Falso,BA
+2906709,Cândido Sales,Falso,BA
+2921450,Mirante,Falso,BA
+2905156,Caetanos,Falso,BA
+2925105,Poções,Falso,BA
+2902906,Barra do Choça,Falso,BA
+2933307,Vitória da Conquista,Falso,BA
+2904803,Caatiba,Falso,BA
+2925006,Planalto,Falso,BA
+2903706,Boa Nova,Falso,BA
+2920403,Manoel Vitorino,Falso,BA
+2910008,Dário Meira,Falso,BA
+2926657,Ribeirão do Largo,Falso,BA
+2910404,Encruzilhada,Falso,BA
+2915809,Itambé,Falso,BA
+2916401,Itapetinga,Falso,BA
+2916807,Itarantim,Falso,BA
+2919702,Macarani,Falso,BA
+2920007,Maiquinique,Falso,BA
+2925402,Potiraguá,Falso,BA
+2917102,Itororó,Falso,BA
+2917300,Ituberá,Falso,BA
+2922607,Nilo Peçanha,Falso,BA
+2905404,Cairu,Falso,BA
+2925758,Presidente Tancredo Neves,Falso,BA
+2931202,Taperoá,Falso,BA
+2932903,Valença,Falso,BA
+2913457,Igrapiúna,Falso,BA
+2905800,Camamu,Falso,BA
+2920700,Maraú,Falso,BA
+2924678,Piraí do Norte,Falso,BA
+2932705,Uruçuca,Falso,BA
+2911006,Floresta Azul,Falso,BA
+2912707,Ibirapitanga,Falso,BA
+2932200,Ubaitaba,Falso,BA
+2916609,Itapitanga,Falso,BA
+2929354,São José da Vitória,Falso,BA
+2916203,Itapé,Falso,BA
+2915502,Itajuípe,Falso,BA
+2908002,Coaraci,Falso,BA
+2915403,Itaju do Colônia,Falso,BA
+2912103,Ibicaraí,Falso,BA
+2902401,Aurelino Leal,Falso,BA
+2903300,Barro Preto,Falso,BA
+2904704,Buerarema,Falso,BA
+2927804,Santa Cruz da Vitória,Falso,BA
+2910909,Firmino Alves,Falso,BA
+2913606,Ilhéus,Falso,BA
+2914802,Itabuna,Falso,BA
+2900900,Almadina,Falso,BA
+2914901,Itacaré,Falso,BA
+2903409,Belmonte,Falso,BA
+2916302,Itapebi,Falso,BA
+2902252,Arataca,Falso,BA
+2920908,Mascote,Falso,BA
+2928059,Santa Luzia,Falso,BA
+2905602,Camacan,Falso,BA
+2906303,Canavieiras,Falso,BA
+2918555,Jussari,Falso,BA
+2932507,Una,Falso,BA
+2923902,Pau Brasil,Falso,BA
+2915700,Itamari,Falso,BA
+2913903,Ipiaú,Falso,BA
+2922755,Nova Ibiá,Falso,BA
+2932309,Ubatã,Falso,BA
+2933505,Wenceslau Guimarães,Falso,BA
+2915205,Itagibá,Falso,BA
+2911501,Gongogi,Falso,BA
+2911204,Gandu,Falso,BA
+2903102,Barra do Rocha,Falso,BA
+2912905,Ibirataia,Falso,BA
+2931608,Teolândia,Falso,BA
+2923001,Nova Viçosa,Falso,BA
+2933257,Vereda,Falso,BA
+2915601,Itamaraju,Falso,BA
+2900801,Alcobaça,Falso,BA
+2922003,Mucuri,Falso,BA
+2912806,Ibirapuã,Falso,BA
+2931350,Teixeira de Freitas,Falso,BA
+2916005,Itanhém,Falso,BA
+2921104,Medeiros Neto,Falso,BA
+2906907,Caravelas,Falso,BA
+2918902,Lajedão,Falso,BA
+2925501,Prado,Falso,BA
+2918456,Jucuruçu,Falso,BA
+2927705,Santa Cruz Cabrália,Falso,BA
+2911808,Guaratinga,Falso,BA
+2915304,Itagimirim,Falso,BA
+2914653,Itabela,Falso,BA
+2910727,Eunápolis,Falso,BA
+2925303,Porto Seguro,Falso,BA
+3126208,Formoso,Falso,BA
+3109303,Buritis,Falso,MG
+3170479,Uruana de Minas,Falso,MG
+3170404,Unaí,Falso,MG
+3109451,Cabeceira Grande,Falso,MG
+3144375,Natalândia,Falso,MG
+3108206,Bonfinópolis de Minas,Falso,MG
+3104502,Arinos,Falso,MG
+3122470,Dom Bosco,Falso,MG
+3147006,Paracatu,Falso,MG
+3136306,João Pinheiro,Falso,MG
+3108552,Brasilândia de Minas,Falso,MG
+3153400,Presidente Olegário,Falso,MG
+3171006,Vazante,Falso,MG
+3170750,Varjão de Minas,Falso,MG
+3137536,Lagoa Grande,Falso,MG
+3161700,São Gonçalo do Abaeté,Falso,MG
+3137106,Lagamar,Falso,MG
+3128600,Guarda-Mor,Falso,MG
+3140852,Matias Cardoso,Falso,MG
+3139300,Manga,Falso,MG
+3142254,Miravânia,Falso,MG
+3135209,Januária,Falso,MG
+3132107,Itacarambi,Falso,MG
+3149150,Pedras de Maria da Cruz,Falso,MG
+3136959,Juvenília,Falso,MG
+3162450,São João das Missões,Falso,MG
+3108255,Bonito de Minas,Falso,MG
+3142700,Montalvânia,Falso,MG
+3117836,Cônego Marinho,Falso,MG
+3130051,Icaraí de Minas,Falso,MG
+3116159,Chapada Gaúcha,Falso,MG
+3161106,São Francisco,Falso,MG
+3150570,Pintópolis,Falso,MG
+3170529,Urucuia,Falso,MG
+3145059,Nova Porteirinha,Falso,MG
+3135050,Jaíba,Falso,MG
+3152204,Porteirinha,Falso,MG
+3154507,Riacho dos Machados,Falso,MG
+3166956,Serranópolis de Minas,Falso,MG
+3146552,Pai Pedro,Falso,MG
+3135100,Janaúba,Falso,MG
+3142908,Monte Azul,Falso,MG
+3115474,Catuti,Falso,MG
+3124302,Espinosa,Falso,MG
+3141009,Mato Verde,Falso,MG
+3127339,Gameleiras,Falso,MG
+3139250,Mamonas,Falso,MG
+3157005,Salinas,Falso,MG
+3156502,Rubelita,Falso,MG
+3127073,Fruta de Leite,Falso,MG
+3155603,Rio Pardo de Minas,Falso,MG
+3157377,Santa Cruz de Salinas,Falso,MG
+3106655,Berizal,Falso,MG
+3145372,Novorizonte,Falso,MG
+3120870,Curral de Dentro,Falso,MG
+3162708,São João do Paraíso,Falso,MG
+3144656,Ninheira,Falso,MG
+3168002,Taiobeiras,Falso,MG
+3170651,Vargem Grande do Rio Pardo,Falso,MG
+3130655,Indaiabira,Falso,MG
+3143450,Montezuma,Falso,MG
+3160454,Santo Antônio do Retiro,Falso,MG
+3101003,Águas Vermelhas,Falso,MG
+3122355,Divisa Alegre,Falso,MG
+3137304,Lagoa dos Patos,Falso,MG
+3135605,Jequitaí,Falso,MG
+3129608,Ibiaí,Falso,MG
+3151206,Pirapora,Falso,MG
+3138104,Lassance,Falso,MG
+3109402,Buritizeiro,Falso,MG
+3170800,Várzea da Palma,Falso,MG
+3157609,Santa Fé de Minas,Falso,MG
+3164209,São Romão,Falso,MG
+3154457,Riachinho,Falso,MG
+3108602,Brasília de Minas,Falso,MG
+3136801,Juramento,Falso,MG
+3111150,Campo Azul,Falso,MG
+3129657,Ibiracatu,Falso,MG
+3162658,São João do Pacuí,Falso,MG
+3143302,Montes Claros,Falso,MG
+3112703,Capitão Enéas,Falso,MG
+3162252,São João da Lagoa,Falso,MG
+3138658,Lontra,Falso,MG
+3147956,Patis,Falso,MG
+3127354,Glaucilândia,Falso,MG
+3142007,Mirabela,Falso,MG
+3135357,Japonvar,Falso,MG
+3170909,Varzelândia,Falso,MG
+3118809,Coração de Jesus,Falso,MG
+3138682,Luislândia,Falso,MG
+3126703,Francisco Sá,Falso,MG
+3162401,São João da Ponte,Falso,MG
+3116506,Claro dos Poções,Falso,MG
+3171030,Verdelândia,Falso,MG
+3152131,Ponto Chique,Falso,MG
+3170008,Ubaí,Falso,MG
+3120300,Cristália,Falso,MG
+3108503,Botumirim,Falso,MG
+3136579,Josenópolis,Falso,MG
+3127800,Grão Mogol,Falso,MG
+3132008,Itacambira,Falso,MG
+3146255,Padre Carvalho,Falso,MG
+3123809,Engenheiro Navarro,Falso,MG
+3128253,Guaraciama,Falso,MG
+3145455,Olhos-d'Água,Falso,MG
+3107307,Bocaiúva,Falso,MG
+3126604,Francisco Dumont,Falso,MG
+3165909,Senador Modestino Gonçalves,Falso,MG
+3125408,Felício dos Santos,Falso,MG
+3121001,Datas,Falso,MG
+3127602,Gouveia,Falso,MG
+3153301,Presidente Kubitschek,Falso,MG
+3125507,São Gonçalo do Rio Preto,Falso,MG
+3120102,Couto de Magalhães de Minas,Falso,MG
+3121605,Diamantina,Falso,MG
+3104452,Aricanduva,Falso,MG
+3102852,Angelândia,Falso,MG
+3112307,Capelinha,Falso,MG
+3138351,Leme do Prado,Falso,MG
+3141801,Minas Novas,Falso,MG
+3171071,Veredinha,Falso,MG
+3132503,Itamarandiba,Falso,MG
+3116100,Chapada do Norte,Falso,MG
+3169703,Turmalina,Falso,MG
+3113503,Carbonita,Falso,MG
+3136520,José Gonçalves de Minas,Falso,MG
+3106507,Berilo,Falso,MG
+3135456,Jenipapo de Minas,Falso,MG
+3126505,Francisco Badaró,Falso,MG
+3152170,Ponto dos Volantes,Falso,MG
+3145307,Novo Cruzeiro,Falso,MG
+3146305,Padre Paraíso,Falso,MG
+3113008,Caraí,Falso,MG
+3103405,Araçuaí,Falso,MG
+3171600,Virgem da Lapa,Falso,MG
+3119500,Coronel Murta,Falso,MG
+3134004,Itinga,Falso,MG
+3133303,Itaobim,Falso,MG
+3102704,Cachoeira de Pajeú,Falso,MG
+3148707,Pedra Azul,Falso,MG
+3141405,Medina,Falso,MG
+3117009,Comercinho,Falso,MG
+3143153,Monte Formoso,Falso,MG
+3134707,Jacinto,Falso,MG
+3146750,Palmópolis,Falso,MG
+3136009,Joaíma,Falso,MG
+3157104,Salto da Divisa,Falso,MG
+3155108,Rio do Prado,Falso,MG
+3101706,Almenara,Falso,MG
+3125606,Felisburgo,Falso,MG
+3158102,Santa Maria do Salto,Falso,MG
+3105202,Bandeira,Falso,MG
+3136504,Jordânia,Falso,MG
+3135803,Jequitinhonha,Falso,MG
+3156601,Rubim,Falso,MG
+3160306,Santo Antônio do Jacinto,Falso,MG
+3140555,Mata Verde,Falso,MG
+3122454,Divisópolis,Falso,MG
+3148509,Pavão,Falso,MG
+3145356,Novo Oriente de Minas,Falso,MG
+3132305,Itaipé,Falso,MG
+3115458,Catuji,Falso,MG
+3139201,Malacacheta,Falso,MG
+3146206,Ouro Verde de Minas,Falso,MG
+3165552,Setubinha,Falso,MG
+3104700,Ataléia,Falso,MG
+3168606,Teófilo Otoni,Falso,MG
+3137007,Ladainha,Falso,MG
+3126802,Frei Gaspar,Falso,MG
+3126752,Franciscópolis,Falso,MG
+3152402,Poté,Falso,MG
+3166709,Serra dos Aimorés,Falso,MG
+3144300,Nanuque,Falso,MG
+3113701,Carlos Chagas,Falso,MG
+3170305,Umburatiba,Falso,MG
+3127057,Fronteira dos Vales,Falso,MG
+3106606,Bertópolis,Falso,MG
+3100906,Águas Formosas,Falso,MG
+3157658,Santa Helena de Minas,Falso,MG
+3138906,Machacalis,Falso,MG
+3120151,Crisólita,Falso,MG
+3129103,Gurinhatã,Falso,MG
+3112604,Capinópolis,Falso,MG
+3159803,Santa Vitória,Falso,MG
+3134202,Ituiutaba,Falso,MG
+3131406,Ipiaçu,Falso,MG
+3109808,Cachoeira Dourada,Falso,MG
+3111804,Canápolis,Falso,MG
+3103751,Araporã,Falso,MG
+3115003,Cascalho Rico,Falso,MG
+3115805,Centralina,Falso,MG
+3152808,Prata,Falso,MG
+3170206,Uberlândia,Falso,MG
+3142809,Monte Alegre de Minas,Falso,MG
+3169604,Tupaciguara,Falso,MG
+3130705,Indianópolis,Falso,MG
+3103504,Araguari,Falso,MG
+3124807,Estrela do Sul,Falso,MG
+3127909,Grupiara,Falso,MG
+3156403,Romaria,Falso,MG
+3143104,Monte Carmelo,Falso,MG
+3123502,Douradoquara,Falso,MG
+3131604,Iraí de Minas,Falso,MG
+3100104,Abadia dos Dourados,Falso,MG
+3119302,Coromandel,Falso,MG
+3166808,Serra do Salitre,Falso,MG
+3120706,Cruzeiro da Fortaleza,Falso,MG
+3148103,Patrocínio,Falso,MG
+3159704,Santa Rosa da Serra,Falso,MG
+3162104,São Gotardo,Falso,MG
+3137502,Lagoa Formosa,Falso,MG
+3155504,Rio Paranaíba,Falso,MG
+3148004,Patos de Minas,Falso,MG
+3168903,Tiros,Falso,MG
+3114303,Carmo do Paranaíba,Falso,MG
+3103801,Arapuá,Falso,MG
+3141207,Matutina,Falso,MG
+3128907,Guimarânia,Falso,MG
+3151602,Planura,Falso,MG
+3133402,Itapagipe,Falso,MG
+3150703,Pirajuba,Falso,MG
+3127008,Fronteira,Falso,MG
+3116902,Comendador Gomes,Falso,MG
+3127107,Frutal,Falso,MG
+3114550,Carneirinho,Falso,MG
+3138625,Limeira do Oeste,Falso,MG
+3170438,União de Minas,Falso,MG
+3134400,Iturama,Falso,MG
+3161304,São Francisco de Sales,Falso,MG
+3111101,Campina Verde,Falso,MG
+3117306,Conceição das Alagoas,Falso,MG
+3118205,Conquista,Falso,MG
+3170107,Uberaba,Falso,MG
+3100708,Água Comprida,Falso,MG
+3121258,Delta,Falso,MG
+3111408,Campo Florido,Falso,MG
+3171105,Veríssimo,Falso,MG
+3145000,Nova Ponte,Falso,MG
+3156908,Sacramento,Falso,MG
+3157708,Santa Juliana,Falso,MG
+3149804,Perdizes,Falso,MG
+3111507,Campos Altos,Falso,MG
+3129509,Ibiá,Falso,MG
+3104007,Araxá,Falso,MG
+3149200,Pedrinópolis,Falso,MG
+3168101,Tapira,Falso,MG
+3153004,Pratinha,Falso,MG
+3169356,Três Marias,Falso,MG
+3152006,Pompéu,Falso,MG
+3146404,Paineiras,Falso,MG
+3100203,Abaeté,Falso,MG
+3115607,Cedro do Abaeté,Falso,MG
+3143500,Morada Nova de Minas,Falso,MG
+3107000,Biquinhas,Falso,MG
+3142502,Monjolos,Falso,MG
+3109204,Buenópolis,Falso,MG
+3125705,Felixlândia,Falso,MG
+3143609,Morro da Garça,Falso,MG
+3120904,Curvelo,Falso,MG
+3104809,Augusto de Lima,Falso,MG
+3153202,Presidente Juscelino,Falso,MG
+3160603,Santo Hipólito,Falso,MG
+3119104,Corinto,Falso,MG
+3131109,Inimutaba,Falso,MG
+3136405,Joaquim Felício,Falso,MG
+3103900,Araújos,Falso,MG
+3138302,Leandro Ferreira,Falso,MG
+3135308,Japaraíba,Falso,MG
+3137205,Lagoa da Prata,Falso,MG
+3153707,Quartel Geral,Falso,MG
+3107406,Bom Despacho,Falso,MG
+3166600,Serra da Saudade,Falso,MG
+3123205,Dores do Indaiá,Falso,MG
+3142403,Moema,Falso,MG
+3124708,Estrela do Indaiá,Falso,MG
+3140506,Martinho Campos,Falso,MG
+3138807,Luz,Falso,MG
+3134608,Jaboticatubas,Falso,MG
+3135704,Jequitibá,Falso,MG
+3153608,Prudente de Morais,Falso,MG
+3127206,Funilândia,Falso,MG
+3158508,Santana de Pirapama,Falso,MG
+3159001,Santana do Riacho,Falso,MG
+3112505,Capim Branco,Falso,MG
+3105004,Baldim,Falso,MG
+3109907,Caetanópolis,Falso,MG
+3147402,Paraopeba,Falso,MG
+3126406,Fortuna de Minas,Falso,MG
+3141108,Matozinhos,Falso,MG
+3118908,Cordisburgo,Falso,MG
+3167202,Sete Lagoas,Falso,MG
+3131000,Inhaúma,Falso,MG
+3103207,Araçaí,Falso,MG
+3109600,Cachoeira da Prata,Falso,MG
+3139706,Maravilhas,Falso,MG
+3146909,Papagaios,Falso,MG
+3149606,Pequi,Falso,MG
+3117504,Conceição do Mato Dentro,Falso,MG
+3143708,Morro do Pilar,Falso,MG
+3118106,Congonhas do Norte,Falso,MG
+3132800,Itambé do Mato Dentro,Falso,MG
+3147501,Passabém,Falso,MG
+3164803,São Sebastião do Rio Preto,Falso,MG
+3160504,Santo Antônio do Rio Abaixo,Falso,MG
+3166501,Serra Azul de Minas,Falso,MG
+3102407,Alvorada de Minas,Falso,MG
+3160207,Santo Antônio do Itambé,Falso,MG
+3167103,Serro,Falso,MG
+3122603,Dom Joaquim,Falso,MG
+3156007,Rio Vermelho,Falso,MG
+3126000,Florestal,Falso,MG
+3151404,Pitangui,Falso,MG
+3163102,São José da Varginha,Falso,MG
+3147105,Pará de Minas,Falso,MG
+3145802,Onça de Pitangui,Falso,MG
+3144805,Nova Lima,Falso,MG
+3153905,Raposos,Falso,MG
+3149309,Pedro Leopoldo,Falso,MG
+3110004,Caeté,Falso,MG
+3109006,Brumadinho,Falso,MG
+3165537,Sarzedo,Falso,MG
+3117876,Confins,Falso,MG
+3137601,Lagoa Santa,Falso,MG
+3140704,Mateus Leme,Falso,MG
+3154606,Ribeirão das Neves,Falso,MG
+3162955,São José da Lapa,Falso,MG
+3129806,Ibirité,Falso,MG
+3124104,Esmeraldas,Falso,MG
+3157807,Santa Luzia,Falso,MG
+3171204,Vespasiano,Falso,MG
+3140159,Mário Campos,Falso,MG
+3130101,Igarapé,Falso,MG
+3136652,Juatuba,Falso,MG
+3106705,Betim,Falso,MG
+3162922,São Joaquim de Bicas,Falso,MG
+3106200,Belo Horizonte,Verdadeiro,MG
+3154804,Rio Acima,Falso,MG
+3118601,Contagem,Falso,MG
+3156700,Sabará,Falso,MG
+3136603,Nova União,Falso,MG
+3168309,Taquaraçu de Minas,Falso,MG
+3157203,Santa Bárbara,Falso,MG
+3115359,Catas Altas,Falso,MG
+3105400,Barão de Cocais,Falso,MG
+3125903,Ferros,Falso,MG
+3158003,Santa Maria de Itabira,Falso,MG
+3107703,Bom Jesus do Amparo,Falso,MG
+3131703,Itabira,Falso,MG
+3121803,Dionísio,Falso,MG
+3163409,São José do Goiabal,Falso,MG
+3161007,São Domingos do Prata,Falso,MG
+3144706,Nova Era,Falso,MG
+3161908,São Gonçalo do Rio Abaixo,Falso,MG
+3106002,Bela Vista de Minas,Falso,MG
+3155702,Rio Piracicaba,Falso,MG
+3136207,João Monlevade,Falso,MG
+3102308,Alvinópolis,Falso,MG
+3142304,Moeda,Falso,MG
+3106408,Belo Vale,Falso,MG
+3135407,Jeceaba,Falso,MG
+3133709,Itatiaiuçu,Falso,MG
+3108107,Bonfim,Falso,MG
+3132206,Itaguara,Falso,MG
+3155306,Rio Manso,Falso,MG
+3150406,Piedade dos Gerais,Falso,MG
+3120607,Crucilândia,Falso,MG
+3140001,Mariana,Falso,MG
+3146107,Ouro Preto,Falso,MG
+3131901,Itabirito,Falso,MG
+3121704,Diogo de Vasconcelos,Falso,MG
+3133907,Itaverava,Falso,MG
+3160900,São Brás do Suaçuí,Falso,MG
+3120409,Cristiano Otoni,Falso,MG
+3121407,Desterro de Entre Rios,Falso,MG
+3118007,Congonhas,Falso,MG
+3159100,Santana dos Montes,Falso,MG
+3118304,Conselheiro Lafaiete,Falso,MG
+3123908,Entre Rios de Minas,Falso,MG
+3153806,Queluzito,Falso,MG
+3114907,Casa Grande,Falso,MG
+3115409,Catas Altas da Noruega,Falso,MG
+3145901,Ouro Branco,Falso,MG
+3113800,Carmésia,Falso,MG
+3165503,Sardoá,Falso,MG
+3157500,Santa Efigênia de Minas,Falso,MG
+3127503,Gonzaga,Falso,MG
+3148400,Paulistas,Falso,MG
+3122207,Divinolândia de Minas,Falso,MG
+3128006,Guanhães,Falso,MG
+3116803,Coluna,Falso,MG
+3156809,Sabinópolis,Falso,MG
+3140605,Materlândia,Falso,MG
+3171808,Virginópolis,Falso,MG
+3123106,Dores de Guanhães,Falso,MG
+3166105,Senhora do Porto,Falso,MG
+3162807,São João Evangelista,Falso,MG
+3108800,Braúnas,Falso,MG
+3100609,Água Boa,Falso,MG
+3158201,Santa Maria do Suaçuí,Falso,MG
+3112059,Cantagalo,Falso,MG
+3136553,José Raydan,Falso,MG
+3126950,Frei Lagonegro,Falso,MG
+3148608,Peçanha,Falso,MG
+3164100,São Pedro do Suaçuí,Falso,MG
+3163508,São José do Jacuri,Falso,MG
+3164506,São Sebastião do Maranhão,Falso,MG
+3144904,Nova Módica,Falso,MG
+3110806,Campanário,Falso,MG
+3163300,São José do Divino,Falso,MG
+3150000,Pescador,Falso,MG
+3132701,Itambacuri,Falso,MG
+3101805,Alpercata,Falso,MG
+3133204,Itanhomi,Falso,MG
+3125804,Fernandes Tourinho,Falso,MG
+3140100,Marilac,Falso,MG
+3127305,Galiléia,Falso,MG
+3161650,São Geraldo do Baixio,Falso,MG
+3135076,Jampruca,Falso,MG
+3119203,Coroaci,Falso,MG
+3167707,Sobrália,Falso,MG
+3171907,Virgolândia,Falso,MG
+3123700,Engenheiro Caldas,Falso,MG
+3144201,Nacip Raydan,Falso,MG
+3161601,São Geraldo da Piedade,Falso,MG
+3169505,Tumiritinga,Falso,MG
+3112653,Capitão Andrade,Falso,MG
+3171501,Mathias Lobato,Falso,MG
+3122108,Divino das Laranjeiras,Falso,MG
+3163003,São José da Safira,Falso,MG
+3127701,Governador Valadares,Falso,MG
+3126901,Frei Inocêncio,Falso,MG
+3144672,Nova Belém,Falso,MG
+3139607,Mantena,Falso,MG
+3115706,Central de Minas,Falso,MG
+3131802,Itabirinha,Falso,MG
+3141504,Mendes Pimentel,Falso,MG
+3162575,São João do Manteninha,Falso,MG
+3161056,São Félix de Minas,Falso,MG
+3168705,Timóteo,Falso,MG
+3106309,Belo Oriente,Falso,MG
+3141702,Mesquita,Falso,MG
+3131307,Ipatinga,Falso,MG
+3158953,Santana do Paraíso,Falso,MG
+3136108,Joanésia,Falso,MG
+3135001,Jaguaraçu,Falso,MG
+3100500,Açucena,Falso,MG
+3149952,Periquito,Falso,MG
+3119401,Coronel Fabriciano,Falso,MG
+3140308,Marliéria,Falso,MG
+3103009,Antônio Dias,Falso,MG
+3144359,Naque,Falso,MG
+3168408,Tarumirim,Falso,MG
+3129301,Iapu,Falso,MG
+3131158,Ipaba,Falso,MG
+3162609,São João do Oriente,Falso,MG
+3122504,Dom Cavati,Falso,MG
+3109253,Bugre,Falso,MG
+3150539,Pingo-d'Água,Falso,MG
+3130556,Imbé de Minas,Falso,MG
+3150158,Piedade de Caratinga,Falso,MG
+3170057,Ubaporanga,Falso,MG
+3164472,São Sebastião do Anta,Falso,MG
+3123858,Entre Folhas,Falso,MG
+3107802,Bom Jesus do Galho,Falso,MG
+3120003,Córrego Novo,Falso,MG
+3170578,Vargem Alegre,Falso,MG
+3159357,Santa Rita de Minas,Falso,MG
+3113404,Caratinga,Falso,MG
+3157252,Santa Bárbara do Leste,Falso,MG
+3160959,São Domingos das Dores,Falso,MG
+3130903,Inhapim,Falso,MG
+3127370,Goiabeira,Falso,MG
+3118403,Conselheiro Pena,Falso,MG
+3134103,Itueta,Falso,MG
+3154309,Resplendor,Falso,MG
+3120839,Cuparaque,Falso,MG
+3159506,Santa Rita do Itueto,Falso,MG
+3101102,Aimorés,Falso,MG
+3102209,Alvarenga,Falso,MG
+3151909,Pocrane,Falso,MG
+3117405,Conceição de Ipanema,Falso,MG
+3131208,Ipanema,Falso,MG
+3144003,Mutum,Falso,MG
+3168051,Taparuba,Falso,MG
+3123403,Doresópolis,Falso,MG
+3151503,Piumhi,Falso,MG
+3170602,Vargem Bonita,Falso,MG
+3164308,São Roque de Minas,Falso,MG
+3130309,Iguatama,Falso,MG
+3168200,Tapiraí,Falso,MG
+3105103,Bambuí,Falso,MG
+3119807,Córrego Danta,Falso,MG
+3141306,Medeiros,Falso,MG
+3122306,Divinópolis,Falso,MG
+3149705,Perdigão,Falso,MG
+3117603,Conceição do Pará,Falso,MG
+3164605,São Sebastião do Oeste,Falso,MG
+3160405,Santo Antônio do Monte,Falso,MG
+3161809,São Gonçalo do Pará,Falso,MG
+3133808,Itaúna,Falso,MG
+3145208,Nova Serrana,Falso,MG
+3116605,Cláudio,Falso,MG
+3114204,Carmo do Cajuru,Falso,MG
+3130200,Igaratinga,Falso,MG
+3133501,Itapecerica,Falso,MG
+3110400,Camacho,Falso,MG
+3148905,Pedra do Indaiá,Falso,MG
+3150505,Pimenta,Falso,MG
+3126109,Formiga,Falso,MG
+3119955,Córrego Fundo,Falso,MG
+3104205,Arcos,Falso,MG
+3146503,Pains,Falso,MG
+3111903,Cana Verde,Falso,MG
+3149903,Perdões,Falso,MG
+3112000,Candeias,Falso,MG
+3158805,Santana do Jacaré,Falso,MG
+3120201,Cristais,Falso,MG
+3100807,Aguanil,Falso,MG
+3111200,Campo Belo,Falso,MG
+3130002,Ibituruna,Falso,MG
+3108008,Bom Sucesso,Falso,MG
+3159902,Santo Antônio do Amparo,Falso,MG
+3114006,Carmo da Mata,Falso,MG
+3147709,Passa Tempo,Falso,MG
+3150604,Piracema,Falso,MG
+3114501,Carmópolis de Minas,Falso,MG
+3161205,São Francisco de Paula,Falso,MG
+3145604,Oliveira,Falso,MG
+3126307,Fortaleza de Minas,Falso,MG
+3133758,Itaú de Minas,Falso,MG
+3107604,Bom Jesus da Penha,Falso,MG
+3152907,Pratápolis,Falso,MG
+3129707,Ibiraci,Falso,MG
+3116407,Claraval,Falso,MG
+3115102,Cássia,Falso,MG
+3162948,São José da Barra,Falso,MG
+3121209,Delfinópolis,Falso,MG
+3112406,Capetinga,Falso,MG
+3147907,Passos,Falso,MG
+3101904,Alpinópolis,Falso,MG
+3162203,São João Batista do Glória,Falso,MG
+3112802,Capitólio,Falso,MG
+3104106,Arceburgo,Falso,MG
+3163904,São Pedro da União,Falso,MG
+3143005,Monte Belo,Falso,MG
+3136900,Juruaia,Falso,MG
+3144102,Muzambinho,Falso,MG
+3109501,Cabo Verde,Falso,MG
+3128709,Guaxupé,Falso,MG
+3128303,Guaranésia,Falso,MG
+3145109,Nova Resende,Falso,MG
+3132909,Itamogi,Falso,MG
+3164704,São Sebastião do Paraíso,Falso,MG
+3165107,São Tomás de Aquino,Falso,MG
+3143203,Monte Santo de Minas,Falso,MG
+3134806,Jacuí,Falso,MG
+3114402,Carmo do Rio Claro,Falso,MG
+3125200,Fama,Falso,MG
+3122405,Divisa Nova,Falso,MG
+3101607,Alfenas,Falso,MG
+3117108,Conceição da Aparecida,Falso,MG
+3147204,Paraguaçu,Falso,MG
+3139003,Machado,Falso,MG
+3151701,Poço Fundo,Falso,MG
+3166907,Serrania,Falso,MG
+3114709,Carvalhópolis,Falso,MG
+3102001,Alterosa,Falso,MG
+3104304,Areado,Falso,MG
+3142601,Monsenhor Paulo,Falso,MG
+3123601,Elói Mendes,Falso,MG
+3170701,Varginha,Falso,MG
+3128105,Guapé,Falso,MG
+3111309,Campo do Meio,Falso,MG
+3111606,Campos Gerais,Falso,MG
+3113909,Carmo da Cachoeira,Falso,MG
+3160801,São Bento Abade,Falso,MG
+3165206,São Thomé das Letras,Falso,MG
+3169307,Três Corações,Falso,MG
+3110905,Campanha,Falso,MG
+3130507,Ilicínea,Falso,MG
+3118700,Coqueiral,Falso,MG
+3107109,Boa Esperança,Falso,MG
+3169406,Três Pontas,Falso,MG
+3158300,Santana da Vargem,Falso,MG
+3143401,Monte Sião,Falso,MG
+3134905,Jacutinga,Falso,MG
+3130606,Inconfidentes,Falso,MG
+3101409,Albertina,Falso,MG
+3146008,Ouro Fino,Falso,MG
+3108404,Botelhos,Falso,MG
+3105301,Bandeira do Sul,Falso,MG
+3159209,Santa Rita de Caldas,Falso,MG
+3110301,Caldas,Falso,MG
+3102605,Andradas,Falso,MG
+3129905,Ibitiúra de Minas,Falso,MG
+3151800,Poços de Caldas,Falso,MG
+3111002,Campestre,Falso,MG
+3165578,Senador Amaral,Falso,MG
+3110509,Camanducaia,Falso,MG
+3125101,Extrema,Falso,MG
+3133600,Itapeva,Falso,MG
+3165800,Senador José Bento,Falso,MG
+3110608,Cambuí,Falso,MG
+3117900,Congonhal,Falso,MG
+3169059,Tocos do Moji,Falso,MG
+3109105,Bueno Brandão,Falso,MG
+3124500,Estiva,Falso,MG
+3143807,Munhoz,Falso,MG
+3119906,Córrego do Bom Jesus,Falso,MG
+3152501,Pouso Alegre,Falso,MG
+3107901,Bom Repouso,Falso,MG
+3169109,Toledo,Falso,MG
+3131505,Ipuiúna,Falso,MG
+3124401,Espírito Santo do Dourado,Falso,MG
+3108305,Borda da Mata,Falso,MG
+3127404,Gonçalves,Falso,MG
+3165404,Sapucaí-Mirim,Falso,MG
+3162005,São Gonçalo do Sapucaí,Falso,MG
+3119005,Cordislândia,Falso,MG
+3144409,Natércia,Falso,MG
+3162302,São João da Mata,Falso,MG
+3117801,Conceição dos Ouros,Falso,MG
+3167400,Silvianópolis,Falso,MG
+3129202,Heliodora,Falso,MG
+3159605,Santa Rita do Sapucaí,Falso,MG
+3109709,Cachoeira de Minas,Falso,MG
+3113602,Careaçu,Falso,MG
+3169802,Turvolândia,Falso,MG
+3164407,São Sebastião da Bela Vista,Falso,MG
+3149101,Pedralva,Falso,MG
+3117207,Conceição das Pedras,Falso,MG
+3163201,São José do Alegre,Falso,MG
+3110707,Cambuquira,Falso,MG
+3163706,São Lourenço,Falso,MG
+3145505,Olímpio Noronha,Falso,MG
+3167806,Soledade de Minas,Falso,MG
+3114105,Carmo de Minas,Falso,MG
+3133006,Itamonte,Falso,MG
+3137809,Lambari,Falso,MG
+3164902,São Sebastião do Rio Verde,Falso,MG
+3147600,Passa Quatro,Falso,MG
+3101300,Alagoa,Falso,MG
+3117702,Conceição do Rio Verde,Falso,MG
+3133105,Itanhandu,Falso,MG
+3135902,Jesuânia,Falso,MG
+3152600,Pouso Alto,Falso,MG
+3115508,Caxambu,Falso,MG
+3104908,Baependi,Falso,MG
+3103603,Arantina,Falso,MG
+3147808,Passa-Vinte,Falso,MG
+3107208,Bocaina de Minas,Falso,MG
+3102803,Andrelândia,Falso,MG
+3107505,Bom Jardim de Minas,Falso,MG
+3138500,Liberdade,Falso,MG
+3165305,São Vicente de Minas,Falso,MG
+3167004,Serranos,Falso,MG
+3166402,Seritinga,Falso,MG
+3101201,Aiuruoca,Falso,MG
+3141900,Minduri,Falso,MG
+3120805,Cruzília,Falso,MG
+3114808,Carvalhos,Falso,MG
+3118502,Consolação,Falso,MG
+3147303,Paraisópolis,Falso,MG
+3150901,Piranguçu,Falso,MG
+3151008,Piranguinho,Falso,MG
+3132404,Itajubá,Falso,MG
+3121100,Delfim Moreira,Falso,MG
+3140407,Marmelópolis,Falso,MG
+3172202,Wenceslau Braz,Falso,MG
+3139904,Maria da Fé,Falso,MG
+3108909,Brazópolis,Falso,MG
+3122801,Dom Viçoso,Falso,MG
+3171709,Virgínia,Falso,MG
+3120508,Cristina,Falso,MG
+3154705,Ribeirão Vermelho,Falso,MG
+3114600,Carrancas,Falso,MG
+3144607,Nepomuceno,Falso,MG
+3138203,Lavras,Falso,MG
+3134301,Itumirim,Falso,MG
+3130408,Ijaci,Falso,MG
+3130804,Ingaí,Falso,MG
+3134509,Itutinga,Falso,MG
+3138708,Luminárias,Falso,MG
+3158706,Santana do Garambéu,Falso,MG
+3123007,Dores de Campos,Falso,MG
+3139102,Madre de Deus de Minas,Falso,MG
+3137403,Lagoa Dourada,Falso,MG
+3157336,Santa Cruz de Minas,Falso,MG
+3152709,Prados,Falso,MG
+3150307,Piedade do Rio Grande,Falso,MG
+3115201,Conceição da Barra de Minas,Falso,MG
+3154200,Resende Costa,Falso,MG
+3165008,São Tiago,Falso,MG
+3119708,Coronel Xavier Chaves,Falso,MG
+3156106,Ritápolis,Falso,MG
+3168804,Tiradentes,Falso,MG
+3144508,Nazareno,Falso,MG
+3162500,São João del Rei,Falso,MG
+3105905,Barroso,Falso,MG
+3157302,Santa Bárbara do Tugúrio,Falso,MG
+3154408,Ressaquinha,Falso,MG
+3102902,Antônio Carlos,Falso,MG
+3101631,Alfredo Vasconcelos,Falso,MG
+3129400,Ibertioga,Falso,MG
+3121506,Desterro do Melo,Falso,MG
+3105608,Barbacena,Falso,MG
+3166204,Senhora dos Remédios,Falso,MG
+3112208,Capela Nova,Falso,MG
+3113107,Caranaíba,Falso,MG
+3113206,Carandaí,Falso,MG
+3171154,Vermelho Novo,Falso,MG
+3154002,Raul Soares,Falso,MG
+3122702,Dom Silvério,Falso,MG
+3100401,Acaiaca,Falso,MG
+3152105,Ponte Nova,Falso,MG
+3166303,Sericita,Falso,MG
+3157401,Santa Cruz do Escalvado,Falso,MG
+3160108,Santo Antônio do Grama,Falso,MG
+3150208,Piedade de Ponte Nova,Falso,MG
+3135506,Jequeri,Falso,MG
+3170503,Urucânia,Falso,MG
+3105707,Barra Longa,Falso,MG
+3165560,Sem-Peixe,Falso,MG
+3145851,Oratórios,Falso,MG
+3155009,Rio Doce,Falso,MG
+3154903,Rio Casca,Falso,MG
+3164001,São Pedro dos Ferros,Falso,MG
+3128204,Guaraciaba,Falso,MG
+3137700,Lajinha,Falso,MG
+3157906,Santa Margarida,Falso,MG
+3153509,Alto Jequitibá,Falso,MG
+3158904,Santana do Manhuaçu,Falso,MG
+3139409,Manhuaçu,Falso,MG
+3162559,São João do Manhuaçu,Falso,MG
+3112901,Caputira,Falso,MG
+3138674,Luisburgo,Falso,MG
+3102050,Alto Caparaó,Falso,MG
+3154150,Reduto,Falso,MG
+3116001,Chalé,Falso,MG
+3167608,Simonésia,Falso,MG
+3112109,Caparaó,Falso,MG
+3140530,Martins Soares,Falso,MG
+3123528,Durandé,Falso,MG
+3163607,São José do Mantimento,Falso,MG
+3100302,Abre Campo,Falso,MG
+3140902,Matipó,Falso,MG
+3139508,Manhumirim,Falso,MG
+3148756,Pedra Bonita,Falso,MG
+3108701,Brás Pires,Falso,MG
+3102506,Amparo do Serra,Falso,MG
+3163805,São Miguel do Anta,Falso,MG
+3116704,Coimbra,Falso,MG
+3171303,Viçosa,Falso,MG
+3152303,Porto Firme,Falso,MG
+3110202,Cajuri,Falso,MG
+3148301,Paula Cândido,Falso,MG
+3103702,Araponga,Falso,MG
+3124005,Ervália,Falso,MG
+3153103,Presidente Bernardes,Falso,MG
+3148806,Pedra do Anta,Falso,MG
+3168507,Teixeiras,Falso,MG
+3111705,Canaã,Falso,MG
+3116308,Cipotânea,Falso,MG
+3102100,Alto Rio Doce,Falso,MG
+3166006,Senhora de Oliveira,Falso,MG
+3150802,Piranga,Falso,MG
+3155207,Rio Espera,Falso,MG
+3137908,Lamim,Falso,MG
+3142205,Miraí,Falso,MG
+3164431,São Sebastião da Vargem Alegre,Falso,MG
+3156452,Rosário da Limeira,Falso,MG
+3103108,Antônio Prado de Minas,Falso,MG
+3143906,Muriaé,Falso,MG
+3171402,Vieiras,Falso,MG
+3125952,Fervedouro,Falso,MG
+3105509,Barão de Monte Alto,Falso,MG
+3142106,Miradouro,Falso,MG
+3161403,São Francisco do Glória,Falso,MG
+3124906,Eugenópolis,Falso,MG
+3148202,Patrocínio do Muriaé,Falso,MG
+3122009,Divino,Falso,MG
+3110103,Caiana,Falso,MG
+3149002,Pedra Dourada,Falso,MG
+3145877,Orizânia,Falso,MG
+3124203,Espera Feliz,Falso,MG
+3113305,Carangola,Falso,MG
+3125309,Faria Lemos,Falso,MG
+3169208,Tombos,Falso,MG
+3165701,Senador Firmino,Falso,MG
+3128808,Guidoval,Falso,MG
+3151305,Piraúba,Falso,MG
+3155801,Rio Pomba,Falso,MG
+3169901,Ubá,Falso,MG
+3172004,Visconde do Rio Branco,Falso,MG
+3123304,Dores do Turvo,Falso,MG
+3167905,Tabuleiro,Falso,MG
+3169000,Tocantins,Falso,MG
+3141603,Mercês,Falso,MG
+3128402,Guarani,Falso,MG
+3129004,Guiricema,Falso,MG
+3156304,Rodeiro,Falso,MG
+3167301,Silveirânia,Falso,MG
+3161502,São Geraldo,Falso,MG
+3121902,Divinésia,Falso,MG
+3104601,Astolfo Dutra,Falso,MG
+3103306,Aracitaba,Falso,MG
+3106804,Bias Fortes,Falso,MG
+3155900,Rio Preto,Falso,MG
+3158607,Santana do Deserto,Falso,MG
+3159308,Santa Rita de Jacutinga,Falso,MG
+3127388,Goianá,Falso,MG
+3157278,Santa Bárbara do Monte Verde,Falso,MG
+3140803,Matias Barbosa,Falso,MG
+3145406,Olaria,Falso,MG
+3125002,Ewbank da Câmara,Falso,MG
+3136702,Juiz de Fora,Falso,MG
+3146602,Paiva,Falso,MG
+3150109,Piau,Falso,MG
+3115904,Chácara,Falso,MG
+3155405,Rio Novo,Falso,MG
+3145703,Oliveira Fortes,Falso,MG
+3138609,Lima Duarte,Falso,MG
+3106101,Belmiro Braga,Falso,MG
+3116209,Chiador,Falso,MG
+3119609,Coronel Pacheco,Falso,MG
+3167509,Simão Pereira,Falso,MG
+3160702,Santos Dumont,Falso,MG
+3149408,Pedro Teixeira,Falso,MG
+3121308,Descoberto,Falso,MG
+3162906,São João Nepomuceno,Falso,MG
+3106903,Bicas,Falso,MG
+3128501,Guarará,Falso,MG
+3156205,Rochedo de Minas,Falso,MG
+3165602,Senador Cortes,Falso,MG
+3139805,Mar de Espanha,Falso,MG
+3140209,Maripá de Minas,Falso,MG
+3149507,Pequeri,Falso,MG
+3159407,Santa Rita de Ibitipoca,Falso,MG
+3115300,Cataguases,Falso,MG
+3154101,Recreio,Falso,MG
+3146701,Palma,Falso,MG
+3122900,Dona Eusébia,Falso,MG
+3158409,Santana de Cataguases,Falso,MG
+3104403,Argirita,Falso,MG
+3138401,Leopoldina,Falso,MG
+3138005,Laranjal,Falso,MG
+3132602,Itamarati de Minas,Falso,MG
+3160009,Santo Antônio do Aventureiro,Falso,MG
+3101508,Além Paraíba,Falso,MG
+3124609,Estrela Dalva,Falso,MG
+3151107,Pirapetinga,Falso,MG
+3172103,Volta Grande,Falso,MG
+3203304,Mantenópolis,Falso,MG
+3200169,Água Doce do Norte,Falso,ES
+3200904,Barra de São Francisco,Falso,ES
+3202108,Ecoporanga,Falso,ES
+3201001,Boa Esperança,Falso,ES
+3200136,Águia Branca,Falso,ES
+3204708,São Gabriel da Palha,Falso,ES
+3205176,Vila Valério,Falso,ES
+3205150,Vila Pavão,Falso,ES
+3203908,Nova Venécia,Falso,ES
+3200805,Baixo Guandu,Falso,ES
+3204658,São Domingos do Norte,Falso,ES
+3204005,Pancas,Falso,ES
+3200359,Alto Rio Novo,Falso,ES
+3203353,Marilândia,Falso,ES
+3202256,Governador Lindenberg,Falso,ES
+3201506,Colatina,Falso,ES
+3204252,Ponto Belo,Falso,ES
+3203502,Montanha,Falso,ES
+3203601,Mucurici,Falso,ES
+3204104,Pinheiros,Falso,ES
+3203056,Jaguaré,Falso,ES
+3201605,Conceição da Barra,Falso,ES
+3204054,Pedro Canário,Falso,ES
+3204906,São Mateus,Falso,ES
+3202207,Fundão,Falso,ES
+3205010,Sooretama,Falso,ES
+3204351,Rio Bananal,Falso,ES
+3203130,João Neiva,Falso,ES
+3202504,Ibiraçu,Falso,ES
+3200607,Aracruz,Falso,ES
+3203205,Linhares,Falso,ES
+3201704,Conceição do Castelo,Falso,ES
+3203163,Laranja da Terra,Falso,ES
+3201902,Domingos Martins,Falso,ES
+3200102,Afonso Cláudio,Falso,ES
+3205069,Venda Nova do Imigrante,Falso,ES
+3203346,Marechal Floriano,Falso,ES
+3201159,Brejetuba,Falso,ES
+3204559,Santa Maria de Jetibá,Falso,ES
+3204500,Santa Leopoldina,Falso,ES
+3202900,Itarana,Falso,ES
+3204609,Santa Teresa,Falso,ES
+3202702,Itaguaçu,Falso,ES
+3204955,São Roque do Canaã,Falso,ES
+3205200,Vila Velha,Falso,ES
+3205309,Vitória,Verdadeiro,ES
+3205002,Serra,Falso,ES
+3205101,Viana,Falso,ES
+3201308,Cariacica,Falso,ES
+3200300,Alfredo Chaves,Falso,ES
+3204203,Piúma,Falso,ES
+3202405,Guarapari,Falso,ES
+3200409,Anchieta,Falso,ES
+3202603,Iconha,Falso,ES
+3204401,Rio Novo do Sul,Falso,ES
+3202009,Dores do Rio Preto,Falso,ES
+3202306,Guaçuí,Falso,ES
+3201803,Divino de São Lourenço,Falso,ES
+3202553,Ibitirama,Falso,ES
+3202652,Irupi,Falso,ES
+3203700,Muniz Freire,Falso,ES
+3203007,Iúna,Falso,ES
+3202454,Ibatiba,Falso,ES
+3200201,Alegre,Falso,ES
+3205036,Vargem Alta,Falso,ES
+3203106,Jerônimo Monteiro,Falso,ES
+3201209,Cachoeiro de Itapemirim,Falso,ES
+3200706,Atilio Vivacqua,Falso,ES
+3203403,Mimoso do Sul,Falso,ES
+3203809,Muqui,Falso,ES
+3201407,Castelo,Falso,ES
+3201100,Bom Jesus do Norte,Falso,ES
+3204807,São José do Calçado,Falso,ES
+3200508,Apiacá,Falso,ES
+3203320,Marataízes,Falso,ES
+3204302,Presidente Kennedy,Falso,ES
+3202801,Itapemirim,Falso,ES
+3302056,Italva,Falso,ES
+3302205,Itaperuna,Falso,RJ
+3302304,Laje do Muriaé,Falso,RJ
+3300605,Bom Jesus do Itabapoana,Falso,RJ
+3306156,Varre-Sai,Falso,RJ
+3303104,Natividade,Falso,RJ
+3304102,Porciúncula,Falso,RJ
+3305133,São José de Ubá,Falso,RJ
+3300159,Aperibé,Falso,RJ
+3303005,Miracema,Falso,RJ
+3304706,Santo Antônio de Pádua,Falso,RJ
+3302106,Itaocara,Falso,RJ
+3300902,Cambuci,Falso,RJ
+3305000,São João da Barra,Falso,RJ
+3301157,Cardoso Moreira,Falso,RJ
+3304755,São Francisco de Itabapoana,Falso,RJ
+3304805,São Fidélis,Falso,RJ
+3301009,Campos dos Goytacazes,Falso,RJ
+3300936,Carapebus,Falso,RJ
+3304151,Quissamã,Falso,RJ
+3301405,Conceição de Macabu,Falso,RJ
+3302403,Macaé,Falso,RJ
+3300225,Areal,Falso,RJ
+3305406,Sapucaia,Falso,RJ
+3303708,Paraíba do Sul,Falso,RJ
+3306008,Três Rios,Falso,RJ
+3300951,Comendador Levy Gasparian,Falso,RJ
+3301108,Cantagalo,Falso,RJ
+3302452,Macuco,Falso,RJ
+3301207,Carmo,Falso,RJ
+3301504,Cordeiro,Falso,RJ
+3300506,Bom Jardim,Falso,RJ
+3305703,Sumidouro,Falso,RJ
+3301603,Duas Barras,Falso,RJ
+3303401,Nova Friburgo,Falso,RJ
+3305307,São Sebastião do Alto,Falso,RJ
+3305901,Trajano de Moraes,Falso,RJ
+3304607,Santa Maria Madalena,Falso,RJ
+3305604,Silva Jardim,Falso,RJ
+3301306,Casimiro de Abreu,Falso,RJ
+3304524,Rio das Ostras,Falso,RJ
+3305505,Saquarema,Falso,RJ
+3300704,Cabo Frio,Falso,RJ
+3301876,Iguaba Grande,Falso,RJ
+3300258,Arraial do Cabo,Falso,RJ
+3300233,Armação dos Búzios,Falso,RJ
+3305208,São Pedro da Aldeia,Falso,RJ
+3300209,Araruama,Falso,RJ
+3306305,Volta Redonda,Falso,RJ
+3303955,Pinheiral,Falso,RJ
+3304409,Rio Claro,Falso,RJ
+3304003,Piraí,Falso,RJ
+3300407,Barra Mansa,Falso,RJ
+3304110,Porto Real,Falso,RJ
+3302254,Itatiaia,Falso,RJ
+3304201,Resende,Falso,RJ
+3304128,Quatis,Falso,RJ
+3300308,Barra do Piraí,Falso,RJ
+3306107,Valença,Falso,RJ
+3304508,Rio das Flores,Falso,RJ
+3303807,Paraty,Falso,RJ
+3300100,Angra dos Reis,Falso,RJ
+3303609,Paracambi,Falso,RJ
+3301801,Engenheiro Paulo de Frontin,Falso,RJ
+3302809,Mendes,Falso,RJ
+3306206,Vassouras,Falso,RJ
+3303856,Paty do Alferes,Falso,RJ
+3302908,Miguel Pereira,Falso,RJ
+3303906,Petrópolis,Falso,RJ
+3305802,Teresópolis,Falso,RJ
+3305158,São José do Vale do Rio Preto,Falso,RJ
+3300803,Cachoeiras de Macacu,Falso,RJ
+3304300,Rio Bonito,Falso,RJ
+3305554,Seropédica,Falso,RJ
+3302601,Mangaratiba,Falso,RJ
+3302007,Itaguaí,Falso,RJ
+3301900,Itaboraí,Falso,RJ
+3302270,Japeri,Falso,RJ
+3303302,Niterói,Falso,RJ
+3305109,São João de Meriti,Falso,RJ
+3301850,Guapimirim,Falso,RJ
+3305752,Tanguá,Falso,RJ
+3303203,Nilópolis,Falso,RJ
+3303500,Nova Iguaçu,Falso,RJ
+3304557,Rio de Janeiro,Verdadeiro,RJ
+3301702,Duque de Caxias,Falso,RJ
+3300456,Belford Roxo,Falso,RJ
+3304904,São Gonçalo,Falso,RJ
+3302700,Maricá,Falso,RJ
+3302858,Mesquita,Falso,RJ
+3304144,Queimados,Falso,RJ
+3302502,Magé,Falso,RJ
+3529658,Mesópolis,Falso,RJ
+3503950,Aspásia,Falso,SP
+3549003,São Francisco,Falso,SP
+3556958,Vitória Brasil,Falso,SP
+3513850,Dirce Reis,Falso,SP
+3514205,Dolcinópolis,Falso,SP
+3555802,Urânia,Falso,SP
+3529104,Marinópolis,Falso,SP
+3502606,Aparecida d'Oeste,Falso,SP
+3540408,Populina,Falso,SP
+3524808,Jales,Falso,SP
+3547650,Santa Salete,Falso,SP
+3535903,Paranapuã,Falso,SP
+3545704,Santa Albertina,Falso,SP
+3535200,Palmeira d'Oeste,Falso,SP
+3540259,Pontalinda,Falso,SP
+3532843,Nova Canaã Paulista,Falso,SP
+3546603,Santa Fé do Sul,Falso,SP
+3547205,Santana da Ponte Pensa,Falso,SP
+3544509,Rubinéia,Falso,SP
+3554904,Três Fronteiras,Falso,SP
+3546108,Santa Clara d'Oeste,Falso,SP
+3547403,Santa Rita d'Oeste,Falso,SP
+3555307,Turmalina,Falso,SP
+3549201,São João das Duas Pontes,Falso,SP
+3536901,Pedranópolis,Falso,SP
+3518008,Guarani d'Oeste,Falso,SP
+3528205,Macedônia,Falso,SP
+3530003,Mira Estrela,Falso,SP
+3515202,Estrela d'Oeste,Falso,SP
+3520707,Indiaporã,Falso,SP
+3515509,Fernandópolis,Falso,SP
+3534757,Ouroeste,Falso,SP
+3529609,Meridiano,Falso,SP
+3510708,Cardoso,Falso,SP
+3540309,Pontes Gestal,Falso,SP
+3557105,Votuporanga,Falso,SP
+3536257,Parisi,Falso,SP
+3501202,Álvares Florence,Falso,SP
+3512902,Cosmorama,Falso,SP
+3544202,Riolândia,Falso,SP
+3556107,Valentim Gentil,Falso,SP
+3501806,Américo de Campos,Falso,SP
+3557154,Zacarias,Falso,SP
+3549805,São José do Rio Preto,Falso,SP
+3504602,Bady Bassitt,Falso,SP
+3517505,Guapiaçu,Falso,SP
+3539608,Planalto,Falso,SP
+3555356,Ubarana,Falso,SP
+3555604,Uchoa,Falso,SP
+3524501,Jaci,Falso,SP
+3534203,Orindiúva,Falso,SP
+3535002,Palestina,Falso,SP
+3529500,Mendonça,Falso,SP
+3533007,Nova Granada,Falso,SP
+3519808,Icém,Falso,SP
+3536604,Paulo de Faria,Falso,SP
+3500204,Adolfo,Falso,SP
+3525706,José Bonifácio,Falso,SP
+3521150,Ipiguá,Falso,SP
+3530409,Mirassolândia,Falso,SP
+3504800,Bálsamo,Falso,SP
+3553401,Tanabi,Falso,SP
+3532801,Nova Aliança,Falso,SP
+3540804,Potirendaba,Falso,SP
+3534005,Onda Verde,Falso,SP
+3511300,Cedral,Falso,SP
+3530300,Mirassol,Falso,SP
+3500907,Altair,Falso,SP
+3519402,Ibirá,Falso,SP
+3533908,Olímpia,Falso,SP
+3517901,Guaraci,Falso,SP
+3511201,Catiguá,Falso,SP
+3533254,Novais,Falso,SP
+3538105,Pindorama,Falso,SP
+3511102,Catanduva,Falso,SP
+3545605,Santa Adélia,Falso,SP
+3535705,Paraíso,Falso,SP
+3503703,Ariranha,Falso,SP
+3514924,Elisiário,Falso,SP
+3514957,Embaúba,Falso,SP
+3535101,Palmares Paulista,Falso,SP
+3552601,Tabapuã,Falso,SP
+3551900,Severínia,Falso,SP
+3509304,Cajobi,Falso,SP
+3516804,Gastão Vidigal,Falso,SP
+3532868,Nova Castilho,Falso,SP
+3504206,Auriflama,Falso,SP
+3516903,General Salgado,Falso,SP
+3533304,Nova Luzitânia,Falso,SP
+3528304,Magda,Falso,SP
+3518909,Guzolândia,Falso,SP
+3515905,Floreal,Falso,SP
+3549250,São João de Iracema,Falso,SP
+3531001,Monções,Falso,SP
+3539905,Poloni,Falso,SP
+3532702,Nipoã,Falso,SP
+3528106,Macaubal,Falso,SP
+3531407,Monte Aprazível,Falso,SP
+3555703,União Paulista,Falso,SP
+3532504,Neves Paulista,Falso,SP
+3532603,Nhandeara,Falso,SP
+3551306,Sebastianópolis do Sul,Falso,SP
+3521507,Irapuã,Falso,SP
+3544806,Sales,Falso,SP
+3533502,Novo Horizonte,Falso,SP
+3556008,Urupês,Falso,SP
+3528858,Marapoama,Falso,SP
+3521903,Itajobi,Falso,SP
+3512100,Colômbia,Falso,SP
+3505500,Barretos,Falso,SP
+3512001,Colina,Falso,SP
+3524204,Jaborandi,Falso,SP
+3517406,Guaíra,Falso,SP
+3544905,Sales Oliveira,Falso,SP
+3531902,Morro Agudo,Falso,SP
+3534302,Orlândia,Falso,SP
+3521309,Ipuã,Falso,SP
+3533601,Nuporanga,Falso,SP
+3549409,São Joaquim da Barra,Falso,SP
+3529708,Miguelópolis,Falso,SP
+3503000,Aramina,Falso,SP
+3508207,Buritizal,Falso,SP
+3520103,Igarapava,Falso,SP
+3524105,Ituverava,Falso,SP
+3517703,Guará,Falso,SP
+3537008,Pedregulho,Falso,SP
+3549508,São José da Bela Vista,Falso,SP
+3543600,Rifaina,Falso,SP
+3523701,Itirapuã,Falso,SP
+3543105,Ribeirão Corrente,Falso,SP
+3536307,Patrocínio Paulista,Falso,SP
+3516200,Franca,Falso,SP
+3542701,Restinga,Falso,SP
+3513207,Cristais Paulista,Falso,SP
+3525409,Jeriquara,Falso,SP
+3515608,Fernando Prestes,Falso,SP
+3556909,Vista Alegre do Alto,Falso,SP
+3539004,Pirangi,Falso,SP
+3531308,Monte Alto,Falso,SP
+3524303,Jaboticabal,Falso,SP
+3518602,Guariba,Falso,SP
+3546504,Santa Ernestina,Falso,SP
+3539509,Pitangueiras,Falso,SP
+3531506,Monte Azul Paulista,Falso,SP
+3556800,Viradouro,Falso,SP
+3553203,Taiúva,Falso,SP
+3554409,Terra Roxa,Falso,SP
+3506102,Bebedouro,Falso,SP
+3553658,Taquaral,Falso,SP
+3553104,Taiaçu,Falso,SP
+3553708,Taquaritinga,Falso,SP
+3510104,Cândido Rodrigues,Falso,SP
+3518859,Guatapará,Falso,SP
+3525102,Jardinópolis,Falso,SP
+3547601,Santa Rosa de Viterbo,Falso,SP
+3551405,Serra Azul,Falso,SP
+3514601,Dumont,Falso,SP
+3540200,Pontal,Falso,SP
+3527603,Luís Antônio,Falso,SP
+3550902,São Simão,Falso,SP
+3513108,Cravinhos,Falso,SP
+3551504,Serrana,Falso,SP
+3543402,Ribeirão Preto,Falso,SP
+3507803,Brodowski,Falso,SP
+3505609,Barrinha,Falso,SP
+3551702,Sertãozinho,Falso,SP
+3540903,Pradópolis,Falso,SP
+3547502,Santa Rita do Passa Quatro,Falso,SP
+3510906,Cássia dos Coqueiros,Falso,SP
+3509403,Cajuru,Falso,SP
+3547908,Santo Antônio da Alegria,Falso,SP
+3501004,Altinópolis,Falso,SP
+3546256,Santa Cruz da Esperança,Falso,SP
+3505906,Batatais,Falso,SP
+3520442,Ilha Solteira,Falso,SP
+3523008,Itapura,Falso,SP
+3532108,Murutinga do Sul,Falso,SP
+3530102,Mirandópolis,Falso,SP
+3517802,Guaraçaí,Falso,SP
+3502101,Andradina,Falso,SP
+3511003,Castilho,Falso,SP
+3533205,Nova Independência,Falso,SP
+3537404,Pereira Barreto,Falso,SP
+3552304,Sud Mennucci,Falso,SP
+3552551,Suzanápolis,Falso,SP
+3502804,Araçatuba,Falso,SP
+3544400,Rubiácea,Falso,SP
+3506201,Bento de Abreu,Falso,SP
+3556305,Valparaíso,Falso,SP
+3518206,Guararapes,Falso,SP
+3548054,Santo Antônio do Aracanguá,Falso,SP
+3526506,Lavínia,Falso,SP
+3537305,Penápolis,Falso,SP
+3516507,Gabriel Monteiro,Falso,SP
+3548401,Santópolis do Aguapeí,Falso,SP
+3512506,Coroados,Falso,SP
+3506508,Birigui,Falso,SP
+3517109,Glicério,Falso,SP
+3501103,Alto Alegre,Falso,SP
+3507753,Brejo Alegre,Falso,SP
+3527702,Luiziânia,Falso,SP
+3505104,Barbosa,Falso,SP
+3506409,Bilac,Falso,SP
+3508108,Buritama,Falso,SP
+3511904,Clementina,Falso,SP
+3507704,Braúna,Falso,SP
+3537701,Piacatu,Falso,SP
+3504404,Avanhandava,Falso,SP
+3527256,Lourdes,Falso,SP
+3555208,Turiúba,Falso,SP
+3541604,Promissão,Falso,SP
+3508801,Cafelândia,Falso,SP
+3527108,Lins,Falso,SP
+3517208,Guaiçara,Falso,SP
+3544608,Sabino,Falso,SP
+3525805,Júlio Mesquita,Falso,SP
+3517307,Guaimbê,Falso,SP
+3517000,Getulina,Falso,SP
+3504305,Avaí,Falso,SP
+3507456,Borebi,Falso,SP
+3539400,Piratininga,Falso,SP
+3500709,Agudos,Falso,SP
+3519105,Iacanga,Falso,SP
+3508306,Cabrália Paulista,Falso,SP
+3514502,Duartina,Falso,SP
+3536570,Paulistânia,Falso,SP
+3527504,Lucianópolis,Falso,SP
+3506003,Bauru,Falso,SP
+3526803,Lençóis Paulista,Falso,SP
+3503406,Arealva,Falso,SP
+3555505,Ubirajara,Falso,SP
+3541109,Presidente Alves,Falso,SP
+3542503,Reginópolis,Falso,SP
+3504701,Balbinos,Falso,SP
+3538907,Pirajuí,Falso,SP
+3503604,Areiópolis,Falso,SP
+3555901,Uru,Falso,SP
+3540101,Pongaí,Falso,SP
+3518107,Guarantã,Falso,SP
+3536703,Pederneiras,Falso,SP
+3528007,Macatuba,Falso,SP
+3505203,Bariri,Falso,SP
+3520004,Igaraçu do Tietê,Falso,SP
+3529807,Mineiros do Tietê,Falso,SP
+3505302,Barra Bonita,Falso,SP
+3522901,Itapuí,Falso,SP
+3525300,Jaú,Falso,SP
+3522000,Itaju,Falso,SP
+3506805,Bocaina,Falso,SP
+3514106,Dois Córregos,Falso,SP
+3507308,Boracéia,Falso,SP
+3503109,Arandu,Falso,SP
+3519253,Iaras,Falso,SP
+3535804,Paranapanema,Falso,SP
+3500550,Águas de Santa Bárbara,Falso,SP
+3521804,Itaí,Falso,SP
+3511409,Cerqueira César,Falso,SP
+3504503,Avaré,Falso,SP
+3523503,Itatinga,Falso,SP
+3506904,Bofete,Falso,SP
+3541059,Pratânia,Falso,SP
+3512308,Conchas,Falso,SP
+3536109,Pardinho,Falso,SP
+3550100,São Manuel,Falso,SP
+3507506,Botucatu,Falso,SP
+3502309,Anhembi,Falso,SP
+3543709,Rincão,Falso,SP
+3522703,Itápolis,Falso,SP
+3506706,Boa Esperança do Sul,Falso,SP
+3501707,Américo Brasiliense,Falso,SP
+3516853,Gavião Peixoto,Falso,SP
+3546900,Santa Lúcia,Falso,SP
+3507407,Borborema,Falso,SP
+3532900,Nova Europa,Falso,SP
+3529302,Matão,Falso,SP
+3503208,Araraquara,Falso,SP
+3519600,Ibitinga,Falso,SP
+3554755,Trabiju,Falso,SP
+3532058,Motuca,Falso,SP
+3514007,Dobrada,Falso,SP
+3552700,Tabatinga,Falso,SP
+3514304,Dourado,Falso,SP
+3513702,Descalvado,Falso,SP
+3548906,São Carlos,Falso,SP
+3519303,Ibaté,Falso,SP
+3542909,Ribeirão Bonito,Falso,SP
+3502002,Analândia,Falso,SP
+3554706,Torrinha,Falso,SP
+3507902,Brotas,Falso,SP
+3523602,Itirapina,Falso,SP
+3543907,Rio Claro,Falso,SP
+3521101,Ipeúna,Falso,SP
+3512704,Corumbataí,Falso,SP
+3526902,Limeira,Falso,SP
+3521408,Iracemápolis,Falso,SP
+3512407,Cordeirópolis,Falso,SP
+3512209,Conchal,Falso,SP
+3526704,Leme,Falso,SP
+3546207,Santa Cruz da Conceição,Falso,SP
+3503307,Araras,Falso,SP
+3546702,Santa Gertrudes,Falso,SP
+3525854,Jumirim,Falso,SP
+3554508,Tietê,Falso,SP
+3511706,Charqueada,Falso,SP
+3510401,Capivari,Falso,SP
+3542107,Rafard,Falso,SP
+3538709,Piracicaba,Falso,SP
+3500600,Águas de São Pedro,Falso,SP
+3545159,Saltinho,Falso,SP
+3544004,Rio das Pedras,Falso,SP
+3550407,São Pedro,Falso,SP
+3530904,Mombuca,Falso,SP
+3547007,Santa Maria da Serra,Falso,SP
+3539301,Pirassununga,Falso,SP
+3540705,Porto Ferreira,Falso,SP
+3500303,Aguaí,Falso,SP
+3546306,Santa Cruz das Palmeiras,Falso,SP
+3548104,Santo Antônio do Jardim,Falso,SP
+3556404,Vargem Grande do Sul,Falso,SP
+3510807,Casa Branca,Falso,SP
+3553302,Tambaú,Falso,SP
+3515186,Espírito Santo do Pinhal,Falso,SP
+3500402,Águas da Prata,Falso,SP
+3549102,São João da Boa Vista,Falso,SP
+3508702,Caconde,Falso,SP
+3550803,São Sebastião da Grama,Falso,SP
+3523800,Itobi,Falso,SP
+3513900,Divinolândia,Falso,SP
+3549706,São José do Rio Pardo,Falso,SP
+3530508,Mococa,Falso,SP
+3553609,Tapiratiba,Falso,SP
+3503802,Artur Nogueira,Falso,SP
+3548005,Santo Antônio de Posse,Falso,SP
+3515152,Engenheiro Coelho,Falso,SP
+3530706,Mogi Guaçu,Falso,SP
+3522604,Itapira,Falso,SP
+3557303,Estiva Gerbi,Falso,SP
+3530805,Mogi Mirim,Falso,SP
+3509502,Campinas,Falso,SP
+3519055,Holambra,Falso,SP
+3531803,Monte Mor,Falso,SP
+3501608,Americana,Falso,SP
+3556206,Valinhos,Falso,SP
+3556701,Vinhedo,Falso,SP
+3536505,Paulínia,Falso,SP
+3512803,Cosmópolis,Falso,SP
+3524709,Jaguariúna,Falso,SP
+3545803,Santa Bárbara d'Oeste,Falso,SP
+3514908,Elias Fausto,Falso,SP
+3520509,Indaiatuba,Falso,SP
+3519071,Hortolândia,Falso,SP
+3552403,Sumaré,Falso,SP
+3537107,Pedreira,Falso,SP
+3533403,Nova Odessa,Falso,SP
+3538204,Pinhalzinho,Falso,SP
+3536802,Pedra Bela,Falso,SP
+3552106,Socorro,Falso,SP
+3527009,Lindóia,Falso,SP
+3501905,Amparo,Falso,SP
+3500501,Águas de Lindóia,Falso,SP
+3551603,Serra Negra,Falso,SP
+3531209,Monte Alegre do Sul,Falso,SP
+3531605,Monte Castelo,Falso,SP
+3547106,Santa Mercedes,Falso,SP
+3549300,São João do Pau d'Alho,Falso,SP
+3526001,Junqueirópolis,Falso,SP
+3533106,Nova Guataporanga,Falso,SP
+3514403,Dracena,Falso,SP
+3534807,Ouro Verde,Falso,SP
+3535408,Panorama,Falso,SP
+3555109,Tupi Paulista,Falso,SP
+3536406,Paulicéia,Falso,SP
+3543808,Rinópolis,Falso,SP
+3536000,Parapuã,Falso,SP
+3500105,Adamantina,Falso,SP
+3520806,Inúbia Paulista,Falso,SP
+3534906,Pacaembu,Falso,SP
+3544707,Sagres,Falso,SP
+3516002,Flórida Paulista,Falso,SP
+3534609,Osvaldo Cruz,Falso,SP
+3540853,Pracinha,Falso,SP
+3527405,Lucélia,Falso,SP
+3545100,Salmourão,Falso,SP
+3528908,Mariápolis,Falso,SP
+3521606,Irapuru,Falso,SP
+3515806,Flora Rica,Falso,SP
+3539202,Pirapozinho,Falso,SP
+3515350,Euclides da Cunha Paulista,Falso,SP
+3545506,Sandovalina,Falso,SP
+3541208,Presidente Bernardes,Falso,SP
+3547700,Santo Anastácio,Falso,SP
+3500808,Alfredo Marcondes,Falso,SP
+3541406,Presidente Prudente,Falso,SP
+3542206,Rancharia,Falso,SP
+3543238,Ribeirão dos Índios,Falso,SP
+3529203,Martinópolis,Falso,SP
+3501301,Álvares Machado,Falso,SP
+3530201,Mirante do Paranapanema,Falso,SP
+3532207,Narandiba,Falso,SP
+3554300,Teodoro Sampaio,Falso,SP
+3520608,Indiana,Falso,SP
+3515301,Estrela do Norte,Falso,SP
+3525607,João Ramalho,Falso,SP
+3515129,Emilianópolis,Falso,SP
+3544251,Rosana,Falso,SP
+3553906,Tarabai,Falso,SP
+3502408,Anhumas,Falso,SP
+3542404,Regente Feijó,Falso,SP
+3552908,Taciba,Falso,SP
+3548302,Santo Expedito,Falso,SP
+3508900,Caiabu,Falso,SP
+3528700,Marabá Paulista,Falso,SP
+3509106,Caiuá,Falso,SP
+3541307,Presidente Epitácio,Falso,SP
+3538303,Piquerobi,Falso,SP
+3541505,Presidente Venceslau,Falso,SP
+3542008,Quintana,Falso,SP
+3555000,Tupã,Falso,SP
+3505807,Bastos,Falso,SP
+3519204,Iacri,Falso,SP
+3519006,Herculândia,Falso,SP
+3541802,Queiroz,Falso,SP
+3503356,Arco-Íris,Falso,SP
+3514700,Echaporã,Falso,SP
+3501509,Alvinlândia,Falso,SP
+3534104,Oriente,Falso,SP
+3501400,Álvaro de Carvalho,Falso,SP
+3515657,Fernão,Falso,SP
+3556602,Vera Cruz,Falso,SP
+3529005,Marília,Falso,SP
+3540002,Pompéia,Falso,SP
+3533700,Ocauçu,Falso,SP
+3516606,Gália,Falso,SP
+3527801,Lupércio,Falso,SP
+3516705,Garça,Falso,SP
+3534500,Oscar Bressane,Falso,SP
+3509809,Campos Novos Paulista,Falso,SP
+3553955,Tarumã,Falso,SP
+3535507,Paraguaçu Paulista,Falso,SP
+3513306,Cruzália,Falso,SP
+3510005,Cândido Mota,Falso,SP
+3537156,Pedrinhas Paulista,Falso,SP
+3527900,Lutécia,Falso,SP
+3516101,Florínia,Falso,SP
+3535309,Palmital,Falso,SP
+3528809,Maracaí,Falso,SP
+3504008,Assis,Falso,SP
+3507209,Borá,Falso,SP
+3539707,Platina,Falso,SP
+3519501,Ibirarema,Falso,SP
+3532157,Nantes,Falso,SP
+3541703,Quatá,Falso,SP
+3519907,Iepê,Falso,SP
+3528601,Manduri,Falso,SP
+3553005,Taguaí,Falso,SP
+3533809,Óleo,Falso,SP
+3534708,Ourinhos,Falso,SP
+3515194,Espírito Santo do Turvo,Falso,SP
+3550506,São Pedro do Turvo,Falso,SP
+3546405,Santa Cruz do Rio Pardo,Falso,SP
+3545407,Salto Grande,Falso,SP
+3520905,Ipaussu,Falso,SP
+3557204,Chavantes,Falso,SP
+3543204,Ribeirão do Sul,Falso,SP
+3510153,Canitar,Falso,SP
+3506300,Bernardino de Campos,Falso,SP
+3554607,Timburi,Falso,SP
+3515400,Fartura,Falso,SP
+3551207,Sarutaiá,Falso,SP
+3538808,Piraju,Falso,SP
+3554201,Tejupá,Falso,SP
+3507159,Bom Sucesso de Itararé,Falso,SP
+3543501,Riversul,Falso,SP
+3523206,Itararé,Falso,SP
+3522802,Itaporanga,Falso,SP
+3508009,Buri,Falso,SP
+3521705,Itaberá,Falso,SP
+3553856,Taquarivaí,Falso,SP
+3505005,Barão de Antonina,Falso,SP
+3532827,Nova Campina,Falso,SP
+3522406,Itapeva,Falso,SP
+3512605,Coronel Macedo,Falso,SP
+3553807,Taquarituba,Falso,SP
+3518503,Guareí,Falso,SP
+3522307,Itapetininga,Falso,SP
+3502200,Angatuba,Falso,SP
+3509452,Campina do Monte Alegre,Falso,SP
+3500758,Alambari,Falso,SP
+3511508,Cerquilho,Falso,SP
+3507001,Boituva,Falso,SP
+3511607,Cesário Lange,Falso,SP
+3537503,Pereiras,Falso,SP
+3540507,Porangaba,Falso,SP
+3554003,Tatuí,Falso,SP
+3554656,Torre de Pedra,Falso,SP
+3541653,Quadra,Falso,SP
+3526407,Laranjal Paulista,Falso,SP
+3510203,Capão Bonito,Falso,SP
+3543253,Ribeirão Grande,Falso,SP
+3522158,Itaóca,Falso,SP
+3543006,Ribeirão Branco,Falso,SP
+3505351,Barra do Chapéu,Falso,SP
+3542800,Ribeira,Falso,SP
+3517604,Guapiara,Falso,SP
+3502705,Apiaí,Falso,SP
+3522653,Itapirapuã Paulista,Falso,SP
+3521200,Iporanga,Falso,SP
+3537800,Piedade,Falso,SP
+3553500,Tapiraí,Falso,SP
+3519709,Ibiúna,Falso,SP
+3537909,Pilar do Sul,Falso,SP
+3550209,São Miguel Arcanjo,Falso,SP
+3510302,Capela do Alto,Falso,SP
+3551108,Sarapuí,Falso,SP
+3521002,Iperó,Falso,SP
+3502903,Araçoiaba da Serra,Falso,SP
+3501152,Alumínio,Falso,SP
+3550605,São Roque,Falso,SP
+3545209,Salto,Falso,SP
+3545308,Salto de Pirapora,Falso,SP
+3528403,Mairinque,Falso,SP
+3557006,Votorantim,Falso,SP
+3540606,Porto Feliz,Falso,SP
+3502754,Araçariguama,Falso,SP
+3523909,Itu,Falso,SP
+3552205,Sorocaba,Falso,SP
+3508405,Cabreúva,Falso,SP
+3525904,Jundiaí,Falso,SP
+3524006,Itupeva,Falso,SP
+3556503,Várzea Paulista,Falso,SP
+3527306,Louveira,Falso,SP
+3509601,Campo Limpo Paulista,Falso,SP
+3523404,Itatiba,Falso,SP
+3532009,Morungaba,Falso,SP
+3525201,Jarinu,Falso,SP
+3538600,Piracaia,Falso,SP
+3556354,Vargem,Falso,SP
+3525508,Joanópolis,Falso,SP
+3554953,Tuiuti,Falso,SP
+3507100,Bom Jesus dos Perdões,Falso,SP
+3504107,Atibaia,Falso,SP
+3532405,Nazaré Paulista,Falso,SP
+3507605,Bragança Paulista,Falso,SP
+3531704,Monteiro Lobato,Falso,SP
+3548609,São Bento do Sapucaí,Falso,SP
+3509700,Campos do Jordão,Falso,SP
+3548203,Santo Antônio do Pinhal,Falso,SP
+3546009,Santa Branca,Falso,SP
+3508504,Caçapava,Falso,SP
+3549904,São José dos Campos,Falso,SP
+3524402,Jacareí,Falso,SP
+3520202,Igaratá,Falso,SP
+3554805,Tremembé,Falso,SP
+3554102,Taubaté,Falso,SP
+3538006,Pindamonhangaba,Falso,SP
+3502507,Aparecida,Falso,SP
+3509957,Canas,Falso,SP
+3544301,Roseira,Falso,SP
+3527207,Lorena,Falso,SP
+3540754,Potim,Falso,SP
+3518404,Guaratinguetá,Falso,SP
+3538501,Piquete,Falso,SP
+3541901,Queluz,Falso,SP
+3508603,Cachoeira Paulista,Falso,SP
+3526605,Lavrinhas,Falso,SP
+3513405,Cruzeiro,Falso,SP
+3549607,São José do Barreiro,Falso,SP
+3552007,Silveiras,Falso,SP
+3503505,Areias,Falso,SP
+3504909,Bananal,Falso,SP
+3503158,Arapeí,Falso,SP
+3535606,Paraibuna,Falso,SP
+3524907,Jambeiro,Falso,SP
+3542305,Redenção da Serra,Falso,SP
+3550001,São Luís do Paraitinga,Falso,SP
+3526308,Lagoinha,Falso,SP
+3532306,Natividade da Serra,Falso,SP
+3513603,Cunha,Falso,SP
+3550704,São Sebastião,Falso,SP
+3555406,Ubatuba,Falso,SP
+3520400,Ilhabela,Falso,SP
+3510500,Caraguatatuba,Falso,SP
+3520301,Iguape,Falso,SP
+3526100,Juquiá,Falso,SP
+3551801,Sete Barras,Falso,SP
+3536208,Pariquera-Açu,Falso,SP
+3520426,Ilha Comprida,Falso,SP
+3514809,Eldorado,Falso,SP
+3529906,Miracatu,Falso,SP
+3509908,Cananéia,Falso,SP
+3509254,Cajati,Falso,SP
+3524600,Jacupiranga,Falso,SP
+3505401,Barra do Turvo,Falso,SP
+3542602,Registro,Falso,SP
+3537602,Peruíbe,Falso,SP
+3531100,Mongaguá,Falso,SP
+3537206,Pedro de Toledo,Falso,SP
+3523305,Itariri,Falso,SP
+3522109,Itanhaém,Falso,SP
+3505708,Barueri,Falso,SP
+3525003,Jandira,Falso,SP
+3522505,Itapevi,Falso,SP
+3510609,Carapicuíba,Falso,SP
+3509205,Cajamar,Falso,SP
+3534401,Osasco,Falso,SP
+3547304,Santana de Parnaíba,Falso,SP
+3539103,Pirapora do Bom Jesus,Falso,SP
+3528502,Mairiporã,Falso,SP
+3516309,Francisco Morato,Falso,SP
+3509007,Caieiras,Falso,SP
+3516408,Franco da Rocha,Falso,SP
+3518800,Guarulhos,Falso,SP
+3546801,Santa Isabel,Falso,SP
+3503901,Arujá,Falso,SP
+3515103,Embu-Guaçu,Falso,SP
+3526209,Juquitiba,Falso,SP
+3549953,São Lourenço da Serra,Falso,SP
+3552809,Taboão da Serra,Falso,SP
+3513009,Cotia,Falso,SP
+3556453,Vargem Grande Paulista,Falso,SP
+3522208,Itapecerica da Serra,Falso,SP
+3515004,Embu das Artes,Falso,SP
+3544103,Rio Grande da Serra,Falso,SP
+3548708,São Bernardo do Campo,Falso,SP
+3548807,São Caetano do Sul,Falso,SP
+3529401,Mauá,Falso,SP
+3513801,Diadema,Falso,SP
+3550308,São Paulo,Verdadeiro,SP
+3543303,Ribeirão Pires,Falso,SP
+3547809,Santo André,Falso,SP
+3518305,Guararema,Falso,SP
+3515707,Ferraz de Vasconcelos,Falso,SP
+3530607,Mogi das Cruzes,Falso,SP
+3539806,Poá,Falso,SP
+3506607,Biritiba-Mirim,Falso,SP
+3552502,Suzano,Falso,SP
+3545001,Salesópolis,Falso,SP
+3523107,Itaquaquecetuba,Falso,SP
+3506359,Bertioga,Falso,SP
+3513504,Cubatão,Falso,SP
+3541000,Praia Grande,Falso,SP
+3548500,Santos,Falso,SP
+3518701,Guarujá,Falso,SP
+3551009,São Vicente,Falso,SP
+4115903,Mirador,Falso,SP
+4108908,Guairaçá,Falso,PR
+4107108,Diamante do Norte,Falso,PR
+4124905,São João do Caiuá,Falso,PR
+4115002,Marilena,Falso,PR
+4124202,Santo Antônio do Caiuá,Falso,PR
+4111308,Itaúna do Sul,Falso,PR
+4100608,Alto Paraná,Falso,PR
+4116505,Nova Aliança do Ivaí,Falso,PR
+4118006,Paraíso do Norte,Falso,PR
+4117107,Nova Londrina,Falso,PR
+4126702,Tamboara,Falso,PR
+4119707,Planaltina do Paraná,Falso,PR
+4124608,São Carlos do Ivaí,Falso,PR
+4127304,Terra Rica,Falso,PR
+4100905,Amaporã,Falso,PR
+4118402,Paranavaí,Falso,PR
+4118105,Paranacity,Falso,PR
+4106704,Cruzeiro do Sul,Falso,PR
+4110300,Inajá,Falso,PR
+4118303,Paranapoema,Falso,PR
+4112603,Jardim Olinda,Falso,PR
+4123956,Santa Mônica,Falso,PR
+4123303,Santa Cruz de Monte Castelo,Falso,PR
+4125902,São Pedro do Paraná,Falso,PR
+4121000,Querência do Norte,Falso,PR
+4113502,Loanda,Falso,PR
+4123709,Santa Isabel do Ivaí,Falso,PR
+4120200,Porto Rico,Falso,PR
+4114708,Maria Helena,Falso,PR
+4108320,Francisco Alves,Falso,PR
+4107256,Douradina,Falso,PR
+4100707,Alto Piquiri,Falso,PR
+4128104,Umuarama,Falso,PR
+4117206,Nova Olímpia,Falso,PR
+4106605,Cruzeiro do Oeste,Falso,PR
+4107520,Esperança Nova,Falso,PR
+4128625,Alto Paraíso,Falso,PR
+4115101,Mariluz,Falso,PR
+4111555,Ivaté,Falso,PR
+4118857,Perobal,Falso,PR
+4103370,Brasilândia do Sul,Falso,PR
+4118907,Pérola,Falso,PR
+4109906,Icaraíma,Falso,PR
+4100509,Altônia,Falso,PR
+4128807,Xambrê,Falso,PR
+4126900,Tapira,Falso,PR
+4110607,Iporã,Falso,PR
+4125357,São Jorge do Patrocínio,Falso,PR
+4103479,Cafezal do Sul,Falso,PR
+4105607,Cidade Gaúcha,Falso,PR
+4122602,Rondon,Falso,PR
+4127908,Tuneiras do Oeste,Falso,PR
+4112405,Japurá,Falso,PR
+4113007,Jussara,Falso,PR
+4105508,Cianorte,Falso,PR
+4125555,São Manoel do Paraná,Falso,PR
+4109104,Guaporema,Falso,PR
+4126108,São Tomé,Falso,PR
+4126801,Tapejara,Falso,PR
+4110409,Indianópolis,Falso,PR
+4121356,Rancho Alegre D'Oeste,Falso,PR
+4116802,Nova Cantu,Falso,PR
+4120655,Quarto Centenário,Falso,PR
+4112207,Janiópolis,Falso,PR
+4112959,Juranda,Falso,PR
+4103909,Campina da Lagoa,Falso,PR
+4116109,Moreira Sales,Falso,PR
+4100459,Altamira do Paraná,Falso,PR
+4103008,Boa Esperança,Falso,PR
+4128005,Ubiratã,Falso,PR
+4108601,Goioerê,Falso,PR
+4107702,Fênix,Falso,PR
+4113734,Luiziana,Falso,PR
+4122503,Roncador,Falso,PR
+4107553,Farol,Falso,PR
+4114005,Mamborê,Falso,PR
+4104303,Campo Mourão,Falso,PR
+4101705,Araruna,Falso,PR
+4102505,Barbosa Ferraz,Falso,PR
+4106555,Corumbataí do Sul,Falso,PR
+4107504,Engenheiro Beltrão,Falso,PR
+4118808,Peabiru,Falso,PR
+4121109,Quinta do Sol,Falso,PR
+4110805,Iretama,Falso,PR
+4127205,Terra Boa,Falso,PR
+4128302,Uniflor,Falso,PR
+4108106,Flórida,Falso,PR
+4102109,Astorga,Falso,PR
+4123402,Santa Fé,Falso,PR
+4116901,Nova Esperança,Falso,PR
+4116307,Munhoz de Melo,Falso,PR
+4101150,Ângulo,Falso,PR
+4110003,Iguaraçu,Falso,PR
+4120408,Presidente Castelo Branco,Falso,PR
+4102208,Atalaia,Falso,PR
+4114104,Mandaguaçu,Falso,PR
+4105904,Colorado,Falso,PR
+4123600,Santa Inês,Falso,PR
+4110904,Itaguajé,Falso,PR
+4116406,Nossa Senhora das Graças,Falso,PR
+4124509,Santo Inácio,Falso,PR
+4113601,Lobato,Falso,PR
+4103404,Cafeara,Falso,PR
+4111902,Jaguapitã,Falso,PR
+4113809,Lupionópolis,Falso,PR
+4109203,Guaraci,Falso,PR
+4105102,Centenário do Sul,Falso,PR
+4120507,Primeiro de Maio,Falso,PR
+4102802,Bela Vista do Paraíso,Falso,PR
+4100806,Alvorada do Sul,Falso,PR
+4126504,Sertanópolis,Falso,PR
+4116000,Miraselva,Falso,PR
+4120333,Prado Ferreira,Falso,PR
+4108007,Florestópolis,Falso,PR
+4120002,Porecatu,Falso,PR
+4125308,São Jorge do Ivaí,Falso,PR
+4117404,Ourizona,Falso,PR
+4107900,Floresta,Falso,PR
+4107306,Doutor Camargo,Falso,PR
+4107801,Floraí,Falso,PR
+4111100,Itambé,Falso,PR
+4111605,Ivatuba,Falso,PR
+4117503,Paiçandu,Falso,PR
+4115200,Maringá,Falso,PR
+4114203,Mandaguari,Falso,PR
+4126256,Sarandi,Falso,PR
+4114807,Marialva,Falso,PR
+4122701,Sabáudia,Falso,PR
+4101507,Arapongas,Falso,PR
+4114906,Marilândia do Sul,Falso,PR
+4112108,Jandaia do Sul,Falso,PR
+4103800,Cambira,Falso,PR
+4101408,Apucarana,Falso,PR
+4103503,Califórnia,Falso,PR
+4117297,Novo Itacolomi,Falso,PR
+4115754,Mauá da Serra,Falso,PR
+4113700,Londrina,Falso,PR
+4122404,Rolândia,Falso,PR
+4126678,Tamarana,Falso,PR
+4109807,Ibiporã,Falso,PR
+4119657,Pitangueiras,Falso,PR
+4103701,Cambé,Falso,PR
+4115507,Marumbi,Falso,PR
+4122107,Rio Bom,Falso,PR
+4103305,Borrazópolis,Falso,PR
+4103206,Bom Sucesso,Falso,PR
+4113106,Kaloré,Falso,PR
+4107603,Faxinal,Falso,PR
+4106852,Cruzmaltina,Falso,PR
+4117271,Nova Tebas,Falso,PR
+4125803,São Pedro do Ivaí,Falso,PR
+4101853,Ariranha do Ivaí,Falso,PR
+4101655,Arapuã,Falso,PR
+4113759,Lunardelli,Falso,PR
+4113429,Lidianópolis,Falso,PR
+4114500,Manoel Ribas,Falso,PR
+4108551,Godoy Moreira,Falso,PR
+4122172,Rio Branco do Ivaí,Falso,PR
+4108700,Grandes Rios,Falso,PR
+4111506,Ivaiporã,Falso,PR
+4125001,São João do Ivaí,Falso,PR
+4122651,Rosário do Ivaí,Falso,PR
+4104402,Cândido de Abreu,Falso,PR
+4112504,Jardim Alegre,Falso,PR
+4112702,Jataizinho,Falso,PR
+4101903,Assaí,Falso,PR
+4128401,Uraí,Falso,PR
+4123204,Santa Cecília do Pavão,Falso,PR
+4121307,Rancho Alegre,Falso,PR
+4124707,São Jerônimo da Serra,Falso,PR
+4126009,São Sebastião da Amoreira,Falso,PR
+4117214,Nova Santa Bárbara,Falso,PR
+4101101,Andirá,Falso,PR
+4121901,Ribeirão do Pinhal,Falso,PR
+4100103,Abatiá,Falso,PR
+4106407,Cornélio Procópio,Falso,PR
+4106001,Congonhinhas,Falso,PR
+4126405,Sertaneja,Falso,PR
+4111001,Itambaracá,Falso,PR
+4123105,Santa Amélia,Falso,PR
+4117008,Nova Fátima,Falso,PR
+4113403,Leópolis,Falso,PR
+4102406,Bandeirantes,Falso,PR
+4124301,Santo Antônio do Paraíso,Falso,PR
+4116604,Nova América da Colina,Falso,PR
+4123907,Santa Mariana,Falso,PR
+4121802,Ribeirão Claro,Falso,PR
+4102703,Barra do Jacaré,Falso,PR
+4112900,Jundiaí do Sul,Falso,PR
+4124103,Santo Antônio da Platina,Falso,PR
+4111803,Jacarezinho,Falso,PR
+4103602,Cambará,Falso,PR
+4126207,Sapopema,Falso,PR
+4119202,Pinhalão,Falso,PR
+4112306,Japira,Falso,PR
+4106100,Conselheiro Mairinck,Falso,PR
+4111704,Jaboti,Falso,PR
+4109708,Ibaiti,Falso,PR
+4107751,Figueira,Falso,PR
+4107009,Curiúva,Falso,PR
+4122909,Salto do Itararé,Falso,PR
+4104709,Carlópolis,Falso,PR
+4127809,Tomazina,Falso,PR
+4125407,São José da Boa Vista,Falso,PR
+4128500,Wenceslau Braz,Falso,PR
+4126603,Siqueira Campos,Falso,PR
+4109005,Guapirama,Falso,PR
+4124004,Santana do Itararé,Falso,PR
+4120705,Quatiguá,Falso,PR
+4112801,Joaquim Távora,Falso,PR
+4128534,Ventania,Falso,PR
+4121703,Reserva,Falso,PR
+4127502,Tibagi,Falso,PR
+4117305,Ortigueira,Falso,PR
+4110078,Imbaú,Falso,PR
+4127106,Telêmaco Borba,Falso,PR
+4101606,Arapoti,Falso,PR
+4126306,Sengés,Falso,PR
+4119400,Piraí do Sul,Falso,PR
+4112009,Jaguariaíva,Falso,PR
+4119905,Ponta Grossa,Falso,PR
+4104659,Carambeí,Falso,PR
+4104907,Castro,Falso,PR
+4117701,Palmeira,Falso,PR
+4107157,Diamante D'Oeste,Falso,PR
+4123501,Santa Helena,Falso,PR
+4117909,Palotina,Falso,PR
+4115358,Maripá,Falso,PR
+4127700,Toledo,Falso,PR
+4108809,Guaíra,Falso,PR
+4110656,Iracema do Oeste,Falso,PR
+4127957,Tupãssi,Falso,PR
+4125753,São Pedro do Iguaçu,Falso,PR
+4117453,Ouro Verde do Oeste,Falso,PR
+4102000,Assis Chateaubriand,Falso,PR
+4108205,Formosa do Oeste,Falso,PR
+4112751,Jesuítas,Falso,PR
+4127403,Terra Roxa,Falso,PR
+4125456,São José das Palmeiras,Falso,PR
+4117222,Nova Santa Rosa,Falso,PR
+4120853,Quatro Pontes,Falso,PR
+4107538,Entre Rios do Oeste,Falso,PR
+4114609,Marechal Cândido Rondon,Falso,PR
+4115853,Mercedes,Falso,PR
+4118451,Pato Bragado,Falso,PR
+4109757,Ibema,Falso,PR
+4104055,Campo Bonito,Falso,PR
+4104600,Capitão Leônidas Marques,Falso,PR
+4103057,Boa Vista da Aparecida,Falso,PR
+4103453,Cafelândia,Falso,PR
+4123824,Santa Lúcia,Falso,PR
+4103354,Braganey,Falso,PR
+4113452,Lindoeste,Falso,PR
+4104808,Cascavel,Falso,PR
+4107124,Diamante do Sul,Falso,PR
+4127858,Três Barras do Paraná,Falso,PR
+4124020,Santa Tereza do Oeste,Falso,PR
+4106308,Corbélia,Falso,PR
+4116703,Nova Aurora,Falso,PR
+4101051,Anahy,Falso,PR
+4109302,Guaraniaçu,Falso,PR
+4105003,Catanduvas,Falso,PR
+4110052,Iguatu,Falso,PR
+4121257,Ramilândia,Falso,PR
+4105300,Céu Azul,Falso,PR
+4128559,Vera Cruz do Oeste,Falso,PR
+4115606,Matelândia,Falso,PR
+4126355,Serranópolis do Iguaçu,Falso,PR
+4108304,Foz do Iguaçu,Falso,PR
+4116059,Missal,Falso,PR
+4125704,São Miguel do Iguaçu,Falso,PR
+4115804,Medianeira,Falso,PR
+4110953,Itaipulândia,Falso,PR
+4124053,Santa Terezinha de Itaipu,Falso,PR
+4102752,Bela Vista da Caroba,Falso,PR
+4120358,Pranchita,Falso,PR
+4104501,Capanema,Falso,PR
+4101002,Ampére,Falso,PR
+4119004,Pérola d'Oeste,Falso,PR
+4123808,Santa Izabel do Oeste,Falso,PR
+4121406,Realeza,Falso,PR
+4119806,Planalto,Falso,PR
+4108403,Francisco Beltrão,Falso,PR
+4107850,Flor da Serra do Sul,Falso,PR
+4115408,Marmeleiro,Falso,PR
+4121604,Renascença,Falso,PR
+4102604,Barracão,Falso,PR
+4119251,Pinhal de São Bento,Falso,PR
+4124400,Santo Antônio do Sudoeste,Falso,PR
+4116950,Nova Esperança do Sudoeste,Falso,PR
+4107405,Enéas Marques,Falso,PR
+4114351,Manfrinópolis,Falso,PR
+4103156,Bom Jesus do Sul,Falso,PR
+4128609,Verê,Falso,PR
+4122800,Salgado Filho,Falso,PR
+4107207,Dois Vizinhos,Falso,PR
+4123006,Salto do Lontra,Falso,PR
+4117255,Nova Prata do Iguaçu,Falso,PR
+4106571,Cruzeiro do Iguaçu,Falso,PR
+4125209,São Jorge d'Oeste,Falso,PR
+4103024,Boa Esperança do Iguaçu,Falso,PR
+4118501,Pato Branco,Falso,PR
+4111209,Itapejara d'Oeste,Falso,PR
+4103222,Bom Sucesso do Sul,Falso,PR
+4124806,São João,Falso,PR
+4115309,Mariópolis,Falso,PR
+4126272,Saudade do Iguaçu,Falso,PR
+4128708,Vitorino,Falso,PR
+4106506,Coronel Vivida,Falso,PR
+4105409,Chopinzinho,Falso,PR
+4126652,Sulina,Falso,PR
+4119608,Pitanga,Falso,PR
+4103040,Boa Ventura de São Roque,Falso,PR
+4113254,Laranjal,Falso,PR
+4123857,Santa Maria do Oeste,Falso,PR
+4117800,Palmital,Falso,PR
+4115739,Mato Rico,Falso,PR
+4121752,Reserva do Iguaçu,Falso,PR
+4108650,Goioxim,Falso,PR
+4104428,Candói,Falso,PR
+4103958,Campina do Simão,Falso,PR
+4119301,Pinhão,Falso,PR
+4110201,Inácio Martins,Falso,PR
+4127965,Turvo,Falso,PR
+4108452,Foz do Jordão,Falso,PR
+4109401,Guarapuava,Falso,PR
+4104451,Cantagalo,Falso,PR
+4107546,Espigão Alto do Iguaçu,Falso,PR
+4120150,Porto Barreiro,Falso,PR
+4113304,Laranjeiras do Sul,Falso,PR
+4128658,Virmond,Falso,PR
+4122156,Rio Bonito do Iguaçu,Falso,PR
+4120903,Quedas do Iguaçu,Falso,PR
+4117057,Nova Laranjeiras,Falso,PR
+4115457,Marquinho,Falso,PR
+4109658,Honório Serpa,Falso,PR
+4114401,Mangueirinha,Falso,PR
+4105706,Clevelândia,Falso,PR
+4117602,Palmas,Falso,PR
+4106456,Coronel Domingos Soares,Falso,PR
+4120606,Prudentópolis,Falso,PR
+4108957,Guamiranga,Falso,PR
+4111407,Ivaí,Falso,PR
+4110508,Ipiranga,Falso,PR
+4107736,Fernandes Pinheiro,Falso,PR
+4127007,Teixeira Soares,Falso,PR
+4110102,Imbituva,Falso,PR
+4113908,Mallet,Falso,PR
+4122008,Rio Azul,Falso,PR
+4110706,Irati,Falso,PR
+4121505,Rebouças,Falso,PR
+4102901,Bituruna,Falso,PR
+4118709,Paulo Frontin,Falso,PR
+4128203,União da Vitória,Falso,PR
+4120309,Porto Vitória,Falso,PR
+4118600,Paula Freitas,Falso,PR
+4108502,General Carneiro,Falso,PR
+4106803,Cruz Machado,Falso,PR
+4101309,Antônio Olinto,Falso,PR
+4125605,São Mateus do Sul,Falso,PR
+4125100,São João do Triunfo,Falso,PR
+4128633,Doutor Ulysses,Falso,PR
+4100202,Adrianópolis,Falso,PR
+4105201,Cerro Azul,Falso,PR
+4113205,Lapa,Falso,PR
+4120101,Porto Amazonas,Falso,PR
+4127882,Tunas do Paraná,Falso,PR
+4114302,Mandirituba,Falso,PR
+4120804,Quatro Barras,Falso,PR
+4107652,Fazenda Rio Grande,Falso,PR
+4104253,Campo Magro,Falso,PR
+4106902,Curitiba,Verdadeiro,PR
+4103107,Bocaiúva do Sul,Falso,PR
+4104204,Campo Largo,Falso,PR
+4100400,Almirante Tamandaré,Falso,PR
+4111258,Itaperuçu,Falso,PR
+4122206,Rio Branco do Sul,Falso,PR
+4119152,Pinhais,Falso,PR
+4105805,Colombo,Falso,PR
+4102307,Balsa Nova,Falso,PR
+4106209,Contenda,Falso,PR
+4119509,Piraquara,Falso,PR
+4125506,São José dos Pinhais,Falso,PR
+4104006,Campina Grande do Sul,Falso,PR
+4101804,Araucária,Falso,PR
+4101200,Antonina,Falso,PR
+4116208,Morretes,Falso,PR
+4109500,Guaraqueçaba,Falso,PR
+4118204,Paranaguá,Falso,PR
+4115705,Matinhos,Falso,PR
+4119954,Pontal do Paraná,Falso,PR
+4109609,Guaratuba,Falso,PR
+4100301,Agudos do Sul,Falso,PR
+4119103,Piên,Falso,PR
+4122305,Rio Negro,Falso,PR
+4104105,Campo do Tenente,Falso,PR
+4121208,Quitandinha,Falso,PR
+4127601,Tijucas do Sul,Falso,PR
+4215075,Riqueza,Falso,PR
+4211009,Mondaí,Falso,SC
+4202099,Barra Bonita,Falso,SC
+4208401,Itapiranga,Falso,SC
+4217204,São Miguel do Oeste,Falso,SC
+4200804,Anchieta,Falso,SC
+4215208,Romelândia,Falso,SC
+4202081,Bandeirante,Falso,SC
+4204905,Descanso,Falso,SC
+4215554,Santa Helena,Falso,SC
+4212007,Palma Sola,Falso,SC
+4214151,Princesa,Falso,SC
+4206405,Guaraciaba,Falso,SC
+4216701,São José do Cedro,Falso,SC
+4218756,Tunápolis,Falso,SC
+4216255,São João do Oeste,Falso,SC
+4202156,Belmonte,Falso,SC
+4212239,Paraíso,Falso,SC
+4207650,Iporã do Oeste,Falso,SC
+4205001,Dionísio Cerqueira,Falso,SC
+4206603,Guarujá do Sul,Falso,SC
+4204756,Cunhataí,Falso,SC
+4204103,Caxambu do Sul,Falso,SC
+4203105,Caibi,Falso,SC
+4217303,Saudades,Falso,SC
+4207858,Irati,Falso,SC
+4206652,Guatambú,Falso,SC
+4216008,São Carlos,Falso,SC
+4212106,Palmitos,Falso,SC
+4212908,Pinhalzinho,Falso,SC
+4217550,Serra Alta,Falso,SC
+4215695,Santiago do Sul,Falso,SC
+4218855,União do Oeste,Falso,SC
+4214201,Quilombo,Falso,SC
+4204350,Cordilheira Alta,Falso,SC
+4213153,Planalto Alegre,Falso,SC
+4204400,Coronel Freitas,Falso,SC
+4210902,Modelo,Falso,SC
+4204202,Chapecó,Falso,SC
+4205431,Formosa do Sul,Falso,SC
+4211454,Nova Itaberaba,Falso,SC
+4211405,Nova Erechim,Falso,SC
+4208955,Jardinópolis,Falso,SC
+4200507,Águas de Chapecó,Falso,SC
+4217758,Sul Brasil,Falso,SC
+4200556,Águas Frias,Falso,SC
+4205357,Flor do Sertão,Falso,SC
+4217956,Tigrinhos,Falso,SC
+4215356,Saltinho,Falso,SC
+4215687,Santa Terezinha do Progresso,Falso,SC
+4204707,Cunha Porã,Falso,SC
+4207759,Iraceminha,Falso,SC
+4217154,São Miguel da Boa Vista,Falso,SC
+4202578,Bom Jesus do Oeste,Falso,SC
+4210506,Maravilha,Falso,SC
+4203501,Campo Erê,Falso,SC
+4216909,São Lourenço do Oeste,Falso,SC
+4215752,São Bernardino,Falso,SC
+4211652,Novo Horizonte,Falso,SC
+4210555,Marema,Falso,SC
+4209458,Lajeado Grande,Falso,SC
+4219705,Xaxim,Falso,SC
+4205308,Faxinal dos Guedes,Falso,SC
+4212270,Passos Maia,Falso,SC
+4200101,Abelardo Luz,Falso,SC
+4202537,Bom Jesus,Falso,SC
+4211850,Ouro Verde,Falso,SC
+4216107,São Domingos,Falso,SC
+4219507,Xanxerê,Falso,SC
+4204459,Coronel Martins,Falso,SC
+4219101,Vargeão,Falso,SC
+4207684,Ipuaçu,Falso,SC
+4213401,Ponte Serrada,Falso,SC
+4205175,Entre Rios,Falso,SC
+4205605,Galvão,Falso,SC
+4209177,Jupiá,Falso,SC
+4203907,Capinzal,Falso,SC
+4211801,Ouro,Falso,SC
+4209003,Joaçaba,Falso,SC
+4219176,Vargem Bonita,Falso,SC
+4200408,Água Doce,Falso,SC
+4209201,Lacerdópolis,Falso,SC
+4205209,Erval Velho,Falso,SC
+4210035,Luzerna,Falso,SC
+4206801,Ibicaré,Falso,SC
+4218509,Treze Tílias,Falso,SC
+4208609,Jaborá,Falso,SC
+4204004,Catanduvas,Falso,SC
+4206702,Herval d'Oeste,Falso,SC
+4203154,Calmon,Falso,SC
+4210050,Macieira,Falso,SC
+4209706,Lebon Régis,Falso,SC
+4210704,Matos Costa,Falso,SC
+4203006,Caçador,Falso,SC
+4207577,Iomerê,Falso,SC
+4214409,Rio das Antas,Falso,SC
+4213005,Pinheiro Preto,Falso,SC
+4201604,Arroio Trinta,Falso,SC
+4219309,Videira,Falso,SC
+4205506,Fraiburgo,Falso,SC
+4215406,Salto Veloso,Falso,SC
+4217907,Tangará,Falso,SC
+4206751,Ibiam,Falso,SC
+4201653,Arvoredo,Falso,SC
+4211876,Paial,Falso,SC
+4200754,Alto Bela Vista,Falso,SC
+4207809,Irani,Falso,SC
+4213104,Piratuba,Falso,SC
+4208005,Itá,Falso,SC
+4213906,Presidente Castello Branco,Falso,SC
+4217501,Seara,Falso,SC
+4204301,Concórdia,Falso,SC
+4201273,Arabutã,Falso,SC
+4207601,Ipira,Falso,SC
+4209854,Lindóia do Sul,Falso,SC
+4207700,Ipumirim,Falso,SC
+4212601,Peritiba,Falso,SC
+4219606,Xavantina,Falso,SC
+4218251,Timbó Grande,Falso,SC
+4208104,Itaiópolis,Falso,SC
+4210100,Mafra,Falso,SC
+4207908,Irineópolis,Falso,SC
+4203808,Canoinhas,Falso,SC
+4211108,Monte Castelo,Falso,SC
+4202131,Bela Vista do Toldo,Falso,SC
+4213609,Porto União,Falso,SC
+4218301,Três Barras,Falso,SC
+4210308,Major Vieira,Falso,SC
+4212205,Papanduva,Falso,SC
+4215679,Santa Terezinha,Falso,SC
+4215802,São Bento do Sul,Falso,SC
+4203303,Campo Alegre,Falso,SC
+4215000,Rio Negrinho,Falso,SC
+4208906,Jaraguá do Sul,Falso,SC
+4217402,Schroeder,Falso,SC
+4216206,São Francisco do Sul,Falso,SC
+4209102,Joinville,Falso,SC
+4201307,Araquari,Falso,SC
+4206504,Guaramirim,Falso,SC
+4210605,Massaranduba,Falso,SC
+4208450,Itapoá,Falso,SC
+4204509,Corupá,Falso,SC
+4202057,Balneário Barra do Sul,Falso,SC
+4205803,Garuva,Falso,SC
+4213302,Ponte Alta,Falso,SC
+4216057,São Cristovão do Sul,Falso,SC
+4202875,Brunópolis,Falso,SC
+4204806,Curitibanos,Falso,SC
+4205555,Frei Rogério,Falso,SC
+4215505,Santa Cecília,Falso,SC
+4213351,Ponte Alta do Norte,Falso,SC
+4203600,Campos Novos,Falso,SC
+4219150,Vargem,Falso,SC
+4219853,Zortéa,Falso,SC
+4200051,Abdon Batista,Falso,SC
+4211058,Monte Carlo,Falso,SC
+4204558,Correia Pinto,Falso,SC
+4218905,Urubici,Falso,SC
+4201000,Anita Garibaldi,Falso,SC
+4203402,Campo Belo do Sul,Falso,SC
+4216800,São José do Cerrito,Falso,SC
+4203253,Capão Alto,Falso,SC
+4212056,Palmeira,Falso,SC
+4215059,Rio Rufino,Falso,SC
+4202503,Bom Jardim da Serra,Falso,SC
+4202602,Bom Retiro,Falso,SC
+4211751,Otacílio Costa,Falso,SC
+4211892,Painel,Falso,SC
+4216503,São Joaquim,Falso,SC
+4218954,Urupema,Falso,SC
+4209300,Lages,Falso,SC
+4204178,Cerro Negro,Falso,SC
+4202438,Bocaina do Sul,Falso,SC
+4204152,Celso Ramos,Falso,SC
+4217808,Taió,Falso,SC
+4209508,Laurentino,Falso,SC
+4215307,Salete,Falso,SC
+4209904,Lontras,Falso,SC
+4201901,Aurora,Falso,SC
+4202859,Braço do Trombudo,Falso,SC
+4218608,Trombudo Central,Falso,SC
+4214102,Presidente Nereu,Falso,SC
+4210852,Mirim Doce,Falso,SC
+4214607,Rio do Oeste,Falso,SC
+4214805,Rio do Sul,Falso,SC
+4213708,Pouso Redondo,Falso,SC
+4200309,Agronômica,Falso,SC
+4214508,Rio do Campo,Falso,SC
+4219408,Witmarsum,Falso,SC
+4219358,Vitor Meireles,Falso,SC
+4214003,Presidente Getúlio,Falso,SC
+4205100,Dona Emma,Falso,SC
+4209151,José Boiteux,Falso,SC
+4206900,Ibirama,Falso,SC
+4207502,Indaial,Falso,SC
+4202404,Blumenau,Falso,SC
+4201703,Ascurra,Falso,SC
+4205159,Doutor Pedrinho,Falso,SC
+4218202,Timbó,Falso,SC
+4214706,Rio dos Cedros,Falso,SC
+4213203,Pomerode,Falso,SC
+4202206,Benedito Novo,Falso,SC
+4201257,Apiúna,Falso,SC
+4215109,Rodeio,Falso,SC
+4205902,Gaspar,Falso,SC
+4210001,Luiz Alves,Falso,SC
+4202701,Botuverá,Falso,SC
+4202909,Brusque,Falso,SC
+4206306,Guabiruba,Falso,SC
+4216354,São João do Itaperiú,Falso,SC
+4207106,Ilhota,Falso,SC
+4202453,Bombinhas,Falso,SC
+4202107,Barra Velha,Falso,SC
+4203204,Camboriú,Falso,SC
+4212502,Penha,Falso,SC
+4211306,Navegantes,Falso,SC
+4208302,Itapema,Falso,SC
+4202008,Balneário Camboriú,Falso,SC
+4212809,Balneário Piçarras,Falso,SC
+4213500,Porto Belo,Falso,SC
+4208203,Itajaí,Falso,SC
+4201802,Atalanta,Falso,SC
+4200200,Agrolândia,Falso,SC
+4219200,Vidal Ramos,Falso,SC
+4212700,Petrolândia,Falso,SC
+4208500,Ituporanga,Falso,SC
+4204194,Chapadão do Lageado,Falso,SC
+4207403,Imbuia,Falso,SC
+4200903,Angelina,Falso,SC
+4218004,Tijucas,Falso,SC
+4211504,Nova Trento,Falso,SC
+4216305,São João Batista,Falso,SC
+4203709,Canelinha,Falso,SC
+4210209,Major Gercino,Falso,SC
+4209805,Leoberto Leal,Falso,SC
+4216602,São José,Falso,SC
+4202305,Biguaçu,Falso,SC
+4212304,Paulo Lopes,Falso,SC
+4201208,Antônio Carlos,Falso,SC
+4215703,Santo Amaro da Imperatriz,Falso,SC
+4217253,São Pedro de Alcântara,Falso,SC
+4205407,Florianópolis,Verdadeiro,SC
+4211900,Palhoça,Falso,SC
+4206009,Governador Celso Ramos,Falso,SC
+4200606,Águas Mornas,Falso,SC
+4201109,Anitápolis,Falso,SC
+4200705,Alfredo Wagner,Falso,SC
+4214300,Rancho Queimado,Falso,SC
+4215901,São Bonifácio,Falso,SC
+4207304,Imbituba,Falso,SC
+4205704,Garopaba,Falso,SC
+4211702,Orleans,Falso,SC
+4214904,Rio Fortuna,Falso,SC
+4206108,Grão Pará,Falso,SC
+4215604,Santa Rosa de Lima,Falso,SC
+4217105,São Martinho,Falso,SC
+4212403,Pedras Grandes,Falso,SC
+4212650,Pescaria Brava,Falso,SC
+4201505,Armazém,Falso,SC
+4202800,Braço do Norte,Falso,SC
+4207205,Imaruí,Falso,SC
+4217006,São Ludgero,Falso,SC
+4208807,Jaguaruna,Falso,SC
+4218400,Treze de Maio,Falso,SC
+4209409,Laguna,Falso,SC
+4218707,Tubarão,Falso,SC
+4203956,Capivari de Baixo,Falso,SC
+4206207,Gravatal,Falso,SC
+4215455,Sangão,Falso,SC
+4204608,Criciúma,Falso,SC
+4217600,Siderópolis,Falso,SC
+4219002,Urussanga,Falso,SC
+4209607,Lauro Muller,Falso,SC
+4205456,Forquilhinha,Falso,SC
+4220000,Balneário Rincão,Falso,SC
+4204251,Cocal do Sul,Falso,SC
+4211207,Morro da Fumaça,Falso,SC
+4207007,Içara,Falso,SC
+4218350,Treviso,Falso,SC
+4211603,Nova Veneza,Falso,SC
+4211256,Morro Grande,Falso,SC
+4213807,Praia Grande,Falso,SC
+4201950,Balneário Arroio do Silva,Falso,SC
+4201406,Araranguá,Falso,SC
+4218103,Timbé do Sul,Falso,SC
+4212254,Passo de Torres,Falso,SC
+4210407,Maracajá,Falso,SC
+4210803,Meleiro,Falso,SC
+4202073,Balneário Gaivota,Falso,SC
+4218806,Turvo,Falso,SC
+4215653,Santa Rosa do Sul,Falso,SC
+4205191,Ermo,Falso,SC
+4217709,Sombrio,Falso,SC
+4208708,Jacinto Machado,Falso,SC
+4216404,São João do Sul,Falso,SC
+4317202,Santa Rosa,Falso,SC
+4300307,Alecrim,Falso,RS
+4317905,Santo Cristo,Falso,RS
+4322301,Tuparendi,Falso,RS
+4304309,Cândido Godói,Falso,RS
+4315073,Porto Vera Cruz,Falso,RS
+4313425,Novo Machado,Falso,RS
+4315008,Porto Lucena,Falso,RS
+4322103,Tucunduva,Falso,RS
+4315057,Porto Mauá,Falso,RS
+4318499,São José do Inhacorá,Falso,RS
+4321808,Três de Maio,Falso,RS
+4310405,Independência,Falso,RS
+4301859,Barra do Guarita,Falso,RS
+4312302,Miraguaí,Falso,RS
+4307450,Esperança do Sul,Falso,RS
+4306320,Derrubadas,Falso,RS
+4321402,Tenente Portela,Falso,RS
+4306007,Crissiumal,Falso,RS
+4319109,São Martinho,Falso,RS
+4323705,Vista Gaúcha,Falso,RS
+4321477,Tiradentes do Sul,Falso,RS
+4321907,Três Passos,Falso,RS
+4304002,Campo Novo,Falso,RS
+4315404,Redentora,Falso,RS
+4302600,Braga,Falso,RS
+4320230,Sede Nova,Falso,RS
+4302378,Bom Progresso,Falso,RS
+4309704,Humaitá,Falso,RS
+4313011,Nova Candelária,Falso,RS
+4309605,Horizontina,Falso,RS
+4302204,Boa Vista do Buricá,Falso,RS
+4306734,Doutor Maurício Cardoso,Falso,RS
+4321857,Três Palmeiras,Falso,RS
+4313466,Novo Xingu,Falso,RS
+4305801,Constantina,Falso,RS
+4306924,Engenho Velho,Falso,RS
+4316204,Rondinha,Falso,RS
+4321329,Taquaruçu do Sul,Falso,RS
+4307302,Erval Seco,Falso,RS
+4310504,Iraí,Falso,RS
+4314498,Pinheirinho do Vale,Falso,RS
+4306072,Cristal do Sul,Falso,RS
+4313805,Palmitinho,Falso,RS
+4311601,Liberato Salzano,Falso,RS
+4323507,Vista Alegre,Falso,RS
+4300646,Ametista do Sul,Falso,RS
+4308508,Frederico Westphalen,Falso,RS
+4320206,Seberi,Falso,RS
+4303400,Caiçara,Falso,RS
+4323101,Vicente Dutra,Falso,RS
+4313441,Novo Tiradentes,Falso,RS
+4315909,Rodeio Bonito,Falso,RS
+4306429,Dois Irmãos das Missões,Falso,RS
+4309126,Gramado dos Loureiros,Falso,RS
+4315552,Rio dos Índios,Falso,RS
+4314704,Planalto,Falso,RS
+4300505,Alpestre,Falso,RS
+4321956,Trindade do Sul,Falso,RS
+4312708,Nonoai,Falso,RS
+4302055,Benjamin Constant do Sul,Falso,RS
+4300901,Aratiba,Falso,RS
+4303806,Campinas do Sul,Falso,RS
+4301552,Áurea,Falso,RS
+4308052,Faxinalzinho,Falso,RS
+4311908,Marcelino Ramos,Falso,RS
+4308706,Gaurama,Falso,RS
+4310702,Itatiba do Sul,Falso,RS
+4306957,Entre Rios do Sul,Falso,RS
+4314787,Ponte Preta,Falso,RS
+4319703,São Valentim,Falso,RS
+4306973,Erebango,Falso,RS
+4301701,Barão de Cotegipe,Falso,RS
+4322905,Viadutos,Falso,RS
+4321634,Três Arroios,Falso,RS
+4307559,Estação,Falso,RS
+4308904,Getúlio Vargas,Falso,RS
+4310900,Jacutinga,Falso,RS
+4312005,Mariano Moro,Falso,RS
+4314134,Paulo Bento,Falso,RS
+4315313,Quatro Irmãos,Falso,RS
+4306130,Cruzaltense,Falso,RS
+4307005,Erechim,Falso,RS
+4305116,Centenário,Falso,RS
+4320602,Severiano de Almeida,Falso,RS
+4304853,Carlos Gomes,Falso,RS
+4307203,Erval Grande,Falso,RS
+4301925,Barra do Rio Azul,Falso,RS
+4310462,Ipiranga do Sul,Falso,RS
+4308250,Floriano Peixoto,Falso,RS
+4309803,Ibiaçá,Falso,RS
+4316600,Sananduva,Falso,RS
+4317954,Santo Expedito do Sul,Falso,RS
+4313607,Paim Filho,Falso,RS
+4318424,São João da Urtiga,Falso,RS
+4312203,Maximiliano de Almeida,Falso,RS
+4322186,Tupanci do Sul,Falso,RS
+4301800,Barracão,Falso,RS
+4318606,São José do Ouro,Falso,RS
+4311700,Machadinho,Falso,RS
+4303202,Cacique Doble,Falso,RS
+4303707,Campina das Missões,Falso,RS
+4309506,Guarani das Missões,Falso,RS
+4320578,Sete de Setembro,Falso,RS
+4303301,Caibaté,Falso,RS
+4305207,Cerro Largo,Falso,RS
+4312179,Mato Queimado,Falso,RS
+4319372,São Pedro do Butiá,Falso,RS
+4319307,São Paulo das Missões,Falso,RS
+4315107,Porto Xavier,Falso,RS
+4316303,Roque Gonzales,Falso,RS
+4316477,Salvador das Missões,Falso,RS
+4305009,Catuípe,Falso,RS
+4320321,Senador Salgado Filho,Falso,RS
+4317509,Santo Ângelo,Falso,RS
+4306932,Entre-Ijuís,Falso,RS
+4319158,São Miguel das Missões,Falso,RS
+4307831,Eugênio de Castro,Falso,RS
+4309001,Giruá,Falso,RS
+4323754,Vitória das Missões,Falso,RS
+4314555,Pirapó,Falso,RS
+4317707,Santo Antônio das Missões,Falso,RS
+4302501,Bossoroca,Falso,RS
+4306353,Dezesseis de Novembro,Falso,RS
+4318903,São Luiz Gonzaga,Falso,RS
+4319208,São Nicolau,Falso,RS
+4315958,Rolador,Falso,RS
+4322343,Ubiretama,Falso,RS
+4301503,Augusto Pestana,Falso,RS
+4310207,Ijuí,Falso,RS
+4305702,Condor,Falso,RS
+4300208,Ajuricaba,Falso,RS
+4305405,Chiapetta,Falso,RS
+4313334,Nova Ramada,Falso,RS
+4319737,São Valério do Sul,Falso,RS
+4305900,Coronel Bicaco,Falso,RS
+4317806,Santo Augusto,Falso,RS
+4302584,Bozano,Falso,RS
+4305871,Coronel Barros,Falso,RS
+4310413,Inhacorá,Falso,RS
+4313904,Panambi,Falso,RS
+4314308,Pejuçara,Falso,RS
+4300455,Alegria,Falso,RS
+4305306,Chapada,Falso,RS
+4304705,Carazinho,Falso,RS
+4300471,Almirante Tamandaré do Sul,Falso,RS
+4317756,Santo Antônio do Planalto,Falso,RS
+4320107,Sarandi,Falso,RS
+4301958,Barra Funda,Falso,RS
+4312955,Nova Boa Vista,Falso,RS
+4305850,Coqueiros do Sul,Falso,RS
+4310850,Jaboticaba,Falso,RS
+4302154,Boa Vista das Missões,Falso,RS
+4314456,Pinhal,Falso,RS
+4311429,Lajeado do Bugre,Falso,RS
+4316428,Sagrada Família,Falso,RS
+4318457,São José das Missões,Falso,RS
+4313706,Palmeira das Missões,Falso,RS
+4305157,Cerro Grande,Falso,RS
+4313490,Novo Barreiro,Falso,RS
+4319364,São Pedro das Missões,Falso,RS
+4320503,Sertão,Falso,RS
+4316105,Ronda Alta,Falso,RS
+4305975,Coxilha,Falso,RS
+4314779,Pontão,Falso,RS
+4312674,Nicolau Vergueiro,Falso,RS
+4314100,Passo Fundo,Falso,RS
+4312138,Mato Castelhano,Falso,RS
+4307054,Ernestina,Falso,RS
+4305504,Ciríaco,Falso,RS
+4318051,São Domingos do Sul,Falso,RS
+4308854,Gentil,Falso,RS
+4311809,Marau,Falso,RS
+4303558,Camargo,Falso,RS
+4312625,Muliterno,Falso,RS
+4304903,Casca,Falso,RS
+4323408,Vila Maria,Falso,RS
+4317558,Santo Antônio do Palma,Falso,RS
+4306304,David Canabarro,Falso,RS
+4322558,Vanini,Falso,RS
+4320909,Tapejara,Falso,RS
+4305371,Charrua,Falso,RS
+4316733,Santa Cecília do Sul,Falso,RS
+4300059,Água Santa,Falso,RS
+4323358,Vila Lângaro,Falso,RS
+4309902,Ibiraiaras,Falso,RS
+4304952,Caseiros,Falso,RS
+4311155,Jóia,Falso,RS
+4304101,Campos Borges,Falso,RS
+4307500,Espumoso,Falso,RS
+4300554,Alto Alegre,Falso,RS
+4302220,Boa Vista do Cadeado,Falso,RS
+4316451,Salto do Jacuí,Falso,RS
+4310009,Ibirubá,Falso,RS
+4315354,Quinze de Novembro,Falso,RS
+4306106,Cruz Alta,Falso,RS
+4310876,Jacuizinho,Falso,RS
+4302238,Boa Vista do Incra,Falso,RS
+4308458,Fortaleza dos Valos,Falso,RS
+4316709,Santa Bárbara do Sul,Falso,RS
+4316436,Saldanha Marinho,Falso,RS
+4321469,Tio Hugo,Falso,RS
+4323200,Victor Graeff,Falso,RS
+4311270,Lagoa dos Três Cantos,Falso,RS
+4321006,Tapera,Falso,RS
+4320305,Selbach,Falso,RS
+4312658,Não-Me-Toque,Falso,RS
+4305603,Colorado,Falso,RS
+4318465,São José do Herval,Falso,RS
+4309951,Ibirapuitã,Falso,RS
+4312427,Mormaço,Falso,RS
+4320800,Soledade,Falso,RS
+4308300,Fontoura Xavier,Falso,RS
+4302006,Barros Cassal,Falso,RS
+4311254,Lagoão,Falso,RS
+4322152,Tunas,Falso,RS
+4312757,Nova Alvorada,Falso,RS
+4301404,Arvorezinha,Falso,RS
+4310579,Itapuca,Falso,RS
+4319711,São Valentim do Sul,Falso,RS
+4312906,Nova Bassano,Falso,RS
+4314001,Paraí,Falso,RS
+4318440,São Jorge,Falso,RS
+4309258,Guabiju,Falso,RS
+4315172,Protásio Alves,Falso,RS
+4322350,União da Serra,Falso,RS
+4309407,Guaporé,Falso,RS
+4312351,Montauri,Falso,RS
+4313300,Nova Prata,Falso,RS
+4320404,Serafina Corrêa,Falso,RS
+4300661,André da Rocha,Falso,RS
+4306452,Dois Lajeados,Falso,RS
+4323606,Vista Alegre do Prata,Falso,RS
+4312807,Nova Araçá,Falso,RS
+4315206,Putinga,Falso,RS
+4310306,Ilópolis,Falso,RS
+4300703,Anta Gorda,Falso,RS
+4311304,Lagoa Vermelha,Falso,RS
+4304622,Capão Bonito do Sul,Falso,RS
+4318200,São Francisco de Paula,Falso,RS
+4310439,Ipê,Falso,RS
+4303608,Cambará do Sul,Falso,RS
+4303673,Campestre da Serra,Falso,RS
+4307401,Esmeralda,Falso,RS
+4302303,Bom Jesus,Falso,RS
+4312617,Muitos Capões,Falso,RS
+4311122,Jaquirana,Falso,RS
+4312377,Monte Alegre dos Campos,Falso,RS
+4314464,Pinhal da Serra,Falso,RS
+4322509,Vacaria,Falso,RS
+4318622,São José dos Ausentes,Falso,RS
+4319000,São Marcos,Falso,RS
+4307906,Farroupilha,Falso,RS
+4313086,Nova Pádua,Falso,RS
+4300802,Antônio Prado,Falso,RS
+4305108,Caxias do Sul,Falso,RS
+4308201,Flores da Cunha,Falso,RS
+4313359,Nova Roma do Sul,Falso,RS
+4302253,Boa Vista do Sul,Falso,RS
+4304804,Carlos Barbosa,Falso,RS
+4307864,Fagundes Varela,Falso,RS
+4314548,Pinto Bandeira,Falso,RS
+4302105,Bento Gonçalves,Falso,RS
+4322806,Veranópolis,Falso,RS
+4312385,Monte Belo do Sul,Falso,RS
+4317251,Santa Tereza,Falso,RS
+4305959,Cotiporã,Falso,RS
+4305934,Coronel Pilar,Falso,RS
+4323309,Vila Flores,Falso,RS
+4308607,Garibaldi,Falso,RS
+4311130,Jari,Falso,RS
+4314472,Pinhal Grande,Falso,RS
+4315321,Quevedos,Falso,RS
+4311205,Júlio de Castilhos,Falso,RS
+4310553,Itacurubi,Falso,RS
+4317400,Santiago,Falso,RS
+4322376,Unistalda,Falso,RS
+4304655,Capão do Cipó,Falso,RS
+4322202,Tupanciretã,Falso,RS
+4316907,Santa Maria,Falso,RS
+4302907,Cacequi,Falso,RS
+4310538,Itaara,Falso,RS
+4319125,São Martinho da Serra,Falso,RS
+4321493,Toropi,Falso,RS
+4312104,Mata,Falso,RS
+4306379,Dilermando de Aguiar,Falso,RS
+4319406,São Pedro do Sul,Falso,RS
+4319604,São Sepé,Falso,RS
+4319802,São Vicente do Sul,Falso,RS
+4311106,Jaguari,Falso,RS
+4323457,Vila Nova do Sul,Falso,RS
+4313037,Nova Esperança do Sul,Falso,RS
+4300109,Agudo,Falso,RS
+4306700,Dona Francisca,Falso,RS
+4315503,Restinga Seca,Falso,RS
+4318432,São João do Polêsine,Falso,RS
+4313102,Nova Palma,Falso,RS
+4320651,Silveira Martins,Falso,RS
+4308003,Faxinal do Soturno,Falso,RS
+4310751,Ivorá,Falso,RS
+4308409,Formigueiro,Falso,RS
+4320677,Sinimbu,Falso,RS
+4322608,Venâncio Aires,Falso,RS
+4322533,Vale do Sol,Falso,RS
+4312153,Mato Leitão,Falso,RS
+4322707,Vera Cruz,Falso,RS
+4309571,Herveiras,Falso,RS
+4316808,Santa Cruz do Sul,Falso,RS
+4304200,Candelária,Falso,RS
+4309159,Gramado Xavier,Falso,RS
+4307815,Estrela Velha,Falso,RS
+4301206,Arroio do Tigre,Falso,RS
+4314068,Passa Sete,Falso,RS
+4320701,Sobradinho,Falso,RS
+4309753,Ibarama,Falso,RS
+4311239,Lagoa Bonita do Sul,Falso,RS
+4320263,Segredo,Falso,RS
+4302402,Bom Retiro do Sul,Falso,RS
+4308433,Forquetinha,Falso,RS
+4321626,Travesseiro,Falso,RS
+4321451,Teutônia,Falso,RS
+4304614,Canudos do Vale,Falso,RS
+4302451,Boqueirão do Leão,Falso,RS
+4305587,Colinas,Falso,RS
+4305835,Coqueiro Baixo,Falso,RS
+4323770,Westfalia,Falso,RS
+4315156,Progresso,Falso,RS
+4316758,Santa Clara do Sul,Falso,RS
+4320453,Sério,Falso,RS
+4306205,Cruzeiro do Sul,Falso,RS
+4320859,Tabaí,Falso,RS
+4321303,Taquari,Falso,RS
+4311403,Lajeado,Falso,RS
+4307807,Estrela,Falso,RS
+4304697,Capitão,Falso,RS
+4308078,Fazenda Vilanova,Falso,RS
+4312054,Marques de Souza,Falso,RS
+4301008,Arroio do Meio,Falso,RS
+4314159,Paverama,Falso,RS
+4315131,Pouso Novo,Falso,RS
+4310363,Imigrante,Falso,RS
+4306809,Encantado,Falso,RS
+4313003,Nova Bréscia,Falso,RS
+4312609,Muçum,Falso,RS
+4315800,Roca Sales,Falso,RS
+4322855,Vespasiano Correa,Falso,RS
+4306759,Doutor Ricardo,Falso,RS
+4315453,Relvado,Falso,RS
+4303004,Cachoeira do Sul,Falso,RS
+4313391,Novo Cabrais,Falso,RS
+4305132,Cerro Branco,Falso,RS
+4314027,Paraíso do Sul,Falso,RS
+4314076,Passo do Sobrado,Falso,RS
+4315701,Rio Pardo,Falso,RS
+4313953,Pantano Grande,Falso,RS
+4318481,São José do Hortêncio,Falso,RS
+4319505,São Sebastião do Caí,Falso,RS
+4309555,Harmonia,Falso,RS
+4322251,Tupandi,Falso,RS
+4304689,Capela de Santana,Falso,RS
+4319752,São Vendelino,Falso,RS
+4314803,Portão,Falso,RS
+4302352,Bom Princípio,Falso,RS
+4311643,Linha Nova,Falso,RS
+4314035,Pareci Novo,Falso,RS
+4319356,São Pedro da Serra,Falso,RS
+4302659,Brochier,Falso,RS
+4318614,São José do Sul,Falso,RS
+4316501,Salvador do Sul,Falso,RS
+4312401,Montenegro,Falso,RS
+4311791,Maratá,Falso,RS
+4308102,Feliz,Falso,RS
+4322541,Vale Real,Falso,RS
+4300570,Alto Feliz,Falso,RS
+4301651,Barão,Falso,RS
+4314753,Poço das Antas,Falso,RS
+4316956,Santa Maria do Herval,Falso,RS
+4311627,Lindolfo Collor,Falso,RS
+4315149,Presidente Lucena,Falso,RS
+4310801,Ivoti,Falso,RS
+4306403,Dois Irmãos,Falso,RS
+4312476,Morro Reuter,Falso,RS
+4315750,Riozinho,Falso,RS
+4321709,Três Coroas,Falso,RS
+4316006,Rolante,Falso,RS
+4310108,Igrejinha,Falso,RS
+4321204,Taquara,Falso,RS
+4313201,Nova Petrópolis,Falso,RS
+4314423,Picada Café,Falso,RS
+4309100,Gramado,Falso,RS
+4304408,Canela,Falso,RS
+4301750,Barão do Triunfo,Falso,RS
+4301107,Arroio dos Ratos,Falso,RS
+4305355,Charqueadas,Falso,RS
+4312252,Minas do Leão,Falso,RS
+4318408,São Jerônimo,Falso,RS
+4308805,General Câmara,Falso,RS
+4302709,Butiá,Falso,RS
+4322004,Triunfo,Falso,RS
+4322525,Vale Verde,Falso,RS
+4313375,Nova Santa Rita,Falso,RS
+4311981,Mariana Pimentel,Falso,RS
+4304606,Canoas,Falso,RS
+4309209,Gravataí,Falso,RS
+4309308,Guaíba,Falso,RS
+4320552,Sertão Santana,Falso,RS
+4314902,Porto Alegre,Verdadeiro,RS
+4309050,Glorinha,Falso,RS
+4300604,Alvorada,Falso,RS
+4306767,Eldorado do Sul,Falso,RS
+4303103,Cachoeirinha,Falso,RS
+4320008,Sapucaia do Sul,Falso,RS
+4323002,Viamão,Falso,RS
+4307708,Esteio,Falso,RS
+4313060,Nova Hartz,Falso,RS
+4300877,Araricá,Falso,RS
+4303905,Campo Bom,Falso,RS
+4313409,Novo Hamburgo,Falso,RS
+4318705,São Leopoldo,Falso,RS
+4307609,Estância Velha,Falso,RS
+4319901,Sapiranga,Falso,RS
+4314050,Parobé,Falso,RS
+4321352,Tavares,Falso,RS
+4317608,Santo Antônio da Patrulha,Falso,RS
+4304713,Caraá,Falso,RS
+4304671,Capivari do Sul,Falso,RS
+4312500,Mostardas,Falso,RS
+4313656,Palmares do Sul,Falso,RS
+4310330,Imbé,Falso,RS
+4311775,Maquiné,Falso,RS
+4305454,Cidreira,Falso,RS
+4313508,Osório,Falso,RS
+4321600,Tramandaí,Falso,RS
+4301636,Balneário Pinhal,Falso,RS
+4304630,Capão da Canoa,Falso,RS
+4321436,Terra de Areia,Falso,RS
+4310652,Itati,Falso,RS
+4323804,Xangri-lá,Falso,RS
+4301057,Arroio do Sal,Falso,RS
+4312443,Morrinhos do Sul,Falso,RS
+4306551,Dom Pedro de Alcântara,Falso,RS
+4321667,Três Cachoeiras,Falso,RS
+4321501,Torres,Falso,RS
+4311734,Mampituba,Falso,RS
+4321832,Três Forquilhas,Falso,RS
+4301909,Barra do Ribeiro,Falso,RS
+4320354,Sentinela do Sul,Falso,RS
+4305447,Chuvisca,Falso,RS
+4321105,Tapes,Falso,RS
+4300851,Arambaré,Falso,RS
+4303509,Camaquã,Falso,RS
+4305173,Cerro Grande do Sul,Falso,RS
+4306502,Dom Feliciano,Falso,RS
+4318101,São Francisco de Assis,Falso,RS
+4311759,Manoel Viana,Falso,RS
+4300406,Alegrete,Falso,RS
+4301875,Barra do Quaraí,Falso,RS
+4322400,Uruguaiana,Falso,RS
+4315305,Quaraí,Falso,RS
+4310603,Itaqui,Falso,RS
+4318002,São Borja,Falso,RS
+4311718,Maçambará,Falso,RS
+4308656,Garruchos,Falso,RS
+4318309,São Gabriel,Falso,RS
+4316972,Santa Margarida do Sul,Falso,RS
+4317103,Sant'Ana do Livramento,Falso,RS
+4316402,Rosário do Sul,Falso,RS
+4300034,Aceguá,Falso,RS
+4301602,Bagé,Falso,RS
+4309654,Hulha Negra,Falso,RS
+4306601,Dom Pedrito,Falso,RS
+4311502,Lavras do Sul,Falso,RS
+4300638,Amaral Ferrador,Falso,RS
+4314605,Piratini,Falso,RS
+4314506,Pinheiro Machado,Falso,RS
+4314175,Pedras Altas,Falso,RS
+4304358,Candiota,Falso,RS
+4317004,Santana da Boa Vista,Falso,RS
+4302808,Caçapava do Sul,Falso,RS
+4306908,Encruzilhada do Sul,Falso,RS
+4306056,Cristal,Falso,RS
+4304507,Canguçu,Falso,RS
+4318804,São Lourenço do Sul,Falso,RS
+4322327,Turuçu,Falso,RS
+4301073,Arroio do Padre,Falso,RS
+4314209,Pedro Osório,Falso,RS
+4304663,Capão do Leão,Falso,RS
+4312450,Morro Redondo,Falso,RS
+4314407,Pelotas,Falso,RS
+4305124,Cerrito,Falso,RS
+4307104,Herval,Falso,RS
+4301305,Arroio Grande,Falso,RS
+4311007,Jaguarão,Falso,RS
+4315602,Rio Grande,Falso,RS
+4305439,Chuí,Falso,RS
+4317301,Santa Vitória do Palmar,Falso,RS
+4318507,São José do Norte,Falso,RS
+5005202,Ladário,Falso,RS
+5003207,Corumbá,Falso,MS
+5006903,Porto Murtinho,Falso,MS
+5003488,Dois Irmãos do Buriti,Falso,MS
+5005608,Miranda,Falso,MS
+5001102,Aquidauana,Falso,MS
+5000708,Anastácio,Falso,MS
+5002605,Camapuã,Falso,MS
+5007695,São Gabriel do Oeste,Falso,MS
+5007935,Sonora,Falso,MS
+5003306,Coxim,Falso,MS
+5003900,Figueirão,Falso,MS
+5000252,Alcinópolis,Falso,MS
+5006408,Pedro Gomes,Falso,MS
+5007406,Rio Verde de Mato Grosso,Falso,MS
+5007901,Sidrolândia,Falso,MS
+5008008,Terenos,Falso,MS
+5002704,Campo Grande,Verdadeiro,MS
+5001508,Bandeirantes,Falso,MS
+5007505,Rochedo,Falso,MS
+5004908,Jaraguari,Falso,MS
+5007307,Rio Negro,Falso,MS
+5003108,Corguinho,Falso,MS
+5002902,Cassilândia,Falso,MS
+5002951,Chapadão do Sul,Falso,MS
+5006275,Paraíso das Águas,Falso,MS
+5003256,Costa Rica,Falso,MS
+5007802,Selvíria,Falso,MS
+5004403,Inocência,Falso,MS
+5006309,Paranaíba,Falso,MS
+5001003,Aparecida do Taboado,Falso,MS
+5007109,Ribas do Rio Pardo,Falso,MS
+5002308,Brasilândia,Falso,MS
+5008305,Três Lagoas,Falso,MS
+5000203,Água Clara,Falso,MS
+5007554,Santa Rita do Pardo,Falso,MS
+5001904,Bataguassu,Falso,MS
+5006200,Nova Andradina,Falso,MS
+5002001,Batayporã,Falso,MS
+5007976,Taquarussu,Falso,MS
+5000807,Anaurilândia,Falso,MS
+5002209,Bonito,Falso,MS
+5005806,Nioaque,Falso,MS
+5004106,Guia Lopes da Laguna,Falso,MS
+5002803,Caracol,Falso,MS
+5005004,Jardim,Falso,MS
+5002100,Bela Vista,Falso,MS
+5002159,Bodoquena,Falso,MS
+5006002,Nova Alvorada do Sul,Falso,MS
+5005251,Laguna Carapã,Falso,MS
+5008404,Vicentina,Falso,MS
+5004502,Itaporã,Falso,MS
+5003504,Douradina,Falso,MS
+5003702,Dourados,Falso,MS
+5007208,Rio Brilhante,Falso,MS
+5003801,Fátima do Sul,Falso,MS
+5005400,Maracaju,Falso,MS
+5002407,Caarapó,Falso,MS
+5005152,Juti,Falso,MS
+5006606,Ponta Porã,Falso,MS
+5000906,Antônio João,Falso,MS
+5001243,Aral Moreira,Falso,MS
+5000609,Amambai,Falso,MS
+5004007,Glória de Dourados,Falso,MS
+5003454,Deodápolis,Falso,MS
+5005103,Jateí,Falso,MS
+5004601,Itaquiraí,Falso,MS
+5005681,Mundo Novo,Falso,MS
+5005707,Naviraí,Falso,MS
+5004304,Iguatemi,Falso,MS
+5003751,Eldorado,Falso,MS
+5004809,Japorã,Falso,MS
+5006259,Novo Horizonte do Sul,Falso,MS
+5004700,Ivinhema,Falso,MS
+5000856,Angélica,Falso,MS
+5007950,Tacuru,Falso,MS
+5003157,Coronel Sapucaia,Falso,MS
+5006358,Paranhos,Falso,MS
+5007703,Sete Quedas,Falso,MS
+5101902,Brasnorte,Falso,MS
+5105150,Juína,Falso,MT
+5103379,Cotriguaçu,Falso,MT
+5101407,Aripuanã,Falso,MT
+5103254,Colniza,Falso,MT
+5107578,Rondolândia,Falso,MT
+5105176,Juruena,Falso,MT
+5102850,Castanheira,Falso,MT
+5106299,Paranaíta,Falso,MT
+5106158,Nova Bandeirantes,Falso,MT
+5108956,Nova Monte Verde,Falso,MT
+5100805,Apiacás,Falso,MT
+5102793,Carlinda,Falso,MT
+5100250,Alta Floresta,Falso,MT
+5103205,Colíder,Falso,MT
+5106216,Nova Canaã do Norte,Falso,MT
+5108055,Terra Nova do Norte,Falso,MT
+5108808,Nova Guarita,Falso,MT
+5104104,Guarantã do Norte,Falso,MT
+5106265,Novo Mundo,Falso,MT
+5105606,Matupá,Falso,MT
+5106422,Peixoto de Azevedo,Falso,MT
+5107875,Sapezal,Falso,MT
+5102637,Campo Novo do Parecis,Falso,MT
+5103502,Diamantino,Falso,MT
+5103304,Comodoro,Falso,MT
+5102686,Campos de Júlio,Falso,MT
+5107305,São José do Rio Claro,Falso,MT
+5108907,Nova Maringá,Falso,MT
+5107941,Tabaporã,Falso,MT
+5106802,Porto dos Gaúchos,Falso,MT
+5105101,Juara,Falso,MT
+5106273,Novo Horizonte do Norte,Falso,MT
+5105903,Nobres,Falso,MT
+5107925,Sorriso,Falso,MT
+5105259,Lucas do Rio Verde,Falso,MT
+5104526,Ipiranga do Norte,Falso,MT
+5107768,Santa Rita do Trivelato,Falso,MT
+5106224,Nova Mutum,Falso,MT
+5104542,Itanhangá,Falso,MT
+5106240,Nova Ubiratã,Falso,MT
+5108006,Tapurah,Falso,MT
+5103056,Cláudia,Falso,MT
+5103700,Feliz Natal,Falso,MT
+5107248,Santa Carmem,Falso,MT
+5107909,Sinop,Falso,MT
+5105580,Marcelândia,Falso,MT
+5104559,Itaúba,Falso,MT
+5106190,Nova Santa Helena,Falso,MT
+5108303,União do Sul,Falso,MT
+5108501,Vera,Falso,MT
+5106455,Planalto da Serra,Falso,MT
+5106208,Nova Brasilândia,Falso,MT
+5103858,Gaúcha do Norte,Falso,MT
+5106307,Paranatinga,Falso,MT
+5106315,Novo Santo Antônio,Falso,MT
+5108600,Vila Rica,Falso,MT
+5100359,Alto Boa Vista,Falso,MT
+5107883,Serra Nova Dourada,Falso,MT
+5106778,Porto Alegre do Norte,Falso,MT
+5107743,Santa Cruz do Xingu,Falso,MT
+5107859,São Félix do Araguaia,Falso,MT
+5102694,Canabrava do Norte,Falso,MT
+5101852,Bom Jesus do Araguaia,Falso,MT
+5107776,Santa Terezinha,Falso,MT
+5107354,São José do Xingu,Falso,MT
+5105309,Luciara,Falso,MT
+5103353,Confresa,Falso,MT
+5107180,Ribeirão Cascalheira,Falso,MT
+5106281,Novo São Joaquim,Falso,MT
+5106257,Nova Xavantina,Falso,MT
+5102603,Campinápolis,Falso,MT
+5106174,Nova Nazaré,Falso,MT
+5100201,Água Boa,Falso,MT
+5107065,Querência,Falso,MT
+5102702,Canarana,Falso,MT
+5107792,Santo Antônio do Leste,Falso,MT
+5101001,Araguaiana,Falso,MT
+5101803,Barra do Garças,Falso,MT
+5103106,Cocalinho,Falso,MT
+5108352,Vale de São Domingos,Falso,MT
+5106752,Pontes e Lacerda,Falso,MT
+5106182,Nova Lacerda,Falso,MT
+5105507,Vila Bela da Santíssima Trindade,Falso,MT
+5103361,Conquista D'Oeste,Falso,MT
+5101704,Barra do Bugres,Falso,MT
+5106851,Porto Estrela,Falso,MT
+5103452,Denise,Falso,MT
+5107958,Tangará da Serra,Falso,MT
+5106232,Nova Olímpia,Falso,MT
+5107750,Salto do Céu,Falso,MT
+5105234,Lambari D'Oeste,Falso,MT
+5107206,Rio Branco,Falso,MT
+5101258,Araputanga,Falso,MT
+5106828,Porto Esperidião,Falso,MT
+5107156,Reserva do Cabaçal,Falso,MT
+5104500,Indiavaí,Falso,MT
+5105002,Jauru,Falso,MT
+5103957,Glória D'Oeste,Falso,MT
+5107107,São José dos Quatro Marcos,Falso,MT
+5103809,Figueirópolis D'Oeste,Falso,MT
+5105622,Mirassol d'Oeste,Falso,MT
+5107263,Santo Afonso,Falso,MT
+5108857,Nova Marilândia,Falso,MT
+5101308,Arenápolis,Falso,MT
+5106000,Nortelândia,Falso,MT
+5100508,Alto Paraguai,Falso,MT
+5104906,Jangada,Falso,MT
+5100102,Acorizal,Falso,MT
+5107701,Rosário Oeste,Falso,MT
+5103007,Chapada dos Guimarães,Falso,MT
+5108402,Várzea Grande,Falso,MT
+5106109,Nossa Senhora do Livramento,Falso,MT
+5107800,Santo Antônio do Leverger,Falso,MT
+5103403,Cuiabá,Verdadeiro,MT
+5106505,Poconé,Falso,MT
+5101605,Barão de Melgaço,Falso,MT
+5103437,Curvelândia,Falso,MT
+5102504,Cáceres,Falso,MT
+5102678,Campo Verde,Falso,MT
+5107040,Primavera do Leste,Falso,MT
+5107198,Ribeirãozinho,Falso,MT
+5106703,Ponte Branca,Falso,MT
+5106653,Pontal do Araguaia,Falso,MT
+5108204,Torixoréu,Falso,MT
+5103908,General Carneiro,Falso,MT
+5108105,Tesouro,Falso,MT
+5104203,Guiratinga,Falso,MT
+5101209,Araguainha,Falso,MT
+5107008,Poxoréo,Falso,MT
+5104609,Itiquira,Falso,MT
+5106372,Pedra Preta,Falso,MT
+5107297,São José do Povo,Falso,MT
+5107602,Rondonópolis,Falso,MT
+5103601,Dom Aquino,Falso,MT
+5104807,Jaciara,Falso,MT
+5105200,Juscimeira,Falso,MT
+5107404,São Pedro da Cipa,Falso,MT
+5100409,Alto Garças,Falso,MT
+5100300,Alto Araguaia,Falso,MT
+5100607,Alto Taquari,Falso,MT
+5214838,Nova Crixás,Falso,MT
+5214002,Mozarlândia,Falso,GO
+5220207,São Miguel do Araguaia,Falso,GO
+5215256,Novo Planalto,Falso,GO
+5214051,Mundo Novo,Falso,GO
+5206404,Crixás,Falso,GO
+5221577,Uirapuru,Falso,GO
+5202502,Aruanã,Falso,GO
+5207535,Faina,Falso,GO
+5219258,Santa Fé de Goiás,Falso,GO
+5211008,Itapirapuã,Falso,GO
+5203807,Britânia,Falso,GO
+5202155,Araguapaz,Falso,GO
+5208905,Goiás,Falso,GO
+5212204,Jussara,Falso,GO
+5212956,Matrinchã,Falso,GO
+5202353,Arenópolis,Falso,GO
+5203104,Baliza,Falso,GO
+5201702,Aragarças,Falso,GO
+5203401,Bom Jardim de Goiás,Falso,GO
+5217203,Piranhas,Falso,GO
+5207105,Diorama,Falso,GO
+5213707,Montes Claros de Goiás,Falso,GO
+5213772,Montividiu do Norte,Falso,GO
+5221452,Trombas,Falso,GO
+5204656,Campinaçu,Falso,GO
+5208103,Formoso,Falso,GO
+5203575,Bonópolis,Falso,GO
+5207501,Estrela do Norte,Falso,GO
+5213087,Minaçu,Falso,GO
+5219605,Santa Tereza de Goiás,Falso,GO
+5214101,Mutunópolis,Falso,GO
+5218003,Porangatu,Falso,GO
+5200555,Alto Horizonte,Falso,GO
+5200829,Amaralina,Falso,GO
+5212808,Mara Rosa,Falso,GO
+5214879,Nova Iguaçu de Goiás,Falso,GO
+5214606,Niquelândia,Falso,GO
+5221601,Uruaçu,Falso,GO
+5204706,Campinorte,Falso,GO
+5204953,Campos Verdes,Falso,GO
+5219704,Santa Terezinha de Goiás,Falso,GO
+5205521,Colinas do Sul,Falso,GO
+5204904,Campos Belos,Falso,GO
+5213509,Monte Alegre de Goiás,Falso,GO
+5214903,Nova Roma,Falso,GO
+5220009,São João d'Aliança,Falso,GO
+5205307,Cavalcante,Falso,GO
+5200605,Alto Paraíso de Goiás,Falso,GO
+5221080,Teresina de Goiás,Falso,GO
+5211206,Itapuranga,Falso,GO
+5209291,Guaraíta,Falso,GO
+5220157,São Luíz do Norte,Falso,GO
+5209804,Hidrolina,Falso,GO
+5219357,Santa Isabel,Falso,GO
+5216908,Pilar de Goiás,Falso,GO
+5218706,Rianápolis,Falso,GO
+5208608,Goianésia,Falso,GO
+5213855,Morro Agudo de Goiás,Falso,GO
+5209457,Guarinos,Falso,GO
+5219456,Santa Rita do Novo Destino,Falso,GO
+5210901,Itapaci,Falso,GO
+5218904,Rubiataba,Falso,GO
+5218607,Rialma,Falso,GO
+5205000,Carmo do Rio Verde,Falso,GO
+5203203,Barro Alto,Falso,GO
+5214861,Nova Glória,Falso,GO
+5221700,Uruana,Falso,GO
+5205406,Ceres,Falso,GO
+5214705,Nova América,Falso,GO
+5220280,São Patrício,Falso,GO
+5210158,Ipiranga de Goiás,Falso,GO
+5203609,Brazabrantes,Falso,GO
+5205208,Caturaí,Falso,GO
+5215009,Nova Veneza,Falso,GO
+5219902,São Francisco de Goiás,Falso,GO
+5212055,Jesúpolis,Falso,GO
+5215405,Ouro Verde de Goiás,Falso,GO
+5219506,Santa Rosa de Goiás,Falso,GO
+5201108,Anápolis,Falso,GO
+5216809,Petrolina de Goiás,Falso,GO
+5204854,Campo Limpo de Goiás,Falso,GO
+5211800,Jaraguá,Falso,GO
+5210000,Inhumas,Falso,GO
+5210604,Itaguaru,Falso,GO
+5210562,Itaguari,Falso,GO
+5210406,Itaberaí,Falso,GO
+5209606,Heitoraí,Falso,GO
+5221007,Taquaral de Goiás,Falso,GO
+5201603,Araçu,Falso,GO
+5206800,Damolândia,Falso,GO
+5211404,Itauçu,Falso,GO
+5215207,Novo Brasil,Falso,GO
+5211602,Ivolândia,Falso,GO
+5213400,Moiporá,Falso,GO
+5205703,Córrego do Ouro,Falso,GO
+5204201,Cachoeira de Goiás,Falso,GO
+5207600,Fazenda Nova,Falso,GO
+5210208,Iporá,Falso,GO
+5210307,Israelândia,Falso,GO
+5200902,Amorinópolis,Falso,GO
+5212006,Jaupaci,Falso,GO
+5200159,Adelândia,Falso,GO
+5200852,Americano do Brasil,Falso,GO
+5202809,Avelinópolis,Falso,GO
+5201306,Anicuns,Falso,GO
+5213905,Mossâmedes,Falso,GO
+5203939,Buriti de Goiás,Falso,GO
+5220108,São Luís de Montes Belos,Falso,GO
+5219001,Sanclerlândia,Falso,GO
+5202601,Aurilândia,Falso,GO
+5214408,Nazário,Falso,GO
+5219100,Santa Bárbara de Goiás,Falso,GO
+5221502,Turvânia,Falso,GO
+5207808,Firminópolis,Falso,GO
+5203302,Bela Vista de Goiás,Falso,GO
+5208707,Goiânia,Verdadeiro,GO
+5219738,Santo Antônio de Goiás,Falso,GO
+5208806,Goianira,Falso,GO
+5200050,Abadia de Goiás,Falso,GO
+5214507,Nerópolis,Falso,GO
+5204557,Caldazinha,Falso,GO
+5203559,Bonfinópolis,Falso,GO
+5221403,Trindade,Falso,GO
+5201405,Aparecida de Goiânia,Falso,GO
+5209200,Guapó,Falso,GO
+5220454,Senador Canedo,Falso,GO
+5201801,Aragoiânia,Falso,GO
+5221197,Terezópolis de Goiás,Falso,GO
+5209705,Hidrolândia,Falso,GO
+5208400,Goianápolis,Falso,GO
+5212303,Leopoldo de Bulhões,Falso,GO
+5200803,Alvorada do Norte,Falso,GO
+5218300,Posse,Falso,GO
+5209903,Iaciara,Falso,GO
+5209408,Guarani de Goiás,Falso,GO
+5203962,Buritinópolis,Falso,GO
+5220702,Sítio d'Abadia,Falso,GO
+5212709,Mambaí,Falso,GO
+5220686,Simolândia,Falso,GO
+5208301,Divinópolis de Goiás,Falso,GO
+5219803,São Domingos,Falso,GO
+5206701,Damianópolis,Falso,GO
+5207907,Flores de Goiás,Falso,GO
+5200308,Alexânia,Falso,GO
+5217302,Pirenópolis,Falso,GO
+5200100,Abadiânia,Falso,GO
+5205802,Corumbá de Goiás,Falso,GO
+5222302,Vila Propício,Falso,GO
+5212501,Luziânia,Falso,GO
+5221858,Valparaíso de Goiás,Falso,GO
+5219753,Santo Antônio do Descoberto,Falso,GO
+5205497,Cidade Ocidental,Falso,GO
+5215231,Novo Gama,Falso,GO
+5206206,Cristalina,Falso,GO
+5217609,Planaltina,Falso,GO
+5204003,Cabeceiras,Falso,GO
+5208004,Formosa,Falso,GO
+5215603,Padre Bernardo,Falso,GO
+5213053,Mimoso de Goiás,Falso,GO
+5205513,Cocalzinho de Goiás,Falso,GO
+5200258,Águas Lindas de Goiás,Falso,GO
+5222203,Vila Boa,Falso,GO
+5200175,Água Fria de Goiás,Falso,GO
+5201454,Aparecida do Rio Doce,Falso,GO
+5205059,Castelândia,Falso,GO
+5213756,Montividiu,Falso,GO
+5213004,Maurilândia,Falso,GO
+5219712,Santo Antônio da Barra,Falso,GO
+5218805,Rio Verde,Falso,GO
+5219308,Santa Helena de Goiás,Falso,GO
+5207253,Doverlândia,Falso,GO
+5213103,Mineiros,Falso,GO
+5216452,Perolândia,Falso,GO
+5201504,Aporé,Falso,GO
+5204409,Caiapônia,Falso,GO
+5211909,Jataí,Falso,GO
+5220504,Serranópolis,Falso,GO
+5219407,Santa Rita do Araguaia,Falso,GO
+5205471,Chapadão do Céu,Falso,GO
+5218102,Portelândia,Falso,GO
+5215652,Palestina de Goiás,Falso,GO
+5221908,Varjão,Falso,GO
+5207352,Edealina,Falso,GO
+5221551,Turvelândia,Falso,GO
+5200134,Acreúna,Falso,GO
+5215900,Palminópolis,Falso,GO
+5209952,Indiara,Falso,GO
+5207402,Edéia,Falso,GO
+5204607,Campestre de Goiás,Falso,GO
+5216403,Paraúna,Falso,GO
+5220058,São João da Paraúna,Falso,GO
+5215702,Palmeiras de Goiás,Falso,GO
+5211701,Jandaia,Falso,GO
+5205455,Cezarina,Falso,GO
+5216007,Panamá,Falso,GO
+5200506,Aloândia,Falso,GO
+5203500,Bom Jesus de Goiás,Falso,GO
+5209101,Goiatuba,Falso,GO
+5203906,Buriti Alegre,Falso,GO
+5211503,Itumbiara,Falso,GO
+5204250,Cachoeira Dourada,Falso,GO
+5212105,Joviânia,Falso,GO
+5213806,Morrinhos,Falso,GO
+5204508,Caldas Novas,Falso,GO
+5212907,Marzagão,Falso,GO
+5200209,Água Limpa,Falso,GO
+5218789,Rio Quente,Falso,GO
+5222054,Vicentinópolis,Falso,GO
+5206503,Cromínia,Falso,GO
+5218391,Professor Jamil,Falso,GO
+5217104,Piracanjuba,Falso,GO
+5212600,Mairipotaba,Falso,GO
+5217708,Pontalina,Falso,GO
+5218052,Porteirão,Falso,GO
+5209937,Inaciolândia,Falso,GO
+5222005,Vianópolis,Falso,GO
+5208152,Gameleira de Goiás,Falso,GO
+5220603,Silvânia,Falso,GO
+5220264,São Miguel do Passa Quatro,Falso,GO
+5221809,Urutaí,Falso,GO
+5217401,Pires do Rio,Falso,GO
+5215801,Palmelo,Falso,GO
+5219209,Santa Cruz de Goiás,Falso,GO
+5215306,Orizona,Falso,GO
+5206305,Cristianópolis,Falso,GO
+5204805,Campo Alegre de Goiás,Falso,GO
+5206909,Davinópolis,Falso,GO
+5206602,Cumari,Falso,GO
+5201207,Anhanguera,Falso,GO
+5208509,Goiandira,Falso,GO
+5215504,Ouvidor,Falso,GO
+5210109,Ipameri,Falso,GO
+5214804,Nova Aurora,Falso,GO
+5205109,Catalão,Falso,GO
+5221304,Três Ranchos,Falso,GO
+5205901,Corumbaíba,Falso,GO
+5212253,Lagoa Santa,Falso,GO
+5204300,Caçu,Falso,GO
+5210802,Itajá,Falso,GO
+5211305,Itarumã,Falso,GO
+5204102,Cachoeira Alta,Falso,GO
+5209150,Gouvelândia,Falso,GO
+5220405,São Simão,Falso,GO
+5216304,Paranaiguara,Falso,GO
+5218508,Quirinópolis,Falso,GO
+5300108,Brasília,Verdadeiro,DF

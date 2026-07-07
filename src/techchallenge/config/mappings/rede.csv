@@ -1,0 +1,8 @@
+ID_tipo_rde,Rede
+0,"Total (Federal, Estadual, Municipal, Privada)"
+1,Federal
+2,Estadual
+3,Municipal
+4,Privada
+5,Pública (Estadual e Municipal)
+6,"Pública (Federal, Estadual e Municipal)"
