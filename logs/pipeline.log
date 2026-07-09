@@ -52,3 +52,637 @@
 2026-07-09 14:40:57,862 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=11 | Tempo=0:00:00.016736Bronze=0.01Silver=0.01
 2026-07-09 14:40:57,921 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=16 | Tempo=0:00:00.058052Bronze=0.21Silver=0.28
 2026-07-09 14:40:57,944 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=15 | Tempo=0:00:00.021078Bronze=0.01Silver=0.01
+2026-07-09 15:20:26,380 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:13.070703Bronze=67.59Silver=77.33
+2026-07-09 15:20:26,624 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.240160Bronze=0.47Silver=0.58
+2026-07-09 15:20:26,657 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.032310Bronze=0.02Silver=0.02
+2026-07-09 15:20:26,677 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.018665Bronze=0.01Silver=0.01
+2026-07-09 15:20:26,738 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.059460Bronze=0.21Silver=0.28
+2026-07-09 15:20:26,764 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.025011Bronze=0.01Silver=0.01
+2026-07-09 16:18:05,807 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:09.947757Bronze=77.33Silver=0.23
+2026-07-09 16:46:28,960 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:09.650818Bronze=77.33Silver=0.23
+2026-07-09 16:52:25,781 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:11.292556Bronze=77.33Silver=0.23
+2026-07-09 17:07:41,559 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:11.996178Bronze=67.59Silver=77.33
+2026-07-09 17:07:41,813 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.249879Bronze=0.47Silver=0.58
+2026-07-09 17:07:41,840 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.026440Bronze=0.02Silver=0.02
+2026-07-09 17:07:41,853 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=11 | Tempo=0:00:00.011411Bronze=0.01Silver=0.01
+2026-07-09 17:07:41,913 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=16 | Tempo=0:00:00.058761Bronze=0.21Silver=0.28
+2026-07-09 17:07:41,937 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=15 | Tempo=0:00:00.022890Bronze=0.01Silver=0.01
+2026-07-09 17:26:01,668 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:11.450512Bronze=67.59Silver=77.33
+2026-07-09 17:26:01,934 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.261418Bronze=0.47Silver=0.58
+2026-07-09 17:26:01,966 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.031256Bronze=0.02Silver=0.02
+2026-07-09 17:26:01,974 | ERROR | Erro ao processar meta_alfabetizacao_brasil
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 29, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+               ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+2026-07-09 17:26:02,001 | ERROR | Erro ao processar meta_alfabetizacao_municipio
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 29, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+               ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+2026-07-09 17:26:02,014 | ERROR | Erro ao processar meta_alfabetizacao_uf
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 29, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+               ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+2026-07-09 17:26:59,220 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:10.940905Bronze=67.59Silver=77.33
+2026-07-09 17:26:59,433 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.210223Bronze=0.47Silver=0.58
+2026-07-09 17:26:59,462 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.028536Bronze=0.02Silver=0.02
+2026-07-09 17:26:59,472 | ERROR | Erro ao processar meta_alfabetizacao_brasil
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:26:59,620 | ERROR | Erro ao processar meta_alfabetizacao_municipio
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:26:59,632 | ERROR | Erro ao processar meta_alfabetizacao_uf
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:28:54,390 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:10.502821Bronze=67.59Silver=77.33
+2026-07-09 17:28:54,544 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.151611Bronze=0.47Silver=0.58
+2026-07-09 17:28:54,571 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.025439Bronze=0.02Silver=0.02
+2026-07-09 17:28:54,580 | ERROR | Erro ao processar meta_alfabetizacao_brasil
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:28:54,612 | ERROR | Erro ao processar meta_alfabetizacao_municipio
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:28:54,623 | ERROR | Erro ao processar meta_alfabetizacao_uf
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:37:20,317 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:11.304041Bronze=67.59Silver=77.33
+2026-07-09 17:37:20,605 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.284059Bronze=0.47Silver=0.58
+2026-07-09 17:37:20,637 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.031198Bronze=0.02Silver=0.02
+2026-07-09 17:37:20,648 | ERROR | Erro ao processar meta_alfabetizacao_brasil
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:37:20,684 | ERROR | Erro ao processar meta_alfabetizacao_municipio
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:37:20,694 | ERROR | Erro ao processar meta_alfabetizacao_uf
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("data/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mappings/rede.csv'
+2026-07-09 17:39:13,690 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:12.114971Bronze=67.59Silver=77.33
+2026-07-09 17:39:13,880 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.185872Bronze=0.47Silver=0.58
+2026-07-09 17:39:13,941 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.060156Bronze=0.02Silver=0.02
+2026-07-09 17:39:13,954 | ERROR | Erro ao processar meta_alfabetizacao_brasil
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("src/techchallenge/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'src/techchallenge/mappings/rede.csv'
+2026-07-09 17:39:13,985 | ERROR | Erro ao processar meta_alfabetizacao_municipio
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("src/techchallenge/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'src/techchallenge/mappings/rede.csv'
+2026-07-09 17:39:13,994 | ERROR | Erro ao processar meta_alfabetizacao_uf
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("src/techchallenge/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'src/techchallenge/mappings/rede.csv'
+2026-07-09 17:41:11,808 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:10.301355Bronze=67.59Silver=77.33
+2026-07-09 17:41:12,011 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.200761Bronze=0.47Silver=0.58
+2026-07-09 17:41:12,035 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.022903Bronze=0.02Silver=0.02
+2026-07-09 17:41:12,044 | ERROR | Erro ao processar meta_alfabetizacao_brasil
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("src/techchallenge/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'src/techchallenge/mappings/rede.csv'
+2026-07-09 17:41:12,083 | ERROR | Erro ao processar meta_alfabetizacao_municipio
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("src/techchallenge/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'src/techchallenge/mappings/rede.csv'
+2026-07-09 17:41:12,094 | ERROR | Erro ao processar meta_alfabetizacao_uf
+Traceback (most recent call last):
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\pipeline.py", line 159, in run
+    dataframe = bronze_to_silver(
+        dataframe,
+        table
+    )
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\src\techchallenge\transform\bronze_to_silver.py", line 30, in bronze_to_silver
+    rede_map = pd.read_csv("src/techchallenge/mappings/rede.csv")
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ~~~~~~~~~~^
+        f,
+        ^^
+    ...<6 lines>...
+        storage_options=self.options.get("storage_options", None),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SAMSUNG\Desktop\Pós-graduação\tech-challenge-alfabetizacao\.venv\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+FileNotFoundError: [Errno 2] No such file or directory: 'src/techchallenge/mappings/rede.csv'
+2026-07-09 17:42:22,308 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:10.401977Bronze=67.59Silver=77.33
+2026-07-09 17:42:22,421 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.111867Bronze=0.47Silver=0.58
+2026-07-09 17:42:22,458 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.035282Bronze=0.02Silver=0.02
+2026-07-09 17:42:22,481 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.022459Bronze=0.01Silver=0.01
+2026-07-09 17:42:22,566 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.083584Bronze=0.21Silver=0.28
+2026-07-09 17:42:22,595 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.027054Bronze=0.01Silver=0.01
+2026-07-09 17:50:54,759 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:11.359258Bronze=77.33Silver=0.23
+2026-07-09 17:53:36,260 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:13.713637Bronze=67.59Silver=77.33
+2026-07-09 17:53:36,571 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.308184Bronze=0.47Silver=0.58
+2026-07-09 17:53:36,608 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.036140Bronze=0.02Silver=0.02
+2026-07-09 17:53:36,637 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.027231Bronze=0.01Silver=0.01
+2026-07-09 17:53:36,722 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.082928Bronze=0.21Silver=0.28
+2026-07-09 17:53:36,751 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.028475Bronze=0.01Silver=0.01
+2026-07-09 18:06:58,418 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:13.937774Bronze=67.59Silver=77.33
+2026-07-09 18:06:58,645 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.222697Bronze=0.47Silver=0.58
+2026-07-09 18:06:58,679 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.033185Bronze=0.02Silver=0.02
+2026-07-09 18:06:58,703 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.022402Bronze=0.01Silver=0.01
+2026-07-09 18:06:58,804 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.100326Bronze=0.21Silver=0.28
+2026-07-09 18:06:58,832 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.026403Bronze=0.01Silver=0.01
+2026-07-09 18:07:15,513 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:09.994516Bronze=77.33Silver=0.23
+2026-07-09 18:24:45,467 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:09.629375Bronze=77.33Silver=0.23
+2026-07-09 18:28:55,646 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:10.337666Bronze=77.33Silver=0.23
+2026-07-09 18:39:51,957 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:10.167047Bronze=77.33Silver=0.25
+2026-07-09 18:46:08,915 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:10.969591Bronze=77.33Silver=0.25
+2026-07-09 18:48:05,078 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:09.128456Bronze=77.33Silver=0.25
+2026-07-09 19:56:31,466 | INFO | Pipeline=Bronze | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=12 | Tempo=0:10:59.503531Bronze=67.59Silver=67.59
+2026-07-09 19:56:37,013 | INFO | Pipeline=Bronze | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=15 | Tempo=0:00:05.544203Bronze=0.47Silver=0.47
+2026-07-09 19:56:38,374 | INFO | Pipeline=Bronze | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=15 | Tempo=0:00:01.359646Bronze=0.02Silver=0.02
+2026-07-09 19:56:39,669 | INFO | Pipeline=Bronze | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=11 | Tempo=0:00:01.294092Bronze=0.01Silver=0.01
+2026-07-09 19:56:42,588 | INFO | Pipeline=Bronze | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=13 | Tempo=0:00:02.918576Bronze=0.21Silver=0.21
+2026-07-09 19:56:43,885 | INFO | Pipeline=Bronze | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=12 | Tempo=0:00:01.295152Bronze=0.01Silver=0.01
+2026-07-09 19:56:55,608 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:11.721162Bronze=67.59Silver=77.33
+2026-07-09 19:56:55,837 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.228189Bronze=0.47Silver=0.58
+2026-07-09 19:56:55,894 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.055332Bronze=0.02Silver=0.02
+2026-07-09 19:56:55,916 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.020819Bronze=0.01Silver=0.01
+2026-07-09 19:56:55,998 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.080813Bronze=0.21Silver=0.28
+2026-07-09 19:56:56,038 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.039325Bronze=0.01Silver=0.01
+2026-07-09 19:57:05,011 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:08.970133Bronze=77.33Silver=0.25
+2026-07-09 20:15:23,286 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3868005 | Output=3868005 | Colunas=16 | Tempo=0:00:23.113933Bronze=67.59Silver=77.33
+2026-07-09 20:15:23,503 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.213687Bronze=0.47Silver=0.58
+2026-07-09 20:15:23,536 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.031982Bronze=0.02Silver=0.02
+2026-07-09 20:15:23,555 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.018108Bronze=0.01Silver=0.01
+2026-07-09 20:15:23,692 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.135478Bronze=0.21Silver=0.28
+2026-07-09 20:15:23,725 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.031997Bronze=0.01Silver=0.01
+2026-07-09 20:15:32,962 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3868005 | Output=12431 | Colunas=11 | Tempo=0:00:09.235155Bronze=77.33Silver=0.25
+2026-07-09 20:17:58,233 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3868006 | Output=3868006 | Colunas=16 | Tempo=0:00:21.736687Camada anterior=67.59Camada atual=77.33
+2026-07-09 20:17:58,393 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.157375Camada anterior=0.47Camada atual=0.58
+2026-07-09 20:17:58,420 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.025423Camada anterior=0.02Camada atual=0.02
+2026-07-09 20:17:58,451 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.029512Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:17:58,517 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.065011Camada anterior=0.21Camada atual=0.28
+2026-07-09 20:17:58,545 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.025987Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:18:08,404 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3868006 | Output=12431 | Colunas=11 | Tempo=0:00:09.856140Camada anterior=77.33Camada atual=0.25
+2026-07-09 20:23:55,546 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3868013 | Output=3868013 | Colunas=16 | Tempo=0:00:21.300427Camada anterior=67.59Camada atual=77.33
+2026-07-09 20:23:55,743 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.194495Camada anterior=0.47Camada atual=0.58
+2026-07-09 20:23:55,775 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.030866Camada anterior=0.02Camada atual=0.02
+2026-07-09 20:23:55,792 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.015305Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:23:55,868 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.072929Camada anterior=0.21Camada atual=0.28
+2026-07-09 20:23:55,893 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.024278Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:24:05,668 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3868013 | Output=12431 | Colunas=11 | Tempo=0:00:09.773226Camada anterior=77.33Camada atual=0.25
+2026-07-09 20:25:55,621 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3867999 | Output=3867999 | Colunas=16 | Tempo=0:00:12.939986Camada anterior=67.59Camada atual=77.33
+2026-07-09 20:25:55,785 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.161770Camada anterior=0.47Camada atual=0.58
+2026-07-09 20:25:55,815 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.029148Camada anterior=0.02Camada atual=0.02
+2026-07-09 20:25:55,837 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.020559Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:25:55,897 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.058844Camada anterior=0.21Camada atual=0.28
+2026-07-09 20:25:55,925 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.027469Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:26:05,926 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3867999 | Output=12431 | Colunas=11 | Tempo=0:00:09.998878Camada anterior=77.33Camada atual=0.25
+2026-07-09 20:29:44,281 | INFO | Pipeline=Silver | Tabela=alunos | Status=SUCESSO | Input=3868004 | Output=3868004 | Colunas=16 | Tempo=0:00:22.392995Camada anterior=67.59Camada atual=77.33
+2026-07-09 20:29:44,486 | INFO | Pipeline=Silver | Tabela=municipio | Status=SUCESSO | Input=23995 | Output=23995 | Colunas=19 | Tempo=0:00:00.202358Camada anterior=0.47Camada atual=0.58
+2026-07-09 20:29:44,519 | INFO | Pipeline=Silver | Tabela=uf | Status=SUCESSO | Input=145 | Output=145 | Colunas=19 | Tempo=0:00:00.031684Camada anterior=0.02Camada atual=0.02
+2026-07-09 20:29:44,538 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_brasil | Status=SUCESSO | Input=3 | Output=3 | Colunas=12 | Tempo=0:00:00.017937Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:29:44,608 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_municipio | Status=SUCESSO | Input=10704 | Output=10704 | Colunas=17 | Tempo=0:00:00.068656Camada anterior=0.21Camada atual=0.28
+2026-07-09 20:29:44,633 | INFO | Pipeline=Silver | Tabela=meta_alfabetizacao_uf | Status=SUCESSO | Input=81 | Output=81 | Colunas=16 | Tempo=0:00:00.023655Camada anterior=0.01Camada atual=0.01
+2026-07-09 20:29:54,745 | INFO | Pipeline=Gold | Tabela=Indicadores | Status=SUCESSO | Input=3868004 | Output=12431 | Colunas=11 | Tempo=0:00:10.108941Camada anterior=77.33Camada atual=0.25

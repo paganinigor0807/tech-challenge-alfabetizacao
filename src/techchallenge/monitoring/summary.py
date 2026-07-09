@@ -29,8 +29,8 @@ class PipelineSummary:
         print(f"Tabelas processadas : {self.tables}")
         print(f"Linhas processadas : {self.rows}")
         print(f"Tempo total        : {self.total_time:.2f} s")
-        print(f"Bronze             : {self.bronze_size:.2f} MB")
-        print(f"Silver             : {self.silver_size:.2f} MB")
+        print(f"Camada anterior    : {self.bronze_size:.2f} MB")
+        print(f"Camada atual       : {self.silver_size:.2f} MB")
         print(f"Variação           : {variation:.2f}%")
 
         print("=" * 60)

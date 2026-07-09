@@ -55,8 +55,8 @@ class PipelineMonitor:
         print(f"Linhas entrada : {input_rows}")
         print(f"Linhas saída   : {output_rows}")
         print(f"Colunas        : {columns}")
-        print(f"Tamanho Bronze : {bronze_size} MB")
-        print(f"Tamanho Silver : {silver_size} MB")
+        print(f"Camanda anterior : {bronze_size} MB")
+        print(f"Camada atual : {silver_size} MB")
         print(f"Variação : {variation}%")
 
 
@@ -72,8 +72,8 @@ class PipelineMonitor:
                 f"Output={output_rows} | "
                 f"Colunas={columns} | "
                 f"Tempo={duration}"
-                f"Bronze={bronze_size}"
-                f"Silver={silver_size}"
+                f"Camada anterior={bronze_size}"
+                f"Camada atual={silver_size}"
             )
         )
 

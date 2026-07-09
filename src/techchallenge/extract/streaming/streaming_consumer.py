@@ -74,9 +74,5 @@ class StreamingConsumer:
         self._save_parquet(dataframe)
         self._move_processed_files(arquivos)
 
-        print(dataframe.head())
-
         print("\nColunas:")
-
-        print(list(dataframe.columns))
     

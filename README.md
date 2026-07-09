@@ -1,138 +1,266 @@
-# Tech Challenge - Pipeline de Engenharia de Dados para Avaliação da Alfabetização
+# Tech Challenge - Pipeline de Engenharia de Dados
 
 ## Objetivo
 
-Este projeto implementa uma pipeline de Engenharia de Dados para
-extração, tratamento, monitoramento e disponibilização de dados da
-Avaliação da Alfabetização. Os dados são extraídos do Google BigQuery e
-organizados em uma arquitetura em camadas (Bronze, Silver e futuramente
-Gold).
+Este projeto implementa uma arquitetura de Engenharia de Dados utilizando processamento **Batch** e **Streaming**, organizados em uma arquitetura em camadas (**Bronze, Silver e Gold**).
 
-## Arquitetura
+O objetivo é construir um pipeline capaz de:
 
-``` text
-BigQuery
-      │
-      ▼
- Bronze Pipeline
-      │
-      ▼
-Bronze (Parquet)
-      │
-      ▼
- Silver Pipeline
-      │
-      ▼
-Silver (Parquet)
-      │
-      ▼
-Gold (Em desenvolvimento)
+- Extrair dados de diferentes fontes;
+- Padronizar e enriquecer os dados;
+- Consolidar informações analíticas;
+- Disponibilizar tabelas dimensionais e fatos para análise.
+
+---
+
+# Arquitetura
+
+```
+                +----------------+
+                | Banco SQL      |
+                +-------+--------+
+                        |
+                        v
+                Bronze (Batch)
+                        |
+                        |
+                        |
+ Streaming Producer      |
+(simulador_streaming)    |
+        |               |
+        v               |
+temp_streaming_input    |
+        |               |
+        v               |
+ Streaming Consumer      |
+        |               |
+        v               |
+ Bronze (Streaming) -----+
+                        |
+                        v
+                     Silver
+                        |
+                        v
+                      Gold
 ```
 
-## Estrutura do Projeto
+---
 
-``` text
-credentials/
-data/
- ├── bronze/
- ├── silver/
- └── gold/
-docs/
-logs/
+# Estrutura do Projeto
+
+```
 src/
-tests/
-README.md
+└── techchallenge/
+    ├── batch.py
+    ├── streaming.py
+    ├── pipeline.py
+    ├── batch_orchestrator.py
+    ├── streaming_orchestrator.py
+    │
+    ├── extract/
+    ├── transform/
+    ├── load/
+    ├── monitoring/
+    ├── config/
+    │
+    └── streaming/
+        ├── simulador_streaming.py
+        └── streaming_consumer.py
+
+data/
+├── bronze/
+│   ├── batch/
+│   └── streaming/
+├── silver/
+├── gold/
+├── temp_streaming_input/
+└── temp_streaming_processed/
 ```
 
-## Fonte dos Dados
+---
 
-Dataset: `basedosdados.br_inep_avaliacao_alfabetizacao`
+# Camadas
 
-Tabelas: - alunos - municipio - uf - meta_brasil - meta_municipio -
-meta_uf
+## Bronze
 
-## Camada Bronze
+Responsável pela ingestão dos dados.
 
--   Extração dos dados do BigQuery
--   Armazenamento em Parquet
--   Preservação dos dados originais
--   Monitoramento da execução
+### Batch
 
-## Camada Silver
+Extrai dados diretamente do banco SQL e grava em formato Parquet.
 
--   Padronização dos nomes das colunas
--   Remoção de espaços em branco
--   Remoção de duplicidades
--   Enriquecimento utilizando tabelas de domínio (CSV)
+### Streaming
 
-## Camada Gold
+Recebe eventos em formato JSON, realiza a ingestão e converte para Parquet.
 
-Em desenvolvimento.
+Nenhuma transformação de negócio é realizada nesta camada.
 
-## Monitoramento
+---
 
-As pipelines Bronze e Silver registram:
+## Silver
 
--   Horário de início e término
--   Tempo de execução
--   Quantidade de linhas
--   Quantidade de colunas
--   Throughput
--   Tamanho dos arquivos
--   Variação de armazenamento
--   Status da execução
+Responsável pelo tratamento dos dados.
 
-Os registros são gravados em `logs/pipeline.log`.
+Nesta etapa são realizados:
 
-## FinOps
+- Padronização de nomes de colunas;
+- Remoção de espaços;
+- Remoção de duplicidades;
+- Enriquecimento através de tabelas de referência;
+- Consolidação dos dados Batch + Streaming.
 
-Boas práticas implementadas:
+---
 
--   Utilização do formato Parquet
--   Monitoramento do tamanho dos arquivos
--   Medição de throughput
--   Reutilização de DataFrames
--   Enriquecimento condicional
--   Histórico de execução
+## Gold
 
-## Tratamento de Erros
+Responsável pela modelagem analítica.
 
--   Captura de exceções
--   Registro em log
--   Identificação da tabela que falhou
+São produzidas:
 
-## Tecnologias
+### Dimensões
 
--   Python
--   Pandas
--   Google BigQuery
--   Parquet
--   Logging
--   Pathlib
+- Município
+- UF
+- Rede
+- Tempo
 
-## Como executar
+### Tabelas Fato
 
-### Instalar dependências
+- Alfabetização Município
+- Alfabetização UF
+- Alfabetização Brasil
 
-``` bash
-pip install -r requirements.txt
+As tabelas fato possuem indicadores como:
+
+- alunos avaliados
+- alunos alfabetizados
+- alunos presentes
+- provas preenchidas
+- taxa de alfabetização
+- taxa de presença
+- taxa de preenchimento
+
+---
+
+# Fluxo Batch
+
+```
+Banco SQL
+    │
+    ▼
+Bronze Batch
+    ▼
+Silver
+    ▼
+Gold
 ```
 
-### Executar Bronze
+Execução:
 
-``` bash
-python -m tests.test_bronze_pipeline
+```bash
+python -m src.techchallenge.batch
 ```
 
-### Executar Silver
+---
 
-``` bash
-python -m tests.test_silver_pipeline
+# Fluxo Streaming
+
+## 1. Iniciar o simulador
+
+```bash
+python -m src.techchallenge.streaming.simulador_streaming
 ```
 
-## Próximas Evoluções
+O simulador gera continuamente arquivos JSON simulando a chegada de novos eventos.
 
--   Camada Gold
--   Modelo dimensional
--   Dashboards analíticos
--   Indicadores de alfabetização
+---
+
+## 2. Processar o Streaming
+
+```bash
+python -m src.techchallenge.streaming
+```
+
+Fluxo:
+
+```
+JSON
+    │
+    ▼
+Streaming Consumer
+    ▼
+Bronze Streaming
+    ▼
+Silver
+    ▼
+Gold
+```
+
+---
+
+# Monitoramento
+
+Cada etapa do pipeline registra:
+
+- tempo de execução;
+- quantidade de registros de entrada;
+- quantidade de registros de saída;
+- quantidade de colunas processadas;
+- arquivos produzidos.
+
+Ao final da execução é apresentado um resumo da pipeline.
+
+---
+
+# Tecnologias
+
+- Python
+- Pandas
+- SQLAlchemy
+- Parquet
+- PyArrow
+
+---
+
+# Modelo Dimensional
+
+## Dimensões
+
+- Dim Município
+- Dim UF
+- Dim Rede
+- Dim Tempo
+
+## Fatos
+
+- Fato Alfabetização Município
+- Fato Alfabetização UF
+- Fato Alfabetização Brasil
+
+---
+
+# Execução
+
+## Batch
+
+```bash
+python -m src.techchallenge.batch
+```
+
+## Simulador Streaming
+
+```bash
+python -m src.techchallenge.streaming.simulador_streaming
+```
+
+## Pipeline Streaming
+
+```bash
+python -m src.techchallenge.streaming
+```
+
+---
+
+# Autor
+
+Tech Challenge – Pós-graduação em Engenharia de Dados
